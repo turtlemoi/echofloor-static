@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T14:29:57.325Z",
+  "updatedAt": "2026-05-25T14:35:24.727Z",
   "sheets": [
     {
       "name": "Common",
@@ -24,6 +24,12 @@
       "version": 2,
       "hash": "6d8eeb98f2dd3a3ed5d5d4d14d8eb5b96f41ad60a92b51a07061fde23c600da4",
       "url": "/static/Cards.json"
+    },
+    {
+      "name": "AttackCards",
+      "version": 2,
+      "hash": "299b4131ff0bfd4518d4bc8dba7ad2639a420d2a12c1d68138a06722f7a76045",
+      "url": "/static/AttackCards.json"
     },
     {
       "name": "SkillCards",

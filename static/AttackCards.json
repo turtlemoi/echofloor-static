@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "ID": 1,
+      "Tier": null,
+      "AttackType": null,
+      "AttackValue": null,
+      "CoolDown": null,
+      "AttackRange": null,
+      "PrefabName": null
+    },
+    {
+      "ID": 2,
+      "Tier": null,
+      "AttackType": null,
+      "AttackValue": null,
+      "CoolDown": null,
+      "AttackRange": null,
+      "PrefabName": null
+    },
+    {
+      "ID": 3,
+      "Tier": null,
+      "AttackType": null,
+      "AttackValue": null,
+      "CoolDown": null,
+      "AttackRange": null,
+      "PrefabName": null
+    }
+  ]
+}
