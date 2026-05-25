@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T14:04:36.553Z",
+  "updatedAt": "2026-05-25T14:23:00.409Z",
   "sheets": [
     {
       "name": "Common",
@@ -8,15 +8,21 @@
       "url": "/static/Common.json"
     },
     {
+      "name": "플로어데이터",
+      "version": 1,
+      "hash": "e00ee533a8d3b3bd48f7a0398f028ebc8ae0e3433c6a61183bf6b0ca14f3a4ef",
+      "url": "/static/플로어데이터.json"
+    },
+    {
       "name": "BattleData",
       "version": 2,
-      "hash": "9dcc216d5e688fbd94c2f6cbc68c6b45e86cd269d3a3a0abe47a3dd14c2578db",
+      "hash": "8a3a61df9f13aa87b4a9ea4cff4c0bdd2422f85dd9c1959fd81c10e4809efb04",
       "url": "/static/BattleData.json"
     },
     {
       "name": "Cards",
       "version": 1,
-      "hash": "1a439ea2210a06376373bf2ece931017242094c38cc0f78198e4392ac7b3ecfe",
+      "hash": "0c57ef6ef234953fc2893d9c4f907e2f905b503a084aa0c4e30189014d8218d9",
       "url": "/static/Cards.json"
     },
     {
@@ -39,8 +45,8 @@
     },
     {
       "name": "Creature",
-      "version": 1,
-      "hash": "6b48e835569bc2266517d731e70e4e11da30f236a8e194f7ddbc914600aef879",
+      "version": 2,
+      "hash": "26bfbb62f7c9210ff5697f1fdf7e97a18903621beebf85925544bd3658bc0c04",
       "url": "/static/Creature.json"
     },
     {
