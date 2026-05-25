@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-05-25T13:57:50.903Z",
+  "updatedAt": "2026-05-25T14:00:34.997Z",
   "sheets": [
     {
       "name": "Common",
       "version": 1,
       "hash": "77ab97be2fb6bca8ba985132c0b1b2eeebabba9435a0ab1b005f8d8c5b814cf8",
       "url": "/static/Common.json"
+    },
+    {
+      "name": "BattleData",
+      "version": 1,
+      "hash": "29dcf40fce601272f9df67353fe6c74ac3b2304f94bf4979160a2182c34e62f4",
+      "url": "/static/BattleData.json"
     },
     {
       "name": "Cards",

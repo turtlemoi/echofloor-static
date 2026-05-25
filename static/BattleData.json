@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "ID": 1,
+      "Type": 0,
+      "Chapter": 1,
+      "Section": "0,1",
+      "Wave1": "111:2",
+      "Duration1": 6,
+      "Wave2": "",
+      "Duration2": "",
+      "Wave3": "",
+      "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
+      "HPValue": 1,
+      "DamageValue": 1
+    },
+    {
+      "ID": 2,
+      "Type": 0,
+      "Chapter": 1,
+      "Section": "0,1",
+      "Wave1": "112:3",
+      "Duration1": 6,
+      "Wave2": "",
+      "Duration2": "",
+      "Wave3": "",
+      "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
+      "HPValue": 1,
+      "DamageValue": 1
+    },
+    {
+      "ID": 3,
+      "Type": 0,
+      "Chapter": 1,
+      "Section": "0,1",
+      "Wave1": "113:1",
+      "Duration1": 6,
+      "Wave2": "",
+      "Duration2": "",
+      "Wave3": "",
+      "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
+      "HPValue": 1,
+      "DamageValue": 1
+    }
+  ]
+}
