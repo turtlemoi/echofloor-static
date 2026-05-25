@@ -2,7 +2,7 @@
   "data": [
     {
       "ID": 20001,
-      "SkillType": 2,
+      "CardType": 2,
       "Name": "SKILL_20001",
       "Desc": "SKILL_20001_DESC",
       "Tier": 1,
@@ -10,7 +10,7 @@
     },
     {
       "ID": 20002,
-      "SkillType": 2,
+      "CardType": 2,
       "Name": "SKILL_20002",
       "Desc": "SKILL_20002_DESC",
       "Tier": 1,
@@ -18,7 +18,7 @@
     },
     {
       "ID": 20003,
-      "SkillType": 2,
+      "CardType": 2,
       "Name": "SKILL_20003",
       "Desc": "SKILL_20003_DESC",
       "Tier": 1,
@@ -26,7 +26,7 @@
     },
     {
       "ID": 20004,
-      "SkillType": 2,
+      "CardType": 2,
       "Name": "SKILL_20004",
       "Desc": "SKILL_20004_DESC",
       "Tier": 1,
@@ -34,7 +34,7 @@
     },
     {
       "ID": 20005,
-      "SkillType": 2,
+      "CardType": 2,
       "Name": "SKILL_20005",
       "Desc": "SKILL_20005_DESC",
       "Tier": 3,
@@ -42,7 +42,7 @@
     },
     {
       "ID": 20006,
-      "SkillType": 2,
+      "CardType": 2,
       "Name": "SKILL_20006",
       "Desc": "SKILL_20006_DESC",
       "Tier": 2,
@@ -50,7 +50,7 @@
     },
     {
       "ID": 20007,
-      "SkillType": 2,
+      "CardType": 2,
       "Name": "SKILL_20007",
       "Desc": "SKILL_20007_DESC",
       "Tier": 1,
@@ -58,7 +58,7 @@
     },
     {
       "ID": 20008,
-      "SkillType": 2,
+      "CardType": 2,
       "Name": "SKILL_20008",
       "Desc": "SKILL_20008_DESC",
       "Tier": 3,
@@ -66,7 +66,7 @@
     },
     {
       "ID": 20009,
-      "SkillType": 2,
+      "CardType": 2,
       "Name": "SKILL_20009",
       "Desc": "SKILL_20009_DESC",
       "Tier": 2,
@@ -74,7 +74,7 @@
     },
     {
       "ID": 20010,
-      "SkillType": 2,
+      "CardType": 2,
       "Name": "SKILL_20010",
       "Desc": "SKILL_20010_DESC",
       "Tier": 3,
@@ -82,7 +82,7 @@
     },
     {
       "ID": 20011,
-      "SkillType": 2,
+      "CardType": 2,
       "Name": "SKILL_20011",
       "Desc": "SKILL_20011_DESC",
       "Tier": 3,
@@ -90,7 +90,7 @@
     },
     {
       "ID": 20012,
-      "SkillType": 2,
+      "CardType": 2,
       "Name": "SKILL_20012",
       "Desc": "SKILL_20012_DESC",
       "Tier": 2,
@@ -98,7 +98,7 @@
     },
     {
       "ID": 20013,
-      "SkillType": 2,
+      "CardType": 2,
       "Name": "SKILL_20013",
       "Desc": "SKILL_20013_DESC",
       "Tier": 1,
@@ -106,7 +106,7 @@
     },
     {
       "ID": 20014,
-      "SkillType": 2,
+      "CardType": 2,
       "Name": "SKILL_20014",
       "Desc": "SKILL_20014_DESC",
       "Tier": 1,
@@ -114,7 +114,7 @@
     },
     {
       "ID": 20015,
-      "SkillType": 2,
+      "CardType": 2,
       "Name": "SKILL_20015",
       "Desc": "SKILL_20015_DESC",
       "Tier": 2,
@@ -122,7 +122,7 @@
     },
     {
       "ID": 20016,
-      "SkillType": 2,
+      "CardType": 2,
       "Name": "SKILL_20016",
       "Desc": "SKILL_20016_DESC",
       "Tier": 2,
@@ -130,7 +130,7 @@
     },
     {
       "ID": 20017,
-      "SkillType": 2,
+      "CardType": 2,
       "Name": "SKILL_20017",
       "Desc": "SKILL_20017_DESC",
       "Tier": 3,
@@ -138,7 +138,7 @@
     },
     {
       "ID": 20018,
-      "SkillType": 2,
+      "CardType": 2,
       "Name": "SKILL_20018",
       "Desc": "SKILL_20018_DESC",
       "Tier": 1,
@@ -146,7 +146,7 @@
     },
     {
       "ID": 20019,
-      "SkillType": 2,
+      "CardType": 2,
       "Name": "SKILL_20019",
       "Desc": "SKILL_20019_DESC",
       "Tier": 2,
@@ -154,7 +154,7 @@
     },
     {
       "ID": 20020,
-      "SkillType": 2,
+      "CardType": 2,
       "Name": "SKILL_20020",
       "Desc": "SKILL_20020_DESC",
       "Tier": 1,
@@ -162,7 +162,7 @@
     },
     {
       "ID": 20021,
-      "SkillType": 2,
+      "CardType": 2,
       "Name": "SKILL_20021",
       "Desc": "SKILL_20021_DESC",
       "Tier": 2,
@@ -170,7 +170,7 @@
     },
     {
       "ID": 30001,
-      "SkillType": 3,
+      "CardType": 3,
       "Name": "SKILL_30001",
       "Desc": "SKILL_30001_DESC",
       "Tier": 2,
@@ -178,7 +178,7 @@
     },
     {
       "ID": 30002,
-      "SkillType": 3,
+      "CardType": 3,
       "Name": "SKILL_30002",
       "Desc": "SKILL_30002_DESC",
       "Tier": 2,
@@ -186,7 +186,7 @@
     },
     {
       "ID": 30003,
-      "SkillType": 3,
+      "CardType": 3,
       "Name": "SKILL_30003",
       "Desc": "SKILL_30003_DESC",
       "Tier": 1,
@@ -194,7 +194,7 @@
     },
     {
       "ID": 30004,
-      "SkillType": 3,
+      "CardType": 3,
       "Name": "SKILL_30004",
       "Desc": "SKILL_30004_DESC",
       "Tier": 1,
@@ -202,7 +202,7 @@
     },
     {
       "ID": 30005,
-      "SkillType": 3,
+      "CardType": 3,
       "Name": "SKILL_30005",
       "Desc": "SKILL_30005_DESC",
       "Tier": 1,
@@ -210,7 +210,7 @@
     },
     {
       "ID": 30006,
-      "SkillType": 3,
+      "CardType": 3,
       "Name": "SKILL_30006",
       "Desc": "SKILL_30006_DESC",
       "Tier": 2,
@@ -218,7 +218,7 @@
     },
     {
       "ID": 30007,
-      "SkillType": 3,
+      "CardType": 3,
       "Name": "SKILL_30007",
       "Desc": "SKILL_30007_DESC",
       "Tier": 3,
@@ -226,7 +226,7 @@
     },
     {
       "ID": 30008,
-      "SkillType": 3,
+      "CardType": 3,
       "Name": "SKILL_30008",
       "Desc": "SKILL_30008_DESC",
       "Tier": 1,
@@ -234,7 +234,7 @@
     },
     {
       "ID": 30009,
-      "SkillType": 3,
+      "CardType": 3,
       "Name": "SKILL_30009",
       "Desc": "SKILL_30009_DESC",
       "Tier": 1,
@@ -242,7 +242,7 @@
     },
     {
       "ID": 30010,
-      "SkillType": 3,
+      "CardType": 3,
       "Name": "SKILL_30010",
       "Desc": "SKILL_30010_DESC",
       "Tier": 3,
@@ -250,7 +250,7 @@
     },
     {
       "ID": 30011,
-      "SkillType": 3,
+      "CardType": 3,
       "Name": "SKILL_30011",
       "Desc": "SKILL_30011_DESC",
       "Tier": 1,
@@ -258,7 +258,7 @@
     },
     {
       "ID": 30012,
-      "SkillType": 3,
+      "CardType": 3,
       "Name": "SKILL_30012",
       "Desc": "SKILL_30012_DESC",
       "Tier": 3,
@@ -266,7 +266,7 @@
     },
     {
       "ID": 30013,
-      "SkillType": 3,
+      "CardType": 3,
       "Name": "SKILL_30013",
       "Desc": "SKILL_30013_DESC",
       "Tier": 3,
@@ -274,7 +274,7 @@
     },
     {
       "ID": 30014,
-      "SkillType": 3,
+      "CardType": 3,
       "Name": "SKILL_30014",
       "Desc": "SKILL_30014_DESC",
       "Tier": 3,
@@ -282,7 +282,7 @@
     },
     {
       "ID": 30015,
-      "SkillType": 3,
+      "CardType": 3,
       "Name": "SKILL_30015",
       "Desc": "SKILL_30015_DESC",
       "Tier": 2,
@@ -290,7 +290,7 @@
     },
     {
       "ID": 30016,
-      "SkillType": 3,
+      "CardType": 3,
       "Name": "SKILL_30016",
       "Desc": "SKILL_30016_DESC",
       "Tier": 2,
@@ -298,7 +298,7 @@
     },
     {
       "ID": 30017,
-      "SkillType": 3,
+      "CardType": 3,
       "Name": "SKILL_30017",
       "Desc": "SKILL_30017_DESC",
       "Tier": 2,
@@ -306,7 +306,7 @@
     },
     {
       "ID": 30018,
-      "SkillType": 3,
+      "CardType": 3,
       "Name": "SKILL_30018",
       "Desc": "SKILL_30018_DESC",
       "Tier": 1,
@@ -314,7 +314,7 @@
     },
     {
       "ID": 30019,
-      "SkillType": 3,
+      "CardType": 3,
       "Name": "SKILL_30019",
       "Desc": "SKILL_30019_DESC",
       "Tier": 3,
@@ -322,7 +322,7 @@
     },
     {
       "ID": 30020,
-      "SkillType": 3,
+      "CardType": 3,
       "Name": "SKILL_30020",
       "Desc": "SKILL_30020_DESC",
       "Tier": 3,
@@ -330,7 +330,7 @@
     },
     {
       "ID": 30021,
-      "SkillType": 3,
+      "CardType": 3,
       "Name": "SKILL_30021",
       "Desc": "SKILL_30021_DESC",
       "Tier": 2,
@@ -338,7 +338,7 @@
     },
     {
       "ID": 30022,
-      "SkillType": 3,
+      "CardType": 3,
       "Name": "SKILL_30022",
       "Desc": "SKILL_30022_DESC",
       "Tier": 1,
