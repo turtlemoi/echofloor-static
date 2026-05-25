@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T14:29:18.847Z",
+  "updatedAt": "2026-05-25T14:29:57.325Z",
   "sheets": [
     {
       "name": "Common",
@@ -8,10 +8,10 @@
       "url": "/static/Common.json"
     },
     {
-      "name": "플로어데이터",
-      "version": 1,
+      "name": "FloorData",
+      "version": 2,
       "hash": "bd18ae89a252363c6d568a8879d54c70ace22e39eeca413df28dfb50cdeef614",
-      "url": "/static/플로어데이터.json"
+      "url": "/static/FloorData.json"
     },
     {
       "name": "BattleData",

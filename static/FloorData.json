@@ -1,0 +1,499 @@
+{
+  "data": [
+    {
+      "ID": 1,
+      "Chapter": 1,
+      "Section": 0,
+      "Battle": "",
+      "GetCard": "",
+      "Shop": "",
+      "Augment": "있음"
+    },
+    {
+      "ID": 2,
+      "Chapter": 1,
+      "Section": 1,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 3,
+      "Chapter": 1,
+      "Section": 2,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 4,
+      "Chapter": 1,
+      "Section": 3,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
+    },
+    {
+      "ID": 5,
+      "Chapter": 1,
+      "Section": 4,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 6,
+      "Chapter": 1,
+      "Section": 5,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 7,
+      "Chapter": 1,
+      "Section": 6,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
+    },
+    {
+      "ID": 8,
+      "Chapter": 1,
+      "Section": 7,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 9,
+      "Chapter": 1,
+      "Section": 8,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 10,
+      "Chapter": 1,
+      "Section": 9,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
+    },
+    {
+      "ID": 11,
+      "Chapter": 1,
+      "Section": 10,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 12,
+      "Chapter": 2,
+      "Section": 0,
+      "Battle": "",
+      "GetCard": "",
+      "Shop": "",
+      "Augment": "있음"
+    },
+    {
+      "ID": 13,
+      "Chapter": 2,
+      "Section": 1,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 14,
+      "Chapter": 2,
+      "Section": 2,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 15,
+      "Chapter": 2,
+      "Section": 3,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
+    },
+    {
+      "ID": 16,
+      "Chapter": 2,
+      "Section": 4,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 17,
+      "Chapter": 2,
+      "Section": 5,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 18,
+      "Chapter": 2,
+      "Section": 6,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
+    },
+    {
+      "ID": 19,
+      "Chapter": 2,
+      "Section": 7,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 20,
+      "Chapter": 2,
+      "Section": 8,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 21,
+      "Chapter": 2,
+      "Section": 9,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
+    },
+    {
+      "ID": 22,
+      "Chapter": 2,
+      "Section": 10,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 23,
+      "Chapter": 3,
+      "Section": 0,
+      "Battle": "",
+      "GetCard": "",
+      "Shop": "",
+      "Augment": "있음"
+    },
+    {
+      "ID": 24,
+      "Chapter": 3,
+      "Section": 1,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 25,
+      "Chapter": 3,
+      "Section": 2,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 26,
+      "Chapter": 3,
+      "Section": 3,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
+    },
+    {
+      "ID": 27,
+      "Chapter": 3,
+      "Section": 4,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 28,
+      "Chapter": 3,
+      "Section": 5,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 29,
+      "Chapter": 3,
+      "Section": 6,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
+    },
+    {
+      "ID": 30,
+      "Chapter": 3,
+      "Section": 7,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 31,
+      "Chapter": 3,
+      "Section": 8,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 32,
+      "Chapter": 3,
+      "Section": 9,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
+    },
+    {
+      "ID": 33,
+      "Chapter": 3,
+      "Section": 10,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 34,
+      "Chapter": 4,
+      "Section": 0,
+      "Battle": "",
+      "GetCard": "",
+      "Shop": "",
+      "Augment": "있음"
+    },
+    {
+      "ID": 35,
+      "Chapter": 4,
+      "Section": 1,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 36,
+      "Chapter": 4,
+      "Section": 2,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 37,
+      "Chapter": 4,
+      "Section": 3,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
+    },
+    {
+      "ID": 38,
+      "Chapter": 4,
+      "Section": 4,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 39,
+      "Chapter": 4,
+      "Section": 5,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 40,
+      "Chapter": 4,
+      "Section": 6,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
+    },
+    {
+      "ID": 41,
+      "Chapter": 4,
+      "Section": 7,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 42,
+      "Chapter": 4,
+      "Section": 8,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 43,
+      "Chapter": 4,
+      "Section": 9,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
+    },
+    {
+      "ID": 44,
+      "Chapter": 4,
+      "Section": 10,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 45,
+      "Chapter": 5,
+      "Section": 0,
+      "Battle": "",
+      "GetCard": "",
+      "Shop": "",
+      "Augment": "있음"
+    },
+    {
+      "ID": 46,
+      "Chapter": 5,
+      "Section": 1,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 47,
+      "Chapter": 5,
+      "Section": 2,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 48,
+      "Chapter": 5,
+      "Section": 3,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
+    },
+    {
+      "ID": 49,
+      "Chapter": 5,
+      "Section": 4,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 50,
+      "Chapter": 5,
+      "Section": 5,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 51,
+      "Chapter": 5,
+      "Section": 6,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
+    },
+    {
+      "ID": 52,
+      "Chapter": 5,
+      "Section": 7,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 53,
+      "Chapter": 5,
+      "Section": 8,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    },
+    {
+      "ID": 54,
+      "Chapter": 5,
+      "Section": 9,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
+    },
+    {
+      "ID": 55,
+      "Chapter": 5,
+      "Section": 10,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
+    }
+  ]
+}
