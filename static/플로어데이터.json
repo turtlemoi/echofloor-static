@@ -1,444 +1,499 @@
 {
   "data": [
     {
-      "플로어": 1,
-      "층": 0,
-      "전투": "",
-      "삼중택일": "",
-      "전투 후 상점": "",
-      "증강 획득": "있음"
+      "ID": 1,
+      "Chapter": 1,
+      "Section": 0,
+      "Battle": "",
+      "GetCard": "",
+      "Shop": "",
+      "Augment": "있음"
     },
     {
-      "플로어": 1,
-      "층": 1,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 2,
+      "Chapter": 1,
+      "Section": 1,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 1,
-      "층": 2,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 3,
+      "Chapter": 1,
+      "Section": 2,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 1,
-      "층": 3,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": "있음",
-      "증강 획득": null
+      "ID": 4,
+      "Chapter": 1,
+      "Section": 3,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
     },
     {
-      "플로어": 1,
-      "층": 4,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 5,
+      "Chapter": 1,
+      "Section": 4,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 1,
-      "층": 5,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 6,
+      "Chapter": 1,
+      "Section": 5,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 1,
-      "층": 6,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": "있음",
-      "증강 획득": null
+      "ID": 7,
+      "Chapter": 1,
+      "Section": 6,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
     },
     {
-      "플로어": 1,
-      "층": 7,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 8,
+      "Chapter": 1,
+      "Section": 7,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 1,
-      "층": 8,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 9,
+      "Chapter": 1,
+      "Section": 8,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 1,
-      "층": 9,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": "있음",
-      "증강 획득": null
+      "ID": 10,
+      "Chapter": 1,
+      "Section": 9,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
     },
     {
-      "플로어": 1,
-      "층": 10,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 11,
+      "Chapter": 1,
+      "Section": 10,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 2,
-      "층": 0,
-      "전투": "",
-      "삼중택일": "",
-      "전투 후 상점": "",
-      "증강 획득": "있음"
+      "ID": 12,
+      "Chapter": 2,
+      "Section": 0,
+      "Battle": "",
+      "GetCard": "",
+      "Shop": "",
+      "Augment": "있음"
     },
     {
-      "플로어": 2,
-      "층": 1,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 13,
+      "Chapter": 2,
+      "Section": 1,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 2,
-      "층": 2,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 14,
+      "Chapter": 2,
+      "Section": 2,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 2,
-      "층": 3,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": "있음",
-      "증강 획득": null
+      "ID": 15,
+      "Chapter": 2,
+      "Section": 3,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
     },
     {
-      "플로어": 2,
-      "층": 4,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 16,
+      "Chapter": 2,
+      "Section": 4,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 2,
-      "층": 5,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 17,
+      "Chapter": 2,
+      "Section": 5,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 2,
-      "층": 6,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": "있음",
-      "증강 획득": null
+      "ID": 18,
+      "Chapter": 2,
+      "Section": 6,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
     },
     {
-      "플로어": 2,
-      "층": 7,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 19,
+      "Chapter": 2,
+      "Section": 7,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 2,
-      "층": 8,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 20,
+      "Chapter": 2,
+      "Section": 8,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 2,
-      "층": 9,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": "있음",
-      "증강 획득": null
+      "ID": 21,
+      "Chapter": 2,
+      "Section": 9,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
     },
     {
-      "플로어": 2,
-      "층": 10,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 22,
+      "Chapter": 2,
+      "Section": 10,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 3,
-      "층": 0,
-      "전투": "",
-      "삼중택일": "",
-      "전투 후 상점": "",
-      "증강 획득": "있음"
+      "ID": 23,
+      "Chapter": 3,
+      "Section": 0,
+      "Battle": "",
+      "GetCard": "",
+      "Shop": "",
+      "Augment": "있음"
     },
     {
-      "플로어": 3,
-      "층": 1,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 24,
+      "Chapter": 3,
+      "Section": 1,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 3,
-      "층": 2,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 25,
+      "Chapter": 3,
+      "Section": 2,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 3,
-      "층": 3,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": "있음",
-      "증강 획득": null
+      "ID": 26,
+      "Chapter": 3,
+      "Section": 3,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
     },
     {
-      "플로어": 3,
-      "층": 4,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 27,
+      "Chapter": 3,
+      "Section": 4,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 3,
-      "층": 5,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 28,
+      "Chapter": 3,
+      "Section": 5,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 3,
-      "층": 6,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": "있음",
-      "증강 획득": null
+      "ID": 29,
+      "Chapter": 3,
+      "Section": 6,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
     },
     {
-      "플로어": 3,
-      "층": 7,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 30,
+      "Chapter": 3,
+      "Section": 7,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 3,
-      "층": 8,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 31,
+      "Chapter": 3,
+      "Section": 8,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 3,
-      "층": 9,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": "있음",
-      "증강 획득": null
+      "ID": 32,
+      "Chapter": 3,
+      "Section": 9,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
     },
     {
-      "플로어": 3,
-      "층": 10,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 33,
+      "Chapter": 3,
+      "Section": 10,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 4,
-      "층": 0,
-      "전투": "",
-      "삼중택일": "",
-      "전투 후 상점": "",
-      "증강 획득": "있음"
+      "ID": 34,
+      "Chapter": 4,
+      "Section": 0,
+      "Battle": "",
+      "GetCard": "",
+      "Shop": "",
+      "Augment": "있음"
     },
     {
-      "플로어": 4,
-      "층": 1,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 35,
+      "Chapter": 4,
+      "Section": 1,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 4,
-      "층": 2,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 36,
+      "Chapter": 4,
+      "Section": 2,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 4,
-      "층": 3,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": "있음",
-      "증강 획득": null
+      "ID": 37,
+      "Chapter": 4,
+      "Section": 3,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
     },
     {
-      "플로어": 4,
-      "층": 4,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 38,
+      "Chapter": 4,
+      "Section": 4,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 4,
-      "층": 5,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 39,
+      "Chapter": 4,
+      "Section": 5,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 4,
-      "층": 6,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": "있음",
-      "증강 획득": null
+      "ID": 40,
+      "Chapter": 4,
+      "Section": 6,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
     },
     {
-      "플로어": 4,
-      "층": 7,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 41,
+      "Chapter": 4,
+      "Section": 7,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 4,
-      "층": 8,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 42,
+      "Chapter": 4,
+      "Section": 8,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 4,
-      "층": 9,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": "있음",
-      "증강 획득": null
+      "ID": 43,
+      "Chapter": 4,
+      "Section": 9,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
     },
     {
-      "플로어": 4,
-      "층": 10,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 44,
+      "Chapter": 4,
+      "Section": 10,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 5,
-      "층": 0,
-      "전투": "",
-      "삼중택일": "",
-      "전투 후 상점": "",
-      "증강 획득": "있음"
+      "ID": 45,
+      "Chapter": 5,
+      "Section": 0,
+      "Battle": "",
+      "GetCard": "",
+      "Shop": "",
+      "Augment": "있음"
     },
     {
-      "플로어": 5,
-      "층": 1,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 46,
+      "Chapter": 5,
+      "Section": 1,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 5,
-      "층": 2,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 47,
+      "Chapter": 5,
+      "Section": 2,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 5,
-      "층": 3,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": "있음",
-      "증강 획득": null
+      "ID": 48,
+      "Chapter": 5,
+      "Section": 3,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
     },
     {
-      "플로어": 5,
-      "층": 4,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 49,
+      "Chapter": 5,
+      "Section": 4,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 5,
-      "층": 5,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 50,
+      "Chapter": 5,
+      "Section": 5,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 5,
-      "층": 6,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": "있음",
-      "증강 획득": null
+      "ID": 51,
+      "Chapter": 5,
+      "Section": 6,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
     },
     {
-      "플로어": 5,
-      "층": 7,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 52,
+      "Chapter": 5,
+      "Section": 7,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 5,
-      "층": 8,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 53,
+      "Chapter": 5,
+      "Section": 8,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     },
     {
-      "플로어": 5,
-      "층": 9,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": "있음",
-      "증강 획득": null
+      "ID": 54,
+      "Chapter": 5,
+      "Section": 9,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": "있음",
+      "Augment": null
     },
     {
-      "플로어": 5,
-      "층": 10,
-      "전투": "있음",
-      "삼중택일": "있음",
-      "전투 후 상점": null,
-      "증강 획득": null
+      "ID": 55,
+      "Chapter": 5,
+      "Section": 10,
+      "Battle": "있음",
+      "GetCard": "있음",
+      "Shop": null,
+      "Augment": null
     }
   ]
 }
