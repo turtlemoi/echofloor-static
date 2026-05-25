@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "ID": 20001,
+      "CoolDown": 0.5,
+      "EffectType": 1,
+      "Value1": 2,
+      "Value2": 0,
+      "Value3": 0
+    },
+    {
+      "ID": 20002,
+      "CoolDown": 0.5,
+      "EffectType": 2,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0
+    },
+    {
+      "ID": 20003,
+      "CoolDown": 1,
+      "EffectType": 3,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0
+    },
+    {
+      "ID": 20004,
+      "CoolDown": 0.5,
+      "EffectType": 4,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0
+    },
+    {
+      "ID": 20005,
+      "CoolDown": 1.5,
+      "EffectType": 5,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0
+    },
+    {
+      "ID": 20006,
+      "CoolDown": 0.5,
+      "EffectType": 6,
+      "Value1": 500,
+      "Value2": 0,
+      "Value3": 0
+    },
+    {
+      "ID": 20007,
+      "CoolDown": 1,
+      "EffectType": 7,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0
+    },
+    {
+      "ID": 20008,
+      "CoolDown": 3,
+      "EffectType": 8,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0
+    },
+    {
+      "ID": 20009,
+      "CoolDown": 2,
+      "EffectType": 9,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0
+    },
+    {
+      "ID": 20010,
+      "CoolDown": 3,
+      "EffectType": 10,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0
+    },
+    {
+      "ID": 20011,
+      "CoolDown": 0.5,
+      "EffectType": 11,
+      "Value1": 20,
+      "Value2": 0,
+      "Value3": 0
+    },
+    {
+      "ID": 20012,
+      "CoolDown": 1,
+      "EffectType": 12,
+      "Value1": 40,
+      "Value2": 0,
+      "Value3": 0
+    },
+    {
+      "ID": 20013,
+      "CoolDown": 0.5,
+      "EffectType": 13,
+      "Value1": 2,
+      "Value2": 0,
+      "Value3": 0
+    },
+    {
+      "ID": 20014,
+      "CoolDown": 1,
+      "EffectType": 14,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0
+    },
+    {
+      "ID": 20015,
+      "CoolDown": 2,
+      "EffectType": 15,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0
+    },
+    {
+      "ID": 20016,
+      "CoolDown": 0.5,
+      "EffectType": 16,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0
+    },
+    {
+      "ID": 20017,
+      "CoolDown": 0.5,
+      "EffectType": 17,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0
+    },
+    {
+      "ID": 20018,
+      "CoolDown": 0.5,
+      "EffectType": 18,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0
+    },
+    {
+      "ID": 20019,
+      "CoolDown": 0.5,
+      "EffectType": 19,
+      "Value1": 2,
+      "Value2": 0,
+      "Value3": 0
+    },
+    {
+      "ID": 20020,
+      "CoolDown": 0.5,
+      "EffectType": 20,
+      "Value1": 4,
+      "Value2": 0,
+      "Value3": 0
+    },
+    {
+      "ID": 20021,
+      "CoolDown": 0.5,
+      "EffectType": 21,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0
+    }
+  ]
+}

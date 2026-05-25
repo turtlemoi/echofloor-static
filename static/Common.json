@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "Key": "spawn_distance",
+      "Value": "50"
+    },
+    {
+      "Key": "initial_draw_count",
+      "Value": "4"
+    },
+    {
+      "Key": "max_hand_size",
+      "Value": "10"
+    },
+    {
+      "Key": "augment_drop_init",
+      "Value": "100,0,0"
+    },
+    {
+      "Key": "augment_drop_10",
+      "Value": "50,40,10"
+    },
+    {
+      "Key": "augment_drop_20",
+      "Value": "50,40,10"
+    },
+    {
+      "Key": "augment_drop_30",
+      "Value": "50,40,10"
+    },
+    {
+      "Key": "augment_drop_40",
+      "Value": "50,40,10"
+    },
+    {
+      "Key": "player_weight",
+      "Value": "99.0"
+    },
+    {
+      "Key": "player_speed",
+      "Value": "7.0"
+    },
+    {
+      "Key": "player_damage",
+      "Value": "10"
+    },
+    {
+      "Key": "player_hp",
+      "Value": "100"
+    },
+    {
+      "Key": "player_armor",
+      "Value": "0"
+    },
+    {
+      "Key": "player_critical_chance",
+      "Value": "5"
+    },
+    {
+      "Key": "player_critical_damage",
+      "Value": "150"
+    }
+  ]
+}

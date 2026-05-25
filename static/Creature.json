@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "ID": 111,
+      "PrefabName": "01_slime_blue",
+      "DeadSound_Name": "Death_Slime",
+      "Speed": 6,
+      "Damage": 1,
+      "HP": 15,
+      "Shield": 0,
+      "Armor": 0,
+      "Weight": 1,
+      "BehaviorType": 0,
+      "SkillID": null
+    },
+    {
+      "ID": 112,
+      "PrefabName": "02_slime_green",
+      "DeadSound_Name": "Death_Slime",
+      "Speed": 10,
+      "Damage": 1,
+      "HP": 10,
+      "Shield": 0,
+      "Armor": 0,
+      "Weight": 0.8,
+      "BehaviorType": 0,
+      "SkillID": null
+    },
+    {
+      "ID": 113,
+      "PrefabName": "03_slime_yellow",
+      "DeadSound_Name": "Death_Slime",
+      "Speed": 4,
+      "Damage": 1,
+      "HP": 30,
+      "Shield": 0,
+      "Armor": 0,
+      "Weight": 5,
+      "BehaviorType": 0,
+      "SkillID": null
+    }
+  ]
+}

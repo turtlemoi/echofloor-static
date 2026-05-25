@@ -1,0 +1,348 @@
+{
+  "data": [
+    {
+      "ID": 20001,
+      "Name": "SKILL_20001",
+      "Desc": "SKILL_20001_DESC",
+      "Tier": 1,
+      "SkillType": 2,
+      "ICON": "skillcard_301_double_strike"
+    },
+    {
+      "ID": 20002,
+      "Name": "SKILL_20002",
+      "Desc": "SKILL_20002_DESC",
+      "Tier": 1,
+      "SkillType": 2,
+      "ICON": "skillcard_302_echo"
+    },
+    {
+      "ID": 20003,
+      "Name": "SKILL_20003",
+      "Desc": "SKILL_20003_DESC",
+      "Tier": 1,
+      "SkillType": 2,
+      "ICON": "skillcard_303_resonance"
+    },
+    {
+      "ID": 20004,
+      "Name": "SKILL_20004",
+      "Desc": "SKILL_20004_DESC",
+      "Tier": 1,
+      "SkillType": 2,
+      "ICON": "skillcard_304_barrage"
+    },
+    {
+      "ID": 20005,
+      "Name": "SKILL_20005",
+      "Desc": "SKILL_20005_DESC",
+      "Tier": 3,
+      "SkillType": 2,
+      "ICON": "skillcard_305_snipe"
+    },
+    {
+      "ID": 20006,
+      "Name": "SKILL_20006",
+      "Desc": "SKILL_20006_DESC",
+      "Tier": 2,
+      "SkillType": 2,
+      "ICON": "skillcard_306_power_strike"
+    },
+    {
+      "ID": 20007,
+      "Name": "SKILL_20007",
+      "Desc": "SKILL_20007_DESC",
+      "Tier": 1,
+      "SkillType": 2,
+      "ICON": "skillcard_307_concentrated_fire"
+    },
+    {
+      "ID": 20008,
+      "Name": "SKILL_20008",
+      "Desc": "SKILL_20008_DESC",
+      "Tier": 3,
+      "SkillType": 2,
+      "ICON": "skillcard_308_signal_fire"
+    },
+    {
+      "ID": 20009,
+      "Name": "SKILL_20009",
+      "Desc": "SKILL_20009_DESC",
+      "Tier": 2,
+      "SkillType": 2,
+      "ICON": "skillcard_309_charge"
+    },
+    {
+      "ID": 20010,
+      "Name": "SKILL_20010",
+      "Desc": "SKILL_20010_DESC",
+      "Tier": 3,
+      "SkillType": 2,
+      "ICON": "skillcard_310_volley"
+    },
+    {
+      "ID": 20011,
+      "Name": "SKILL_20011",
+      "Desc": "SKILL_20011_DESC",
+      "Tier": 3,
+      "SkillType": 2,
+      "ICON": "skillcard_311_rising_battle"
+    },
+    {
+      "ID": 20012,
+      "Name": "SKILL_20012",
+      "Desc": "SKILL_20012_DESC",
+      "Tier": 2,
+      "SkillType": 2,
+      "ICON": "skillcard_312_accelerate"
+    },
+    {
+      "ID": 20013,
+      "Name": "SKILL_20013",
+      "Desc": "SKILL_20013_DESC",
+      "Tier": 1,
+      "SkillType": 2,
+      "ICON": "skillcard_313_overload"
+    },
+    {
+      "ID": 20014,
+      "Name": "SKILL_20014",
+      "Desc": "SKILL_20014_DESC",
+      "Tier": 1,
+      "SkillType": 2,
+      "ICON": "skillcard_314_focus"
+    },
+    {
+      "ID": 20015,
+      "Name": "SKILL_20015",
+      "Desc": "SKILL_20015_DESC",
+      "Tier": 2,
+      "SkillType": 2,
+      "ICON": "skillcard_315_synchronize"
+    },
+    {
+      "ID": 20016,
+      "Name": "SKILL_20016",
+      "Desc": "SKILL_20016_DESC",
+      "Tier": 2,
+      "SkillType": 2,
+      "ICON": "skillcard_316_emergency_shuffle"
+    },
+    {
+      "ID": 20017,
+      "Name": "SKILL_20017",
+      "Desc": "SKILL_20017_DESC",
+      "Tier": 3,
+      "SkillType": 2,
+      "ICON": "skillcard_317_curate"
+    },
+    {
+      "ID": 20018,
+      "Name": "SKILL_20018",
+      "Desc": "SKILL_20018_DESC",
+      "Tier": 1,
+      "SkillType": 2,
+      "ICON": "skillcard_318_random_release"
+    },
+    {
+      "ID": 20019,
+      "Name": "SKILL_20019",
+      "Desc": "SKILL_20019_DESC",
+      "Tier": 2,
+      "SkillType": 2,
+      "ICON": "skillcard_319_quick_draw"
+    },
+    {
+      "ID": 20020,
+      "Name": "SKILL_20020",
+      "Desc": "SKILL_20020_DESC",
+      "Tier": 1,
+      "SkillType": 2,
+      "ICON": "skillcard_320_emergency_heal"
+    },
+    {
+      "ID": 20021,
+      "Name": "SKILL_20021",
+      "Desc": "SKILL_20021_DESC",
+      "Tier": 2,
+      "SkillType": 2,
+      "ICON": "skillcard_321_combat_recovery"
+    },
+    {
+      "ID": 30001,
+      "Name": "SKILL_30001",
+      "Desc": "SKILL_30001_DESC",
+      "Tier": 2,
+      "SkillType": 3,
+      "ICON": "powercard_401_double_strike"
+    },
+    {
+      "ID": 30002,
+      "Name": "SKILL_30002",
+      "Desc": "SKILL_30002_DESC",
+      "Tier": 2,
+      "SkillType": 3,
+      "ICON": "powercard_402_combo_flow"
+    },
+    {
+      "ID": 30003,
+      "Name": "SKILL_30003",
+      "Desc": "SKILL_30003_DESC",
+      "Tier": 1,
+      "SkillType": 3,
+      "ICON": "powercard_403_last_roar"
+    },
+    {
+      "ID": 30004,
+      "Name": "SKILL_30004",
+      "Desc": "SKILL_30004_DESC",
+      "Tier": 1,
+      "SkillType": 3,
+      "ICON": "powercard_404_long_fight"
+    },
+    {
+      "ID": 30005,
+      "Name": "SKILL_30005",
+      "Desc": "SKILL_30005_DESC",
+      "Tier": 1,
+      "SkillType": 3,
+      "ICON": "powercard_405_instant_blast"
+    },
+    {
+      "ID": 30006,
+      "Name": "SKILL_30006",
+      "Desc": "SKILL_30006_DESC",
+      "Tier": 2,
+      "SkillType": 3,
+      "ICON": "powercard_406_resonance_seal"
+    },
+    {
+      "ID": 30007,
+      "Name": "SKILL_30007",
+      "Desc": "SKILL_30007_DESC",
+      "Tier": 3,
+      "SkillType": 3,
+      "ICON": "powercard_407_catalyst"
+    },
+    {
+      "ID": 30008,
+      "Name": "SKILL_30008",
+      "Desc": "SKILL_30008_DESC",
+      "Tier": 1,
+      "SkillType": 3,
+      "ICON": "powercard_408_thorns"
+    },
+    {
+      "ID": 30009,
+      "Name": "SKILL_30009",
+      "Desc": "SKILL_30009_DESC",
+      "Tier": 1,
+      "SkillType": 3,
+      "ICON": "powercard_409_second_wind"
+    },
+    {
+      "ID": 30010,
+      "Name": "SKILL_30010",
+      "Desc": "SKILL_30010_DESC",
+      "Tier": 3,
+      "SkillType": 3,
+      "ICON": "powercard_410_berserker_rush"
+    },
+    {
+      "ID": 30011,
+      "Name": "SKILL_30011",
+      "Desc": "SKILL_30011_DESC",
+      "Tier": 1,
+      "SkillType": 3,
+      "ICON": "powercard_411_blood_fight"
+    },
+    {
+      "ID": 30012,
+      "Name": "SKILL_30012",
+      "Desc": "SKILL_30012_DESC",
+      "Tier": 3,
+      "SkillType": 3,
+      "ICON": "powercard_412_intercept"
+    },
+    {
+      "ID": 30013,
+      "Name": "SKILL_30013",
+      "Desc": "SKILL_30013_DESC",
+      "Tier": 3,
+      "SkillType": 3,
+      "ICON": "powercard_413_chain"
+    },
+    {
+      "ID": 30014,
+      "Name": "SKILL_30014",
+      "Desc": "SKILL_30014_DESC",
+      "Tier": 3,
+      "SkillType": 3,
+      "ICON": "powercard_414_recall"
+    },
+    {
+      "ID": 30015,
+      "Name": "SKILL_30015",
+      "Desc": "SKILL_30015_DESC",
+      "Tier": 2,
+      "SkillType": 3,
+      "ICON": "powercard_415_time_reverse"
+    },
+    {
+      "ID": 30016,
+      "Name": "SKILL_30016",
+      "Desc": "SKILL_30016_DESC",
+      "Tier": 2,
+      "SkillType": 3,
+      "ICON": "powercard_416_vanguard"
+    },
+    {
+      "ID": 30017,
+      "Name": "SKILL_30017",
+      "Desc": "SKILL_30017_DESC",
+      "Tier": 2,
+      "SkillType": 3,
+      "ICON": "powercard_417_echo"
+    },
+    {
+      "ID": 30018,
+      "Name": "SKILL_30018",
+      "Desc": "SKILL_30018_DESC",
+      "Tier": 1,
+      "SkillType": 3,
+      "ICON": "powercard_418_potential"
+    },
+    {
+      "ID": 30019,
+      "Name": "SKILL_30019",
+      "Desc": "SKILL_30019_DESC",
+      "Tier": 3,
+      "SkillType": 3,
+      "ICON": "powercard_419_gambler"
+    },
+    {
+      "ID": 30020,
+      "Name": "SKILL_30020",
+      "Desc": "SKILL_30020_DESC",
+      "Tier": 3,
+      "SkillType": 3,
+      "ICON": "powercard_420_skill_heal"
+    },
+    {
+      "ID": 30021,
+      "Name": "SKILL_30021",
+      "Desc": "SKILL_30021_DESC",
+      "Tier": 2,
+      "SkillType": 3,
+      "ICON": "powercard_421_cycle_heal"
+    },
+    {
+      "ID": 30022,
+      "Name": "SKILL_30022",
+      "Desc": "SKILL_30022_DESC",
+      "Tier": 1,
+      "SkillType": 3,
+      "ICON": "powercard_422_reshuffle_heal"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "data": [
+    {
+      "ID": 30001,
+      "CoolDown": 2,
+      "TriggerType": 5,
+      "EffectType": 1,
+      "Value1": 1,
+      "Value2": 0,
+      "Value3": 0,
+      "벨류값": "쌍타 V1: 추가 발동 횟수 (=1)"
+    },
+    {
+      "ID": 30002,
+      "CoolDown": 2,
+      "TriggerType": 1,
+      "EffectType": 2,
+      "Value1": 20,
+      "Value2": 0,
+      "Value3": 0,
+      "벨류값": "연격의 흐름 V1: 타이머 전진 % (20%)"
+    },
+    {
+      "ID": 30003,
+      "CoolDown": 2,
+      "TriggerType": 1,
+      "EffectType": 3,
+      "Value1": 100,
+      "Value2": 0,
+      "Value3": 0,
+      "벨류값": "최후의 포효 V1: 피해 증가 % (80%)"
+    },
+    {
+      "ID": 30004,
+      "CoolDown": 2,
+      "TriggerType": 5,
+      "EffectType": 4,
+      "Value1": 3,
+      "Value2": 0,
+      "Value3": 0,
+      "벨류값": "장기전의 용사 V1: 순환당 공격력 고정 증가량 (3)"
+    },
+    {
+      "ID": 30005,
+      "CoolDown": 2,
+      "TriggerType": 2,
+      "EffectType": 5,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0,
+      "벨류값": null
+    },
+    {
+      "ID": 30006,
+      "CoolDown": 2,
+      "TriggerType": 2,
+      "EffectType": 6,
+      "Value1": 1,
+      "Value2": 0,
+      "Value3": 0,
+      "벨류값": "공명의 인장 V1: 추가 발동 횟수 (1)"
+    },
+    {
+      "ID": 30007,
+      "CoolDown": 2,
+      "TriggerType": 2,
+      "EffectType": 7,
+      "Value1": 20,
+      "Value2": 0,
+      "Value3": 0,
+      "벨류값": "촉매 V1: 타이머 전진 % (20%)"
+    },
+    {
+      "ID": 30008,
+      "CoolDown": 2,
+      "TriggerType": 3,
+      "EffectType": 8,
+      "Value1": 5,
+      "Value2": 0,
+      "Value3": 0,
+      "벨류값": "반격의 가시 V1: 반격 고정 피해 (5)"
+    },
+    {
+      "ID": 30009,
+      "CoolDown": 2,
+      "TriggerType": 3,
+      "EffectType": 9,
+      "Value1": 20,
+      "Value2": 1,
+      "Value3": 0,
+      "벨류값": "기사회생 V1: 발동 확률% (25), V2: 회복량 (8)"
+    },
+    {
+      "ID": 30010,
+      "CoolDown": 2,
+      "TriggerType": 0,
+      "EffectType": 10,
+      "Value1": 20,
+      "Value2": 0,
+      "Value3": 0,
+      "벨류값": "분노의 비상 V1: 최대 쿨타임 단축% (20)"
+    },
+    {
+      "ID": 30011,
+      "CoolDown": 2,
+      "TriggerType": 0,
+      "EffectType": 11,
+      "Value1": 30,
+      "Value2": 0,
+      "Value3": 0,
+      "벨류값": "혈투 V1: 최대 치명타 증가% (30)"
+    },
+    {
+      "ID": 30012,
+      "CoolDown": 2,
+      "TriggerType": 3,
+      "EffectType": 12,
+      "Value1": 30,
+      "Value2": 0,
+      "Value3": 0,
+      "벨류값": "요격 V1: 발동 확률% (30)"
+    },
+    {
+      "ID": 30013,
+      "CoolDown": 2,
+      "TriggerType": 1,
+      "EffectType": 13,
+      "Value1": 25,
+      "Value2": 0,
+      "Value3": 0,
+      "벨류값": "연쇄 V1: 발동 확률% (25)"
+    },
+    {
+      "ID": 30014,
+      "CoolDown": 2,
+      "TriggerType": 5,
+      "EffectType": 14,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0,
+      "벨류값": null
+    },
+    {
+      "ID": 30015,
+      "CoolDown": 2,
+      "TriggerType": 5,
+      "EffectType": 15,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0,
+      "벨류값": null
+    },
+    {
+      "ID": 30016,
+      "CoolDown": 2,
+      "TriggerType": 5,
+      "EffectType": 16,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0,
+      "벨류값": null
+    },
+    {
+      "ID": 30017,
+      "CoolDown": 2,
+      "TriggerType": 0,
+      "EffectType": 17,
+      "Value1": 1,
+      "Value2": 100,
+      "Value3": 0,
+      "벨류값": "잔향 V1: 더미 카드 1장당 단축% (1), V2: 최대 단축% (20)"
+    },
+    {
+      "ID": 30018,
+      "CoolDown": 2,
+      "TriggerType": 0,
+      "EffectType": 18,
+      "Value1": 1,
+      "Value2": 100,
+      "Value3": 0,
+      "벨류값": "잠재력 V1: 덱 카드 1장당 치명타% (1), V2: 최대 치명타% (20)"
+    },
+    {
+      "ID": 30019,
+      "CoolDown": 2,
+      "TriggerType": 2,
+      "EffectType": 19,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0,
+      "벨류값": null
+    },
+    {
+      "ID": 30020,
+      "CoolDown": 2,
+      "TriggerType": 2,
+      "EffectType": 20,
+      "Value1": 1,
+      "Value2": 0,
+      "Value3": 0,
+      "벨류값": "스킬카드 회복 V1: 회복량 (1)"
+    },
+    {
+      "ID": 30021,
+      "CoolDown": 2,
+      "TriggerType": 5,
+      "EffectType": 21,
+      "Value1": 2,
+      "Value2": 0,
+      "Value3": 0,
+      "벨류값": "순환 회복 V1: 회복량 (2)"
+    },
+    {
+      "ID": 30022,
+      "CoolDown": 2,
+      "TriggerType": 6,
+      "EffectType": 22,
+      "Value1": 5,
+      "Value2": 0,
+      "Value3": 0,
+      "벨류값": "리셔플 회복 V1: 회복량 (5)"
+    }
+  ]
+}
