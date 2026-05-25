@@ -1,0 +1,83 @@
+name: Update Static Sheets
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 의존성 설치
+        run: npm install
+
+      - name: Google Sheets → JSON 생성
+        env:
+          GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
+          GOOGLE_SPREADSHEET_ID: ${{ secrets.GOOGLE_SPREADSHEET_ID }}
+        run: node sheetParser.js
+
+      - name: 변경사항 커밋 & 푸시
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add static/
+          git diff --staged --quiet || git commit -m "데이터 갱신: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
+
+      - name: GitHub Pages 반영 대기 후 Discord 알림
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          [ -z "$DISCORD_WEBHOOK_URL" ] && echo "DISCORD_WEBHOOK_URL 미설정 — 건너뜀" && exit 0
+
+          LOCAL_UPDATED=$(node -e "console.log(require('./static/manifest.json').updatedAt)")
+          echo "로컬 updatedAt: $LOCAL_UPDATED"
+
+          export MATCHED=false
+          for i in $(seq 1 18); do
+            sleep 10
+            REMOTE=$(curl -sf "https://turtlemoi.github.io/echofloor-static/static/manifest.json" || echo "")
+            REMOTE_UPDATED=$(echo "$REMOTE" | node -e "
+              let d='';
+              process.stdin.on('data',c=>d+=c).on('end',()=>{
+                try { console.log(JSON.parse(d).updatedAt); } catch { console.log(''); }
+              });
+            ")
+            echo "대기 중... ($i/18) 원격 updatedAt: $REMOTE_UPDATED"
+            if [ "$LOCAL_UPDATED" = "$REMOTE_UPDATED" ]; then
+              echo "GitHub Pages 반영 확인됨"
+              export MATCHED=true
+              break
+            fi
+          done
+
+          PAYLOAD=$(node -e "
+            const m = require('./static/manifest.json');
+            const kst = new Date(m.updatedAt).toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' });
+            const sheetList = m.sheets.map(s => '• ' + s.name + ' v' + s.version).join('\n');
+            const matched = process.env.MATCHED === 'true';
+            const body = {
+              embeds: [{
+                title: matched ? '✅ EchoFloor 데이터 배포 완료' : '⚠️ EchoFloor 데이터 배포 (Pages 반영 미확인)',
+                color: matched ? 5763719 : 16776960,
+                fields: [
+                  { name: '업데이트 시각 (KST)', value: kst, inline: false },
+                  { name: '시트 목록 (' + m.sheets.length + '개)', value: sheetList, inline: false }
+                ],
+                footer: { text: 'EchoFloor Static Data Server' }
+              }]
+            };
+            console.log(JSON.stringify(body));
+          ")
+          curl -s -X POST "$DISCORD_WEBHOOK_URL" \
+            -H "Content-Type: application/json" \
+            -d "$PAYLOAD"

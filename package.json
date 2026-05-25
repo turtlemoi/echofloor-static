@@ -1,0 +1,11 @@
+{
+  "name": "echofloor-static",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "parse": "node sheetParser.js"
+  },
+  "dependencies": {
+    "googleapis": "^144.0.0"
+  }
+}
