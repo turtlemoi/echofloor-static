@@ -1,432 +1,432 @@
 {
   "data": [
     {
-      "Key": "SKILL_20001",
+      "Key": "CARD_20001",
       "ko": "연속타",
       "en": null
     },
     {
-      "Key": "SKILL_20001_DESC",
+      "Key": "CARD_20001_DESC",
       "ko": "(스킬카드)\n다음 사용될 공격카드가 {0}회 추가 발동한다.",
       "en": null
     },
     {
-      "Key": "SKILL_20002",
+      "Key": "CARD_20002",
       "ko": "메아리",
       "en": null
     },
     {
-      "Key": "SKILL_20002_DESC",
+      "Key": "CARD_20002_DESC",
       "ko": "(스킬카드)\n직전에 사용된 공격카드를 즉시 1회 발동한다.",
       "en": null
     },
     {
-      "Key": "SKILL_20003",
+      "Key": "CARD_20003",
       "ko": "반향",
       "en": null
     },
     {
-      "Key": "SKILL_20003_DESC",
+      "Key": "CARD_20003_DESC",
       "ko": "(스킬카드)\n직전 사용된 공격카드와 다음 사용될 공격카드를 각 1회씩 즉시 발동한다.",
       "en": null
     },
     {
-      "Key": "SKILL_20004",
+      "Key": "CARD_20004",
       "ko": "난사",
       "en": null
     },
     {
-      "Key": "SKILL_20004_DESC",
+      "Key": "CARD_20004_DESC",
       "ko": "(스킬카드)\n핸드의 공격카드 중 무작위 1장을 즉시 발동한다.",
       "en": null
     },
     {
-      "Key": "SKILL_20005",
+      "Key": "CARD_20005",
       "ko": "저격",
       "en": null
     },
     {
-      "Key": "SKILL_20005_DESC",
+      "Key": "CARD_20005_DESC",
       "ko": "(스킬카드)\n보유한 모든 카드 중 가장 높은 티어의 공격카드 1장을 즉시 발동한다.",
       "en": null
     },
     {
-      "Key": "SKILL_20006",
+      "Key": "CARD_20006",
       "ko": "강격",
       "en": null
     },
     {
-      "Key": "SKILL_20006_DESC",
+      "Key": "CARD_20006_DESC",
       "ko": "(스킬카드)\n다음 사용될 공격카드의 피해량이 {0}% 증가한다.",
       "en": null
     },
     {
-      "Key": "SKILL_20007",
+      "Key": "CARD_20007",
       "ko": "화력 집중",
       "en": null
     },
     {
-      "Key": "SKILL_20007_DESC",
+      "Key": "CARD_20007_DESC",
       "ko": "(스킬카드)\n사용더미에서 무작위 카드 1장을 즉시 발동한다.",
       "en": null
     },
     {
-      "Key": "SKILL_20008",
+      "Key": "CARD_20008",
       "ko": "봉화",
       "en": null
     },
     {
-      "Key": "SKILL_20008_DESC",
+      "Key": "CARD_20008_DESC",
       "ko": "(스킬카드)\n이미 사용된 공격카드를 모두 즉시 발동한다.",
       "en": null
     },
     {
-      "Key": "SKILL_20009",
+      "Key": "CARD_20009",
       "ko": "돌격",
       "en": null
     },
     {
-      "Key": "SKILL_20009_DESC",
+      "Key": "CARD_20009_DESC",
       "ko": "(스킬카드)\n현재 스킬카드 이전에 있는 공격카드를 모두 즉시 사용한다.",
       "en": null
     },
     {
-      "Key": "SKILL_20010",
+      "Key": "CARD_20010",
       "ko": "일제 사격",
       "en": null
     },
     {
-      "Key": "SKILL_20010_DESC",
+      "Key": "CARD_20010_DESC",
       "ko": "(스킬카드)\n대기 중인 모든 카드를 즉시 발동한다. 카드는 비활성화되지 않으며 사이클을 계속한다.",
       "en": null
     },
     {
-      "Key": "SKILL_20011",
+      "Key": "CARD_20011",
       "ko": "상승 전투",
       "en": null
     },
     {
-      "Key": "SKILL_20011_DESC",
+      "Key": "CARD_20011_DESC",
       "ko": "(스킬카드)\n이 카드 이후 사용되는 공격카드들이 사용 순서마다 피해가 {0}%씩 증가한다.",
       "en": null
     },
     {
-      "Key": "SKILL_20012",
+      "Key": "CARD_20012",
       "ko": "가속",
       "en": null
     },
     {
-      "Key": "SKILL_20012_DESC",
+      "Key": "CARD_20012_DESC",
       "ko": "(스킬카드)\n핸드의 모든 카드 타이머를 {0}% 전진시킨다.",
       "en": null
     },
     {
-      "Key": "SKILL_20013",
+      "Key": "CARD_20013",
       "ko": "과부하",
       "en": null
     },
     {
-      "Key": "SKILL_20013_DESC",
+      "Key": "CARD_20013_DESC",
       "ko": "(스킬카드)\n대기 중인 공격카드 중 무작위 {0}장을 즉발 준비 상태로 만든다.",
       "en": null
     },
     {
-      "Key": "SKILL_20014",
+      "Key": "CARD_20014",
       "ko": "집중",
       "en": null
     },
     {
-      "Key": "SKILL_20014_DESC",
+      "Key": "CARD_20014_DESC",
       "ko": "(스킬카드)\n다음 사용될 카드를 즉발 준비 상태로 만든다.",
       "en": null
     },
     {
-      "Key": "SKILL_20015",
+      "Key": "CARD_20015",
       "ko": "동기화",
       "en": null
     },
     {
-      "Key": "SKILL_20015_DESC",
+      "Key": "CARD_20015_DESC",
       "ko": "(스킬카드)\n핸드의 모든 카드 타이머를 가장 앞선 카드 기준으로 동기화한다.",
       "en": null
     },
     {
-      "Key": "SKILL_20016",
+      "Key": "CARD_20016",
       "ko": "긴급 셔플",
       "en": null
     },
     {
-      "Key": "SKILL_20016_DESC",
+      "Key": "CARD_20016_DESC",
       "ko": "(스킬카드)\n사용더미를 즉시 셔플하여 덱으로 되돌린다.",
       "en": null
     },
     {
-      "Key": "SKILL_20017",
+      "Key": "CARD_20017",
       "ko": "선별",
       "en": null
     },
     {
-      "Key": "SKILL_20017_DESC",
+      "Key": "CARD_20017_DESC",
       "ko": "(스킬카드)\n사용더미에서 가장 높은 티어의 공격카드 1장을 핸드에 즉시 추가한다.",
       "en": null
     },
     {
-      "Key": "SKILL_20018",
+      "Key": "CARD_20018",
       "ko": "무작위 방출",
       "en": null
     },
     {
-      "Key": "SKILL_20018_DESC",
+      "Key": "CARD_20018_DESC",
       "ko": "(스킬카드)\n사용더미에서 무작위 카드 1장을 핸드에 즉시 추가한다.",
       "en": null
     },
     {
-      "Key": "SKILL_20019",
+      "Key": "CARD_20019",
       "ko": "빠른 드로우",
       "en": null
     },
     {
-      "Key": "SKILL_20019_DESC",
+      "Key": "CARD_20019_DESC",
       "ko": "(스킬카드)\n덱에서 카드 {0}장을 즉시 드로우한다.",
       "en": null
     },
     {
-      "Key": "SKILL_20020",
+      "Key": "CARD_20020",
       "ko": "응급 치료",
       "en": null
     },
     {
-      "Key": "SKILL_20020_DESC",
+      "Key": "CARD_20020_DESC",
       "ko": "(스킬카드)\nHP를 {0} 회복한다.",
       "en": null
     },
     {
-      "Key": "SKILL_20021",
+      "Key": "CARD_20021",
       "ko": "전투 회복",
       "en": null
     },
     {
-      "Key": "SKILL_20021_DESC",
+      "Key": "CARD_20021_DESC",
       "ko": "(스킬카드)\n핸드의 공격카드 수 × 2만큼 HP를 회복한다.        ",
       "en": null
     },
     {
-      "Key": "SKILL_30001",
+      "Key": "CARD_30001",
       "ko": "준비된공격",
       "en": null
     },
     {
-      "Key": "SKILL_30001_DESC",
+      "Key": "CARD_30001_DESC",
       "ko": "(파워카드)\n핸드 순환 후 처음 사용되는 공격카드가 {0}회 추가 발동한다.",
       "en": null
     },
     {
-      "Key": "SKILL_30002",
+      "Key": "CARD_30002",
       "ko": "연속공격",
       "en": null
     },
     {
-      "Key": "SKILL_30002_DESC",
+      "Key": "CARD_30002_DESC",
       "ko": "(파워카드)\n공격카드 사용마다 다음 사용될 공격카드의 타이머를 {0}% 전진시킨다.",
       "en": null
     },
     {
-      "Key": "SKILL_30003",
+      "Key": "CARD_30003",
       "ko": "마무리일격",
       "en": null
     },
     {
-      "Key": "SKILL_30003_DESC",
+      "Key": "CARD_30003_DESC",
       "ko": "(파워카드)\n핸드의 마지막 공격카드 사용 시 피해가 {0}% 증가한다.",
       "en": null
     },
     {
-      "Key": "SKILL_30004",
+      "Key": "CARD_30004",
       "ko": "광란",
       "en": null
     },
     {
-      "Key": "SKILL_30004_DESC",
+      "Key": "CARD_30004_DESC",
       "ko": "(파워카드)\n핸드 순환마다 공격력이 {0} 증가한다.",
       "en": null
     },
     {
-      "Key": "SKILL_30005",
+      "Key": "CARD_30005",
       "ko": "손놀림",
       "en": null
     },
     {
-      "Key": "SKILL_30005_DESC",
+      "Key": "CARD_30005_DESC",
       "ko": "(파워카드)\n스킬카드 사용 시 핸드의 공격카드 1장을 즉시 발동한다.",
       "en": null
     },
     {
-      "Key": "SKILL_30006",
+      "Key": "CARD_30006",
       "ko": "공명",
       "en": null
     },
     {
-      "Key": "SKILL_30006_DESC",
+      "Key": "CARD_30006_DESC",
       "ko": "(파워카드)\n스킬카드 사용 시 다음 사용될 공격카드가 {0}회 추가 발동한다.",
       "en": null
     },
     {
-      "Key": "SKILL_30007",
+      "Key": "CARD_30007",
       "ko": "촉진",
       "en": null
     },
     {
-      "Key": "SKILL_30007_DESC",
+      "Key": "CARD_30007_DESC",
       "ko": "(파워카드)\n스킬카드 사용 시 핸드의 모든 카드 타이머를 {0}% 전진시킨다.",
       "en": null
     },
     {
-      "Key": "SKILL_30008",
+      "Key": "CARD_30008",
       "ko": "반격",
       "en": null
     },
     {
-      "Key": "SKILL_30008_DESC",
+      "Key": "CARD_30008_DESC",
       "ko": "(파워카드)\n피격당할 때마다 공격자에게 {0}의 고정 피해를 반사한다.",
       "en": null
     },
     {
-      "Key": "SKILL_30009",
+      "Key": "CARD_30009",
       "ko": "기사회생",
       "en": null
     },
     {
-      "Key": "SKILL_30009_DESC",
+      "Key": "CARD_30009_DESC",
       "ko": "(파워카드)\n피격당할 때마다 {0}% 확률로 HP를 {1} 회복한다.",
       "en": null
     },
     {
-      "Key": "SKILL_30010",
+      "Key": "CARD_30010",
       "ko": "침착",
       "en": null
     },
     {
-      "Key": "SKILL_30010_DESC",
+      "Key": "CARD_30010_DESC",
       "ko": "(파워카드)\n잃은 HP 비율에 따라 모든 카드 쿨타임이 최대 {0}% 단축된다.",
       "en": null
     },
     {
-      "Key": "SKILL_30011",
+      "Key": "CARD_30011",
       "ko": "혈투",
       "en": null
     },
     {
-      "Key": "SKILL_30011_DESC",
+      "Key": "CARD_30011_DESC",
       "ko": "(파워카드)\n잃은 HP 비율에 따라 치명타 확률이 최대 {0}% 증가한다.",
       "en": null
     },
     {
-      "Key": "SKILL_30012",
+      "Key": "CARD_30012",
       "ko": "빠른판단",
       "en": null
     },
     {
-      "Key": "SKILL_30012_DESC",
+      "Key": "CARD_30012_DESC",
       "ko": "(파워카드)\n피격당할 때마다 {0}% 확률로 핸드의 공격카드 1장을 즉시 발동한다.",
       "en": null
     },
     {
-      "Key": "SKILL_30013",
+      "Key": "CARD_30013",
       "ko": "복제",
       "en": null
     },
     {
-      "Key": "SKILL_30013_DESC",
+      "Key": "CARD_30013_DESC",
       "ko": "(파워카드)\n공격카드 사용마다 {0}% 확률로 사용더미의 공격카드 1장을 즉시 발동한다.",
       "en": null
     },
     {
-      "Key": "SKILL_30014",
+      "Key": "CARD_30014",
       "ko": "집착",
       "en": null
     },
     {
-      "Key": "SKILL_30014_DESC",
+      "Key": "CARD_30014_DESC",
       "ko": "(파워카드)\n핸드 순환마다 사용더미에서 가장 강한 공격카드 1장이 핸드에 추가된다.",
       "en": null
     },
     {
-      "Key": "SKILL_30015",
+      "Key": "CARD_30015",
       "ko": "맹공",
       "en": null
     },
     {
-      "Key": "SKILL_30015_DESC",
+      "Key": "CARD_30015_DESC",
       "ko": "(파워카드)\n핸드 순환마다 사용더미의 공격카드 1장이 핸드에 추가되고 즉발 준비된다.",
       "en": null
     },
     {
-      "Key": "SKILL_30016",
+      "Key": "CARD_30016",
       "ko": "어필",
       "en": null
     },
     {
-      "Key": "SKILL_30016_DESC",
+      "Key": "CARD_30016_DESC",
       "ko": "(파워카드)\n핸드 순환마다 덱에서 공격카드 1장을 즉시 발동한다.",
       "en": null
     },
     {
-      "Key": "SKILL_30017",
+      "Key": "CARD_30017",
       "ko": "잔향",
       "en": null
     },
     {
-      "Key": "SKILL_30017_DESC",
+      "Key": "CARD_30017_DESC",
       "ko": "(파워카드)\n사용더미 카드 수에 비례해 모든 카드 쿨타임이 최대 {0}% 단축된다.",
       "en": null
     },
     {
-      "Key": "SKILL_30018",
+      "Key": "CARD_30018",
       "ko": "의욕",
       "en": null
     },
     {
-      "Key": "SKILL_30018_DESC",
+      "Key": "CARD_30018_DESC",
       "ko": "(파워카드)\n덱의 남은 카드 수에 비례해 치명타 확률이 최대 {0}% 증가한다.",
       "en": null
     },
     {
-      "Key": "SKILL_30019",
+      "Key": "CARD_30019",
       "ko": "손버릇",
       "en": null
     },
     {
-      "Key": "SKILL_30019_DESC",
+      "Key": "CARD_30019_DESC",
       "ko": "(파워카드)\n스킬카드 사용 시 사용더미의 공격카드 1장이 핸드에 추가되고 즉발 준비된다.",
       "en": null
     },
     {
-      "Key": "SKILL_30020",
+      "Key": "CARD_30020",
       "ko": "치유의 주문",
       "en": null
     },
     {
-      "Key": "SKILL_30020_DESC",
+      "Key": "CARD_30020_DESC",
       "ko": "(파워카드)\n스킬카드 사용마다 HP를 {0} 회복한다.",
       "en": null
     },
     {
-      "Key": "SKILL_30021",
+      "Key": "CARD_30021",
       "ko": "순환의 기운",
       "en": null
     },
     {
-      "Key": "SKILL_30021_DESC",
+      "Key": "CARD_30021_DESC",
       "ko": "(파워카드)\n핸드 순환마다 HP를 {0} 회복한다.",
       "en": null
     },
     {
-      "Key": "SKILL_30022",
+      "Key": "CARD_30022",
       "ko": "덱 재생",
       "en": null
     },
     {
-      "Key": "SKILL_30022_DESC",
+      "Key": "CARD_30022_DESC",
       "ko": "(파워카드)\n리셔플이 발생할 때마다 HP를 {0} 회복한다.",
       "en": null
     },

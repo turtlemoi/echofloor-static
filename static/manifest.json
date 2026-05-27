@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T13:48:34.307Z",
+  "updatedAt": "2026-05-27T12:29:37.859Z",
   "sheets": [
     {
       "name": "Common",
@@ -22,25 +22,31 @@
     {
       "name": "Cards",
       "version": 2,
-      "hash": "6d8eeb98f2dd3a3ed5d5d4d14d8eb5b96f41ad60a92b51a07061fde23c600da4",
+      "hash": "17bfdc0132022bd20d3ca0b71c1115edac954cec005f80b8d8e8b15a673fdbc7",
       "url": "/static/Cards.json"
     },
     {
       "name": "AttackCards",
       "version": 2,
-      "hash": "299b4131ff0bfd4518d4bc8dba7ad2639a420d2a12c1d68138a06722f7a76045",
+      "hash": "2f9c256f925b969f23f059acc92e59f8ad7584b083f2ab4bc600dcc3d2690482",
       "url": "/static/AttackCards.json"
+    },
+    {
+      "name": "AttackEffects",
+      "version": 1,
+      "hash": "61f2b7118a7ffb271b34964cf91072a8ad5a1c500641c0132c878e24e5833c3b",
+      "url": "/static/AttackEffects.json"
     },
     {
       "name": "SkillCards",
       "version": 1,
-      "hash": "fef8d00d0b196150e522c3f1c3e6b1f1f15c1a6aef3a80351746eb22bc166ccd",
+      "hash": "071dcb85a86b1968d1278a8eea26d99d165e1f54e896eddf96d0cc1f1999e995",
       "url": "/static/SkillCards.json"
     },
     {
       "name": "PowerCards",
       "version": 1,
-      "hash": "9aa55a0778df0ec8c7d529b9a840d21bfbfb7a8c94a95c6df639f5da7c7a76ee",
+      "hash": "8c2393614bfb2509477ebdd43b20a9bc8eab46078b60185c5fe5bf4307aa2016",
       "url": "/static/PowerCards.json"
     },
     {
@@ -58,7 +64,7 @@
     {
       "name": "Locale",
       "version": 1,
-      "hash": "c91c5d8cf55831a404207d969ede16c7604902df02f167620302bfd196869b2f",
+      "hash": "7bc1937479418e1e9c0a6ccdf93a32a3835b9556e92e15dc959158397d58b260",
       "url": "/static/Locale.json"
     }
   ]
