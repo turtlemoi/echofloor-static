@@ -94,7 +94,7 @@
       "ID": 11,
       "Chapter": 1,
       "Section": 10,
-      "Battle": 1,
+      "Battle": 2,
       "GetCard": 1,
       "Shop": 0,
       "Augment": 0
@@ -193,7 +193,7 @@
       "ID": 22,
       "Chapter": 2,
       "Section": 10,
-      "Battle": 1,
+      "Battle": 2,
       "GetCard": 1,
       "Shop": 0,
       "Augment": 0
@@ -292,7 +292,7 @@
       "ID": 33,
       "Chapter": 3,
       "Section": 10,
-      "Battle": 1,
+      "Battle": 2,
       "GetCard": 1,
       "Shop": 0,
       "Augment": 0
@@ -391,7 +391,7 @@
       "ID": 44,
       "Chapter": 4,
       "Section": 10,
-      "Battle": 1,
+      "Battle": 2,
       "GetCard": 1,
       "Shop": 0,
       "Augment": 0
@@ -490,7 +490,7 @@
       "ID": 55,
       "Chapter": 5,
       "Section": 10,
-      "Battle": 1,
+      "Battle": 2,
       "GetCard": 1,
       "Shop": 0,
       "Augment": 0
