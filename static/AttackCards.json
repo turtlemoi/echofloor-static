@@ -15,6 +15,22 @@
       "Value6": 0,
       "EffectIDs": 1001,
       "PrefabName": "Fireball"
+    },
+    {
+      "ID": 10002,
+      "Tier": 1,
+      "Element": 1,
+      "AttackType": 4,
+      "BaseDamage": 20,
+      "AttackRange": 8,
+      "Value1": 0.2,
+      "Value2": 10,
+      "Value3": 30,
+      "Value4": 0,
+      "Value5": 0,
+      "Value6": 0,
+      "EffectIDs": 1002,
+      "PrefabName": "Flamethrower"
     }
   ]
 }

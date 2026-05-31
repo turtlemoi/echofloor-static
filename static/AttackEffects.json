@@ -5,6 +5,12 @@
       "EffectType": 1,
       "Value1": 0.5,
       "Value2": 50
+    },
+    {
+      "ID": 1002,
+      "EffectType": 2,
+      "Value1": 0.1,
+      "Value2": null
     }
   ]
 }
