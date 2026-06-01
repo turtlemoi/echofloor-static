@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T10:51:50.070Z",
+  "updatedAt": "2026-06-01T12:21:24.602Z",
   "sheets": [
     {
       "name": "Common",
@@ -22,19 +22,19 @@
     {
       "name": "Cards",
       "version": 2,
-      "hash": "17bfdc0132022bd20d3ca0b71c1115edac954cec005f80b8d8e8b15a673fdbc7",
+      "hash": "09693ca8548bccf32fb23cd1fb0267ed04074527d0f810d1a109f00fe0ba87ac",
       "url": "/static/Cards.json"
     },
     {
       "name": "AttackCards",
-      "version": 3,
-      "hash": "587185dd20ec304d98a76146866c984e8ae23c89e732568bb8bcbbf56e4ac758",
+      "version": 4,
+      "hash": "797ca538e06bdd8f97d8517fc375da5177fdc1cbf41d91408d61a48162e0755d",
       "url": "/static/AttackCards.json"
     },
     {
       "name": "AttackEffects",
-      "version": 2,
-      "hash": "53866ef9497a68a86670e03131a24f826e98dc420b0182ee8fb3ec302777519a",
+      "version": 3,
+      "hash": "c21a0fb554cfa16d22fc05ac372264a7f58b94ca7715c450722616dc710ae392",
       "url": "/static/AttackEffects.json"
     },
     {
@@ -63,8 +63,8 @@
     },
     {
       "name": "Locale",
-      "version": 1,
-      "hash": "7bc1937479418e1e9c0a6ccdf93a32a3835b9556e92e15dc959158397d58b260",
+      "version": 2,
+      "hash": "19192b3453a8a516020b8acf8b75c8c8cda82144f06115e94ea73b13e3dd5c5a",
       "url": "/static/Locale.json"
     }
   ]
