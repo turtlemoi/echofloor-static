@@ -161,6 +161,22 @@
       "PrefabName": "Flamestrike"
     },
     {
+      "ID": 10111,
+      "Tier": 1,
+      "Element": 1,
+      "AttackType": 1,
+      "BaseDamage": 300,
+      "AttackRange": 100,
+      "Value1": 30,
+      "Value2": 1,
+      "Value3": 0,
+      "Value4": 1,
+      "Value5": 0,
+      "Value6": 0,
+      "EffectIDs": "1007,2",
+      "PrefabName": "Light. Orb"
+    },
+    {
       "ID": 90001,
       "Tier": 0,
       "Element": 1,
@@ -173,7 +189,7 @@
       "Value4": "",
       "Value5": "",
       "Value6": "",
-      "EffectIDs": 1,
+      "EffectIDs": "1",
       "PrefabName": "FlameBurst_S"
     },
     {
@@ -191,6 +207,22 @@
       "Value6": 1,
       "EffectIDs": "1006,1",
       "PrefabName": "Purgatory"
+    },
+    {
+      "ID": 90003,
+      "Tier": 1,
+      "Element": 1,
+      "AttackType": 1,
+      "BaseDamage": 300,
+      "AttackRange": 100,
+      "Value1": 30,
+      "Value2": 1,
+      "Value3": 0,
+      "Value4": 1,
+      "Value5": 0,
+      "Value6": 0,
+      "EffectIDs": "2",
+      "PrefabName": "Light. Orb_boom"
     }
   ]
 }

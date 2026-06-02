@@ -3,7 +3,7 @@
     {
       "ID": 10001,
       "CardType": 1,
-      "CoolDown": 2,
+      "CoolDown": 1,
       "Name": "CARD_10001",
       "Desc": "CARD_10001_DESC",
       "Tier": 1,
@@ -39,7 +39,7 @@
     {
       "ID": 10005,
       "CardType": 1,
-      "CoolDown": 2,
+      "CoolDown": 3,
       "Name": "CARD_10005",
       "Desc": "CARD_10005_DESC",
       "Tier": 2,
@@ -48,7 +48,7 @@
     {
       "ID": 10006,
       "CardType": 1,
-      "CoolDown": 2,
+      "CoolDown": 1,
       "Name": "CARD_10006",
       "Desc": "CARD_10006_DESC",
       "Tier": 2,
@@ -57,7 +57,7 @@
     {
       "ID": 10007,
       "CardType": 1,
-      "CoolDown": 2,
+      "CoolDown": 1,
       "Name": "CARD_10007",
       "Desc": "CARD_10007_DESC",
       "Tier": 2,
@@ -75,7 +75,7 @@
     {
       "ID": 10009,
       "CardType": 1,
-      "CoolDown": 2,
+      "CoolDown": 3,
       "Name": "CARD_10009",
       "Desc": "CARD_10009_DESC",
       "Tier": 3,
@@ -84,11 +84,20 @@
     {
       "ID": 10010,
       "CardType": 1,
-      "CoolDown": 2,
+      "CoolDown": 1,
       "Name": "CARD_10010",
       "Desc": "CARD_10010_DESC",
       "Tier": 3,
       "ICON": "AttackCards_110_Flamestrike"
+    },
+    {
+      "ID": 10101,
+      "CardType": 1,
+      "CoolDown": 1,
+      "Name": "CARD_10101",
+      "Desc": "CARD_10101_DESC",
+      "Tier": 1,
+      "ICON": null
     }
   ]
 }
