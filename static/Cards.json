@@ -98,6 +98,42 @@
       "Desc": "CARD_10101_DESC",
       "Tier": 1,
       "ICON": null
+    },
+    {
+      "ID": 10101,
+      "CardType": 1,
+      "CoolDown": 1,
+      "Name": null,
+      "Desc": null,
+      "Tier": null,
+      "ICON": null
+    },
+    {
+      "ID": 10101,
+      "CardType": 1,
+      "CoolDown": 1,
+      "Name": null,
+      "Desc": null,
+      "Tier": null,
+      "ICON": null
+    },
+    {
+      "ID": 10101,
+      "CardType": 1,
+      "CoolDown": 1,
+      "Name": null,
+      "Desc": null,
+      "Tier": null,
+      "ICON": null
+    },
+    {
+      "ID": 10101,
+      "CardType": 1,
+      "CoolDown": 1,
+      "Name": null,
+      "Desc": null,
+      "Tier": null,
+      "ICON": null
     }
   ]
 }
