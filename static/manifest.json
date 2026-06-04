@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T12:55:49.475Z",
+  "updatedAt": "2026-06-04T11:50:02.517Z",
   "sheets": [
     {
       "name": "Common",
@@ -10,25 +10,25 @@
     {
       "name": "FloorData",
       "version": 4,
-      "hash": "ea22f71f55c0478b693f4ac920da834e3ee495479954e9f27eb9a74729b9e171",
+      "hash": "01086a41d634a6e3469dcc21c86f9253782950ab99b050221a45ed06d469ac01",
       "url": "/static/FloorData.json"
     },
     {
       "name": "BattleData",
-      "version": 3,
-      "hash": "8a3a61df9f13aa87b4a9ea4cff4c0bdd2422f85dd9c1959fd81c10e4809efb04",
+      "version": 4,
+      "hash": "534b30b46e62fda9abf4787eea75098951c963c375403d5f1a7f1f48713ed9e7",
       "url": "/static/BattleData.json"
     },
     {
       "name": "Cards",
       "version": 2,
-      "hash": "053b7479cb6ee1585e4034d6cf5de64a948813f0af50642d91f237596c390f2e",
+      "hash": "7813fbb542f7ee7c3abae456adf9e1ddcbcf266dc5096244415ad8ed458cd7e8",
       "url": "/static/Cards.json"
     },
     {
       "name": "AttackCards",
       "version": 6,
-      "hash": "d25f38344a267b6adec5470874d459591e371993dd1b923506e5cb475f7fc3a6",
+      "hash": "88a37d1823bb86b1d1e455bb09386fd4160336675b49b16c88a69cb4efa91f08",
       "url": "/static/AttackCards.json"
     },
     {

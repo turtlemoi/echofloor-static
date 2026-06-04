@@ -5,6 +5,7 @@
       "Tier": 1,
       "Element": 1,
       "AttackType": 1,
+      "PrefabName": "Fireball",
       "BaseDamage": 300,
       "AttackRange": 100,
       "Value1": 30,
@@ -13,30 +14,30 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "1001,1",
-      "PrefabName": "Fireball"
+      "EffectIDs": "1001,1"
     },
     {
       "ID": 10002,
       "Tier": 1,
       "Element": 1,
       "AttackType": 4,
+      "PrefabName": "Flamethrower",
       "BaseDamage": 20,
-      "AttackRange": 8,
+      "AttackRange": 15,
       "Value1": 0.2,
       "Value2": 2,
       "Value3": 30,
       "Value4": 0,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "1002,1",
-      "PrefabName": "Flamethrower"
+      "EffectIDs": "1002,1"
     },
     {
       "ID": 10003,
       "Tier": 1,
       "Element": 1,
       "AttackType": 1,
+      "PrefabName": "FlameWave",
       "BaseDamage": 100,
       "AttackRange": 100,
       "Value1": 20,
@@ -45,14 +46,14 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 1,
-      "EffectIDs": "1001,1",
-      "PrefabName": "FlameWave"
+      "EffectIDs": "1001,1"
     },
     {
       "ID": 10004,
       "Tier": 2,
       "Element": 1,
       "AttackType": 2,
+      "PrefabName": "FlameBurst",
       "BaseDamage": 150,
       "AttackRange": 8,
       "Value1": 1,
@@ -61,14 +62,14 @@
       "Value4": "",
       "Value5": "",
       "Value6": "",
-      "EffectIDs": "1003,1",
-      "PrefabName": "FlameBurst"
+      "EffectIDs": "1003,1"
     },
     {
       "ID": 10005,
       "Tier": 2,
       "Element": 1,
       "AttackType": 5,
+      "PrefabName": "BurnGround",
       "BaseDamage": 30,
       "AttackRange": 25,
       "Value1": 0.5,
@@ -77,14 +78,14 @@
       "Value4": 0,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "1002,1",
-      "PrefabName": "BurnGround"
+      "EffectIDs": "1002,1"
     },
     {
       "ID": 10006,
       "Tier": 2,
       "Element": 1,
       "AttackType": 2,
+      "PrefabName": "Ignite",
       "BaseDamage": 300,
       "AttackRange": 8,
       "Value1": 1,
@@ -93,14 +94,14 @@
       "Value4": "",
       "Value5": "",
       "Value6": "",
-      "EffectIDs": "1004,1",
-      "PrefabName": "Ignite"
+      "EffectIDs": "1004,1"
     },
     {
       "ID": 10007,
       "Tier": 2,
       "Element": 1,
       "AttackType": 3,
+      "PrefabName": "Inferno",
       "BaseDamage": 50,
       "AttackRange": 20,
       "Value1": 0.2,
@@ -109,14 +110,14 @@
       "Value4": "",
       "Value5": "",
       "Value6": "",
-      "EffectIDs": "1001,1",
-      "PrefabName": "Inferno"
+      "EffectIDs": "1001,1"
     },
     {
       "ID": 10008,
       "Tier": 3,
       "Element": 1,
-      "AttackType": "",
+      "AttackType": 6,
+      "PrefabName": "Meteor",
       "BaseDamage": 500,
       "AttackRange": 100,
       "Value1": 1,
@@ -125,14 +126,14 @@
       "Value4": 70,
       "Value5": 0,
       "Value6": 2,
-      "EffectIDs": "1005,1",
-      "PrefabName": "Meteor"
+      "EffectIDs": "1005,1"
     },
     {
       "ID": 10009,
       "Tier": 3,
       "Element": 1,
-      "AttackType": "",
+      "AttackType": 6,
+      "PrefabName": "Purgatory",
       "BaseDamage": 100,
       "AttackRange": 100,
       "Value1": 3,
@@ -141,14 +142,14 @@
       "Value4": 80,
       "Value5": 1,
       "Value6": 1,
-      "EffectIDs": "1006,1",
-      "PrefabName": "Purgatory"
+      "EffectIDs": "1006,1"
     },
     {
       "ID": 10010,
       "Tier": 3,
       "Element": 1,
       "AttackType": 5,
+      "PrefabName": "Flamestrike",
       "BaseDamage": 100,
       "AttackRange": 25,
       "Value1": 0.1,
@@ -157,14 +158,14 @@
       "Value4": 0,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "1001,1",
-      "PrefabName": "Flamestrike"
+      "EffectIDs": "1001,1"
     },
     {
       "ID": 10101,
       "Tier": 1,
       "Element": 3,
       "AttackType": 1,
+      "PrefabName": "Light. Orb",
       "BaseDamage": 150,
       "AttackRange": 100,
       "Value1": 30,
@@ -173,14 +174,14 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "1007,2",
-      "PrefabName": "Light. Orb"
+      "EffectIDs": "1007,2"
     },
     {
       "ID": 10102,
       "Tier": 1,
       "Element": 3,
       "AttackType": 7,
+      "PrefabName": "ElecShock",
       "BaseDamage": 30,
       "AttackRange": 20,
       "Value1": 0.4,
@@ -189,30 +190,30 @@
       "Value4": 0,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "2",
-      "PrefabName": "ElecShock"
+      "EffectIDs": "2"
     },
     {
       "ID": 10103,
-      "Tier": "",
-      "Element": "",
-      "AttackType": "",
-      "BaseDamage": "",
-      "AttackRange": "",
-      "Value1": "",
-      "Value2": "",
-      "Value3": "",
-      "Value4": "",
-      "Value5": "",
-      "Value6": "",
-      "EffectIDs": "",
-      "PrefabName": "Light. Bolt"
+      "Tier": 1,
+      "Element": 3,
+      "AttackType": 4,
+      "PrefabName": "LightningWhip",
+      "BaseDamage": 20,
+      "AttackRange": 15,
+      "Value1": 0.5,
+      "Value2": 1,
+      "Value3": 60,
+      "Value4": 0,
+      "Value5": 0,
+      "Value6": 0,
+      "EffectIDs": "2"
     },
     {
       "ID": 10104,
       "Tier": 2,
       "Element": 3,
       "AttackType": 7,
+      "PrefabName": "ElecShock",
       "BaseDamage": 50,
       "AttackRange": 20,
       "Value1": 0.4,
@@ -221,14 +222,14 @@
       "Value4": 1,
       "Value5": 1.5,
       "Value6": 0,
-      "EffectIDs": "2",
-      "PrefabName": "ElecShock"
+      "EffectIDs": "2"
     },
     {
       "ID": 10105,
       "Tier": 2,
       "Element": 3,
       "AttackType": 7,
+      "PrefabName": "ElecShock",
       "BaseDamage": 50,
       "AttackRange": 20,
       "Value1": 0.4,
@@ -237,14 +238,46 @@
       "Value4": 0,
       "Value5": 0,
       "Value6": 50,
-      "EffectIDs": "2",
-      "PrefabName": "ElecShock"
+      "EffectIDs": "2"
+    },
+    {
+      "ID": 10106,
+      "Tier": 2,
+      "Element": 3,
+      "AttackType": 3,
+      "PrefabName": "ElectricField",
+      "BaseDamage": 50,
+      "AttackRange": 50,
+      "Value1": 0.2,
+      "Value2": 2,
+      "Value3": "",
+      "Value4": "",
+      "Value5": "",
+      "Value6": "",
+      "EffectIDs": "2"
+    },
+    {
+      "ID": "",
+      "Tier": 2,
+      "Element": "",
+      "AttackType": 2,
+      "PrefabName": null,
+      "BaseDamage": null,
+      "AttackRange": null,
+      "Value1": null,
+      "Value2": null,
+      "Value3": null,
+      "Value4": null,
+      "Value5": null,
+      "Value6": null,
+      "EffectIDs": null
     },
     {
       "ID": 90001,
       "Tier": 0,
       "Element": 1,
       "AttackType": 3,
+      "PrefabName": "FlameBurst_S",
       "BaseDamage": 50,
       "AttackRange": 8,
       "Value1": 0,
@@ -253,14 +286,14 @@
       "Value4": "",
       "Value5": "",
       "Value6": "",
-      "EffectIDs": "1",
-      "PrefabName": "FlameBurst_S"
+      "EffectIDs": "1"
     },
     {
       "ID": 90002,
       "Tier": 0,
       "Element": 1,
-      "AttackType": "",
+      "AttackType": 6,
+      "PrefabName": "Purgatory",
       "BaseDamage": 100,
       "AttackRange": 100,
       "Value1": 1,
@@ -269,24 +302,23 @@
       "Value4": 80,
       "Value5": 0,
       "Value6": 1,
-      "EffectIDs": "1006,1",
-      "PrefabName": "Purgatory"
+      "EffectIDs": "1006,1"
     },
     {
       "ID": 90003,
       "Tier": 1,
       "Element": 1,
-      "AttackType": 1,
+      "AttackType": 3,
+      "PrefabName": "Light. Orb_boom",
       "BaseDamage": 300,
       "AttackRange": 100,
-      "Value1": 30,
-      "Value2": 1,
+      "Value1": 1,
+      "Value2": 0,
       "Value3": 0,
-      "Value4": 1,
-      "Value5": 0,
-      "Value6": 0,
-      "EffectIDs": "2",
-      "PrefabName": "Light. Orb_boom"
+      "Value4": "",
+      "Value5": "",
+      "Value6": "",
+      "EffectIDs": "2"
     }
   ]
 }

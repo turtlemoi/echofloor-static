@@ -100,39 +100,39 @@
       "ICON": null
     },
     {
-      "ID": 10101,
+      "ID": 10102,
       "CardType": 1,
       "CoolDown": 1,
-      "Name": null,
-      "Desc": null,
-      "Tier": null,
+      "Name": "CARD_10102",
+      "Desc": "CARD_10102_DESC",
+      "Tier": 1,
       "ICON": null
     },
     {
-      "ID": 10101,
+      "ID": 10103,
       "CardType": 1,
       "CoolDown": 1,
-      "Name": null,
-      "Desc": null,
-      "Tier": null,
+      "Name": "CARD_10103",
+      "Desc": "CARD_10103_DESC",
+      "Tier": 1,
       "ICON": null
     },
     {
-      "ID": 10101,
+      "ID": 10104,
       "CardType": 1,
       "CoolDown": 1,
-      "Name": null,
-      "Desc": null,
-      "Tier": null,
+      "Name": "CARD_10104",
+      "Desc": "CARD_10104_DESC",
+      "Tier": 2,
       "ICON": null
     },
     {
-      "ID": 10101,
+      "ID": 10105,
       "CardType": 1,
       "CoolDown": 1,
-      "Name": null,
-      "Desc": null,
-      "Tier": null,
+      "Name": "CARD_10105",
+      "Desc": "CARD_10105_DESC",
+      "Tier": 2,
       "ICON": null
     }
   ]

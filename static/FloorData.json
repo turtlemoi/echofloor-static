@@ -4,496 +4,496 @@
       "ID": 1,
       "Chapter": 1,
       "Section": 0,
+      "Augment": 1,
       "Battle": 0,
       "GetCard": 0,
-      "Shop": 0,
-      "Augment": 1
+      "Shop": 0
     },
     {
       "ID": 2,
       "Chapter": 1,
       "Section": 1,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 3,
       "Chapter": 1,
       "Section": 2,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 4,
       "Chapter": 1,
       "Section": 3,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 1,
-      "Augment": 0
+      "Shop": 1
     },
     {
       "ID": 5,
       "Chapter": 1,
       "Section": 4,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 6,
       "Chapter": 1,
       "Section": 5,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 7,
       "Chapter": 1,
       "Section": 6,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 1,
-      "Augment": 0
+      "Shop": 1
     },
     {
       "ID": 8,
       "Chapter": 1,
       "Section": 7,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 9,
       "Chapter": 1,
       "Section": 8,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 10,
       "Chapter": 1,
       "Section": 9,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 1,
-      "Augment": 0
+      "Shop": 1
     },
     {
       "ID": 11,
       "Chapter": 1,
       "Section": 10,
+      "Augment": 0,
       "Battle": 2,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 12,
       "Chapter": 2,
       "Section": 0,
+      "Augment": 1,
       "Battle": 0,
       "GetCard": 0,
-      "Shop": 0,
-      "Augment": 1
+      "Shop": 0
     },
     {
       "ID": 13,
       "Chapter": 2,
       "Section": 1,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 14,
       "Chapter": 2,
       "Section": 2,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 15,
       "Chapter": 2,
       "Section": 3,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 1,
-      "Augment": 0
+      "Shop": 1
     },
     {
       "ID": 16,
       "Chapter": 2,
       "Section": 4,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 17,
       "Chapter": 2,
       "Section": 5,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 18,
       "Chapter": 2,
       "Section": 6,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 1,
-      "Augment": 0
+      "Shop": 1
     },
     {
       "ID": 19,
       "Chapter": 2,
       "Section": 7,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 20,
       "Chapter": 2,
       "Section": 8,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 21,
       "Chapter": 2,
       "Section": 9,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 1,
-      "Augment": 0
+      "Shop": 1
     },
     {
       "ID": 22,
       "Chapter": 2,
       "Section": 10,
+      "Augment": 0,
       "Battle": 2,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 23,
       "Chapter": 3,
       "Section": 0,
+      "Augment": 1,
       "Battle": 0,
       "GetCard": 0,
-      "Shop": 0,
-      "Augment": 1
+      "Shop": 0
     },
     {
       "ID": 24,
       "Chapter": 3,
       "Section": 1,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 25,
       "Chapter": 3,
       "Section": 2,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 26,
       "Chapter": 3,
       "Section": 3,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 1,
-      "Augment": 0
+      "Shop": 1
     },
     {
       "ID": 27,
       "Chapter": 3,
       "Section": 4,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 28,
       "Chapter": 3,
       "Section": 5,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 29,
       "Chapter": 3,
       "Section": 6,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 1,
-      "Augment": 0
+      "Shop": 1
     },
     {
       "ID": 30,
       "Chapter": 3,
       "Section": 7,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 31,
       "Chapter": 3,
       "Section": 8,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 32,
       "Chapter": 3,
       "Section": 9,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 1,
-      "Augment": 0
+      "Shop": 1
     },
     {
       "ID": 33,
       "Chapter": 3,
       "Section": 10,
+      "Augment": 0,
       "Battle": 2,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 34,
       "Chapter": 4,
       "Section": 0,
+      "Augment": 1,
       "Battle": 0,
       "GetCard": 0,
-      "Shop": 0,
-      "Augment": 1
+      "Shop": 0
     },
     {
       "ID": 35,
       "Chapter": 4,
       "Section": 1,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 36,
       "Chapter": 4,
       "Section": 2,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 37,
       "Chapter": 4,
       "Section": 3,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 1,
-      "Augment": 0
+      "Shop": 1
     },
     {
       "ID": 38,
       "Chapter": 4,
       "Section": 4,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 39,
       "Chapter": 4,
       "Section": 5,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 40,
       "Chapter": 4,
       "Section": 6,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 1,
-      "Augment": 0
+      "Shop": 1
     },
     {
       "ID": 41,
       "Chapter": 4,
       "Section": 7,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 42,
       "Chapter": 4,
       "Section": 8,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 43,
       "Chapter": 4,
       "Section": 9,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 1,
-      "Augment": 0
+      "Shop": 1
     },
     {
       "ID": 44,
       "Chapter": 4,
       "Section": 10,
+      "Augment": 0,
       "Battle": 2,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 45,
       "Chapter": 5,
       "Section": 0,
+      "Augment": 1,
       "Battle": 0,
       "GetCard": 0,
-      "Shop": 0,
-      "Augment": 1
+      "Shop": 0
     },
     {
       "ID": 46,
       "Chapter": 5,
       "Section": 1,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 47,
       "Chapter": 5,
       "Section": 2,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 48,
       "Chapter": 5,
       "Section": 3,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 1,
-      "Augment": 0
+      "Shop": 1
     },
     {
       "ID": 49,
       "Chapter": 5,
       "Section": 4,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 50,
       "Chapter": 5,
       "Section": 5,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 51,
       "Chapter": 5,
       "Section": 6,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 1,
-      "Augment": 0
+      "Shop": 1
     },
     {
       "ID": 52,
       "Chapter": 5,
       "Section": 7,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 53,
       "Chapter": 5,
       "Section": 8,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     },
     {
       "ID": 54,
       "Chapter": 5,
       "Section": 9,
+      "Augment": 0,
       "Battle": 1,
       "GetCard": 1,
-      "Shop": 1,
-      "Augment": 0
+      "Shop": 1
     },
     {
       "ID": 55,
       "Chapter": 5,
       "Section": 10,
+      "Augment": 0,
       "Battle": 2,
       "GetCard": 1,
-      "Shop": 0,
-      "Augment": 0
+      "Shop": 0
     }
   ]
 }
