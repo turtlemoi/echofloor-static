@@ -3,7 +3,7 @@
     {
       "ID": 10001,
       "CardType": 1,
-      "CoolDown": 1,
+      "CoolDown": 5,
       "Name": "CARD_10001",
       "Desc": "CARD_10001_DESC",
       "Tier": 1,
@@ -12,7 +12,7 @@
     {
       "ID": 10002,
       "CardType": 1,
-      "CoolDown": 2,
+      "CoolDown": 10,
       "Name": "CARD_10002",
       "Desc": "CARD_10002_DESC",
       "Tier": 1,
@@ -21,7 +21,7 @@
     {
       "ID": 10003,
       "CardType": 1,
-      "CoolDown": 2,
+      "CoolDown": 10,
       "Name": "CARD_10003",
       "Desc": "CARD_10003_DESC",
       "Tier": 1,
@@ -30,7 +30,7 @@
     {
       "ID": 10004,
       "CardType": 1,
-      "CoolDown": 2,
+      "CoolDown": 10,
       "Name": "CARD_10004",
       "Desc": "CARD_10004_DESC",
       "Tier": 2,
@@ -39,7 +39,7 @@
     {
       "ID": 10005,
       "CardType": 1,
-      "CoolDown": 3,
+      "CoolDown": 15,
       "Name": "CARD_10005",
       "Desc": "CARD_10005_DESC",
       "Tier": 2,
@@ -48,7 +48,7 @@
     {
       "ID": 10006,
       "CardType": 1,
-      "CoolDown": 1,
+      "CoolDown": 5,
       "Name": "CARD_10006",
       "Desc": "CARD_10006_DESC",
       "Tier": 2,
@@ -57,7 +57,7 @@
     {
       "ID": 10007,
       "CardType": 1,
-      "CoolDown": 1,
+      "CoolDown": 5,
       "Name": "CARD_10007",
       "Desc": "CARD_10007_DESC",
       "Tier": 2,
@@ -66,7 +66,7 @@
     {
       "ID": 10008,
       "CardType": 1,
-      "CoolDown": 2,
+      "CoolDown": 10,
       "Name": "CARD_10008",
       "Desc": "CARD_10008_DESC",
       "Tier": 3,
@@ -75,7 +75,7 @@
     {
       "ID": 10009,
       "CardType": 1,
-      "CoolDown": 3,
+      "CoolDown": 15,
       "Name": "CARD_10009",
       "Desc": "CARD_10009_DESC",
       "Tier": 3,
@@ -84,7 +84,7 @@
     {
       "ID": 10010,
       "CardType": 1,
-      "CoolDown": 1,
+      "CoolDown": 5,
       "Name": "CARD_10010",
       "Desc": "CARD_10010_DESC",
       "Tier": 3,
@@ -93,7 +93,7 @@
     {
       "ID": 10101,
       "CardType": 1,
-      "CoolDown": 1,
+      "CoolDown": 5,
       "Name": "CARD_10101",
       "Desc": "CARD_10101_DESC",
       "Tier": 1,
@@ -102,7 +102,7 @@
     {
       "ID": 10102,
       "CardType": 1,
-      "CoolDown": 1,
+      "CoolDown": 5,
       "Name": "CARD_10102",
       "Desc": "CARD_10102_DESC",
       "Tier": 1,
@@ -111,7 +111,7 @@
     {
       "ID": 10103,
       "CardType": 1,
-      "CoolDown": 1,
+      "CoolDown": 5,
       "Name": "CARD_10103",
       "Desc": "CARD_10103_DESC",
       "Tier": 1,
@@ -120,7 +120,7 @@
     {
       "ID": 10104,
       "CardType": 1,
-      "CoolDown": 1,
+      "CoolDown": 5,
       "Name": "CARD_10104",
       "Desc": "CARD_10104_DESC",
       "Tier": 2,
@@ -129,7 +129,7 @@
     {
       "ID": 10105,
       "CardType": 1,
-      "CoolDown": 1,
+      "CoolDown": 5,
       "Name": "CARD_10105",
       "Desc": "CARD_10105_DESC",
       "Tier": 2,
