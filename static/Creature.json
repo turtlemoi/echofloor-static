@@ -10,7 +10,7 @@
       "Shield": 0,
       "Armor": 0,
       "Weight": 1,
-      "AttackCardID": null
+      "AttackCardID": 99001
     },
     {
       "ID": 112,
@@ -22,7 +22,7 @@
       "Shield": 0,
       "Armor": 0,
       "Weight": 0.8,
-      "AttackCardID": null
+      "AttackCardID": 99001
     },
     {
       "ID": 113,
@@ -34,7 +34,7 @@
       "Shield": 0,
       "Armor": 0,
       "Weight": 5,
-      "AttackCardID": null
+      "AttackCardID": 99001
     }
   ]
 }

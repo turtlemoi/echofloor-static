@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T10:49:44.699Z",
+  "updatedAt": "2026-06-05T11:58:17.562Z",
   "sheets": [
     {
       "name": "Common",
@@ -27,8 +27,8 @@
     },
     {
       "name": "AttackCards",
-      "version": 12,
-      "hash": "6d880cd10f076dd441e308b884445621b2d60eac1a8f91e9cf2e2c7836937e95",
+      "version": 13,
+      "hash": "32ef0bccfcedd0f9b3a50ea404cfe3a90e3d06a3754b03027522f4f5d2054523",
       "url": "/static/AttackCards.json"
     },
     {
@@ -57,8 +57,8 @@
     },
     {
       "name": "Creature",
-      "version": 4,
-      "hash": "6a883c87631e233dadb68ab120bd15b663248e0c71f4c39be9068e2b041e913c",
+      "version": 5,
+      "hash": "a0f6c058c5e2e42428960554e517be5559611ee757b31a393f22516eb8607f70",
       "url": "/static/Creature.json"
     },
     {
