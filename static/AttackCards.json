@@ -119,13 +119,13 @@
       "AttackType": 6,
       "PrefabName": "Meteor",
       "BaseDamage": 500,
-      "AttackRange": 100,
+      "AttackRange": 50,
       "Value1": 1,
       "Value2": 1,
       "Value3": 0,
-      "Value4": 70,
+      "Value4": 30,
       "Value5": 0,
-      "Value6": 2,
+      "Value6": 1,
       "EffectIDs": "1005,1"
     },
     {
@@ -135,13 +135,13 @@
       "AttackType": 6,
       "PrefabName": "Purgatory",
       "BaseDamage": 100,
-      "AttackRange": 100,
+      "AttackRange": 50,
       "Value1": 3,
       "Value2": 20,
       "Value3": 0.4,
-      "Value4": 80,
+      "Value4": 10,
       "Value5": 1,
-      "Value6": 1,
+      "Value6": 0.5,
       "EffectIDs": "1006,1"
     },
     {
