@@ -89,6 +89,15 @@
       "Desc": "CARD_10010_DESC",
       "Tier": 3,
       "ICON": "AttackCards_110_Flamestrike"
+    },
+    {
+      "ID": 99001,
+      "CardType": "",
+      "CoolDown": 2,
+      "Name": null,
+      "Desc": null,
+      "Tier": null,
+      "ICON": null
     }
   ]
 }
