@@ -246,7 +246,7 @@
       "PrefabName": "ElecShock",
       "BaseDamage": 50,
       "AttackRange": 20,
-      "Knockback": 3,
+      "Knockback": 1,
       "Value1": 0.1,
       "Value2": 0.1,
       "Value3": 0,

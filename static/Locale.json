@@ -1049,6 +1049,21 @@
       "Key": "aug_desc_42",
       "ko": "적을 처치할 때 오버된 데미지가 가장 가까운 적에게 전달됩니다.",
       "en": null
+    },
+    {
+      "Key": "TYPE_ATK",
+      "ko": "공격",
+      "en": null
+    },
+    {
+      "Key": "TYPE_SKILL",
+      "ko": "스킬",
+      "en": null
+    },
+    {
+      "Key": "TYPE_POWER",
+      "ko": "파워",
+      "en": null
     }
   ]
 }
