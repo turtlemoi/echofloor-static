@@ -97,7 +97,7 @@
       "Name": "CARD_10301",
       "Desc": "CARD_10301_DESC",
       "Tier": 1,
-      "ICON": "AttackCards_301_ElecShock"
+      "ICON": "AttackCards_302_Light. Orb"
     },
     {
       "ID": 10302,
@@ -106,7 +106,7 @@
       "Name": "CARD_10302",
       "Desc": "CARD_10302_DESC",
       "Tier": 1,
-      "ICON": "AttackCards_302_Light. Orb"
+      "ICON": "AttackCards_301_ElecShock"
     },
     {
       "ID": 10303,

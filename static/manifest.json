@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T15:46:21.273Z",
+  "updatedAt": "2026-06-06T11:33:09.341Z",
   "sheets": [
     {
       "name": "Common",
@@ -21,8 +21,8 @@
     },
     {
       "name": "Cards",
-      "version": 7,
-      "hash": "534be3e43a4929b38f14736df33c8ac0593c53c2cdd43683874200e694b197d3",
+      "version": 8,
+      "hash": "cb41e0859405fc27aa68733f3dcbc01967ea429430851bc40e83f0b0661dd8f8",
       "url": "/static/Cards.json"
     },
     {
@@ -63,8 +63,8 @@
     },
     {
       "name": "Locale",
-      "version": 5,
-      "hash": "22ac4f964f13b928c236db35e8cec14cfd24bc936cf0415b3203a03abb2192e7",
+      "version": 6,
+      "hash": "1fe3dab949771fe3bc30fe84193080086217cd51431a6eae9eba459a7d168033",
       "url": "/static/Locale.json"
     }
   ]
