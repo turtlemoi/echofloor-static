@@ -182,7 +182,7 @@
     },
     {
       "ID": 99001,
-      "CardType": "",
+      "CardType": 4,
       "CoolDown": 2,
       "Name": null,
       "Desc": null,
