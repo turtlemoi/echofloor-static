@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-06-06T15:35:05.171Z",
+  "updatedAt": "2026-06-06T15:39:38.678Z",
   "sheets": [
     {
       "name": "Common",
-      "version": 6,
-      "hash": "f5c186bb8dd5bfa516806d220dc20d4073d1bd5a6438943aa06f616078d732f5",
+      "version": 7,
+      "hash": "d140364a6f03b1397881abbd47668e36d326f444e0006530c57695ee80afde22",
       "url": "/static/Common.json"
     },
     {
@@ -57,8 +57,8 @@
     },
     {
       "name": "Creature",
-      "version": 6,
-      "hash": "e6fe62d71f79bb92873bc5990d5f4c8a47ca64b89e69a249f8ba13bda1f9e745",
+      "version": 7,
+      "hash": "281524b69a5f4a8441ad692cb8d72a0c6673ebde33f7b9b7ff3d0568697e4882",
       "url": "/static/Creature.json"
     },
     {

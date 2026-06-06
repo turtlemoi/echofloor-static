@@ -2,7 +2,7 @@
   "data": [
     {
       "Key": "spawn_distance",
-      "Value": "8"
+      "Value": "20"
     },
     {
       "Key": "initial_draw_count",
