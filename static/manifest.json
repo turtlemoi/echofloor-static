@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T13:06:18.720Z",
+  "updatedAt": "2026-06-07T13:28:28.575Z",
   "sheets": [
     {
       "name": "Common",
@@ -33,8 +33,8 @@
     },
     {
       "name": "AttackEffects",
-      "version": 4,
-      "hash": "e892cc61e36f9194b16e052d582ac8a713bd67344a1178c4b5a7c76cb8cf937b",
+      "version": 5,
+      "hash": "eb9c88a03ea9b843c3b4e017542a3b9fb12110d96d2c52881fc475e46088cf96",
       "url": "/static/AttackEffects.json"
     },
     {
