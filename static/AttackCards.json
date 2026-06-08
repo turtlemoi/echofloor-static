@@ -142,7 +142,7 @@
       "Element": 1,
       "AttackType": 6,
       "PrefabName": "Purgatory",
-      "BaseDamage": 100,
+      "BaseDamage": 20,
       "AttackRange": 5,
       "Knockback": 1.5,
       "Value1": 3,
