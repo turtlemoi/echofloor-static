@@ -181,6 +181,393 @@
       "ICON": "AttackCards_310_Judgment"
     },
     {
+      "ID": 20001,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Name": "CARD_20001",
+      "Desc": "CARD_20001_DESC",
+      "Tier": 1,
+      "ICON": "skillcard_301_double_strike"
+    },
+    {
+      "ID": 20002,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Name": "CARD_20002",
+      "Desc": "CARD_20002_DESC",
+      "Tier": 1,
+      "ICON": "skillcard_302_echo"
+    },
+    {
+      "ID": 20003,
+      "CardType": 2,
+      "CoolDown": 1,
+      "Name": "CARD_20003",
+      "Desc": "CARD_20003_DESC",
+      "Tier": 1,
+      "ICON": "skillcard_303_resonance"
+    },
+    {
+      "ID": 20004,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Name": "CARD_20004",
+      "Desc": "CARD_20004_DESC",
+      "Tier": 1,
+      "ICON": "skillcard_304_barrage"
+    },
+    {
+      "ID": 20005,
+      "CardType": 2,
+      "CoolDown": 1.5,
+      "Name": "CARD_20005",
+      "Desc": "CARD_20005_DESC",
+      "Tier": 3,
+      "ICON": "skillcard_305_snipe"
+    },
+    {
+      "ID": 20006,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Name": "CARD_20006",
+      "Desc": "CARD_20006_DESC",
+      "Tier": 2,
+      "ICON": "skillcard_306_power_strike"
+    },
+    {
+      "ID": 20007,
+      "CardType": 2,
+      "CoolDown": 1,
+      "Name": "CARD_20007",
+      "Desc": "CARD_20007_DESC",
+      "Tier": 1,
+      "ICON": "skillcard_307_concentrated_fire"
+    },
+    {
+      "ID": 20008,
+      "CardType": 2,
+      "CoolDown": 3,
+      "Name": "CARD_20008",
+      "Desc": "CARD_20008_DESC",
+      "Tier": 3,
+      "ICON": "skillcard_308_signal_fire"
+    },
+    {
+      "ID": 20009,
+      "CardType": 2,
+      "CoolDown": 2,
+      "Name": "CARD_20009",
+      "Desc": "CARD_20009_DESC",
+      "Tier": 2,
+      "ICON": "skillcard_309_charge"
+    },
+    {
+      "ID": 20010,
+      "CardType": 2,
+      "CoolDown": 3,
+      "Name": "CARD_20010",
+      "Desc": "CARD_20010_DESC",
+      "Tier": 3,
+      "ICON": "skillcard_310_volley"
+    },
+    {
+      "ID": 20011,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Name": "CARD_20011",
+      "Desc": "CARD_20011_DESC",
+      "Tier": 3,
+      "ICON": "skillcard_311_rising_battle"
+    },
+    {
+      "ID": 20012,
+      "CardType": 2,
+      "CoolDown": 1,
+      "Name": "CARD_20012",
+      "Desc": "CARD_20012_DESC",
+      "Tier": 2,
+      "ICON": "skillcard_312_accelerate"
+    },
+    {
+      "ID": 20013,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Name": "CARD_20013",
+      "Desc": "CARD_20013_DESC",
+      "Tier": 1,
+      "ICON": "skillcard_313_overload"
+    },
+    {
+      "ID": 20014,
+      "CardType": 2,
+      "CoolDown": 1,
+      "Name": "CARD_20014",
+      "Desc": "CARD_20014_DESC",
+      "Tier": 1,
+      "ICON": "skillcard_314_focus"
+    },
+    {
+      "ID": 20015,
+      "CardType": 2,
+      "CoolDown": 2,
+      "Name": "CARD_20015",
+      "Desc": "CARD_20015_DESC",
+      "Tier": 2,
+      "ICON": "skillcard_315_synchronize"
+    },
+    {
+      "ID": 20016,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Name": "CARD_20016",
+      "Desc": "CARD_20016_DESC",
+      "Tier": 2,
+      "ICON": "skillcard_316_emergency_shuffle"
+    },
+    {
+      "ID": 20017,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Name": "CARD_20017",
+      "Desc": "CARD_20017_DESC",
+      "Tier": 3,
+      "ICON": "skillcard_317_curate"
+    },
+    {
+      "ID": 20018,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Name": "CARD_20018",
+      "Desc": "CARD_20018_DESC",
+      "Tier": 1,
+      "ICON": "skillcard_318_random_release"
+    },
+    {
+      "ID": 20019,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Name": "CARD_20019",
+      "Desc": "CARD_20019_DESC",
+      "Tier": 2,
+      "ICON": "skillcard_319_quick_draw"
+    },
+    {
+      "ID": 20020,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Name": "CARD_20020",
+      "Desc": "CARD_20020_DESC",
+      "Tier": 1,
+      "ICON": "skillcard_320_emergency_heal"
+    },
+    {
+      "ID": 20021,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Name": "CARD_20021",
+      "Desc": "CARD_20021_DESC",
+      "Tier": 2,
+      "ICON": "skillcard_321_combat_recovery"
+    },
+    {
+      "ID": 30001,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Name": "CARD_30001",
+      "Desc": "CARD_30001_DESC",
+      "Tier": 2,
+      "ICON": "powercard_401_double_strike"
+    },
+    {
+      "ID": 30002,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Name": "CARD_30002",
+      "Desc": "CARD_30002_DESC",
+      "Tier": 2,
+      "ICON": "powercard_402_combo_flow"
+    },
+    {
+      "ID": 30003,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Name": "CARD_30003",
+      "Desc": "CARD_30003_DESC",
+      "Tier": 1,
+      "ICON": "powercard_403_last_roar"
+    },
+    {
+      "ID": 30004,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Name": "CARD_30004",
+      "Desc": "CARD_30004_DESC",
+      "Tier": 1,
+      "ICON": "powercard_404_long_fight"
+    },
+    {
+      "ID": 30005,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Name": "CARD_30005",
+      "Desc": "CARD_30005_DESC",
+      "Tier": 1,
+      "ICON": "powercard_405_instant_blast"
+    },
+    {
+      "ID": 30006,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Name": "CARD_30006",
+      "Desc": "CARD_30006_DESC",
+      "Tier": 2,
+      "ICON": "powercard_406_resonance_seal"
+    },
+    {
+      "ID": 30007,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Name": "CARD_30007",
+      "Desc": "CARD_30007_DESC",
+      "Tier": 3,
+      "ICON": "powercard_407_catalyst"
+    },
+    {
+      "ID": 30008,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Name": "CARD_30008",
+      "Desc": "CARD_30008_DESC",
+      "Tier": 1,
+      "ICON": "powercard_408_thorns"
+    },
+    {
+      "ID": 30009,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Name": "CARD_30009",
+      "Desc": "CARD_30009_DESC",
+      "Tier": 1,
+      "ICON": "powercard_409_second_wind"
+    },
+    {
+      "ID": 30010,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Name": "CARD_30010",
+      "Desc": "CARD_30010_DESC",
+      "Tier": 3,
+      "ICON": "powercard_410_berserker_rush"
+    },
+    {
+      "ID": 30011,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Name": "CARD_30011",
+      "Desc": "CARD_30011_DESC",
+      "Tier": 1,
+      "ICON": "powercard_411_blood_fight"
+    },
+    {
+      "ID": 30012,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Name": "CARD_30012",
+      "Desc": "CARD_30012_DESC",
+      "Tier": 3,
+      "ICON": "powercard_412_intercept"
+    },
+    {
+      "ID": 30013,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Name": "CARD_30013",
+      "Desc": "CARD_30013_DESC",
+      "Tier": 3,
+      "ICON": "powercard_413_chain"
+    },
+    {
+      "ID": 30014,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Name": "CARD_30014",
+      "Desc": "CARD_30014_DESC",
+      "Tier": 3,
+      "ICON": "powercard_414_recall"
+    },
+    {
+      "ID": 30015,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Name": "CARD_30015",
+      "Desc": "CARD_30015_DESC",
+      "Tier": 2,
+      "ICON": "powercard_415_time_reverse"
+    },
+    {
+      "ID": 30016,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Name": "CARD_30016",
+      "Desc": "CARD_30016_DESC",
+      "Tier": 2,
+      "ICON": "powercard_416_vanguard"
+    },
+    {
+      "ID": 30017,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Name": "CARD_30017",
+      "Desc": "CARD_30017_DESC",
+      "Tier": 2,
+      "ICON": "powercard_417_echo"
+    },
+    {
+      "ID": 30018,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Name": "CARD_30018",
+      "Desc": "CARD_30018_DESC",
+      "Tier": 1,
+      "ICON": "powercard_418_potential"
+    },
+    {
+      "ID": 30019,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Name": "CARD_30019",
+      "Desc": "CARD_30019_DESC",
+      "Tier": 3,
+      "ICON": "powercard_419_gambler"
+    },
+    {
+      "ID": 30020,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Name": "CARD_30020",
+      "Desc": "CARD_30020_DESC",
+      "Tier": 3,
+      "ICON": "powercard_420_skill_heal"
+    },
+    {
+      "ID": 30021,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Name": "CARD_30021",
+      "Desc": "CARD_30021_DESC",
+      "Tier": 2,
+      "ICON": "powercard_421_cycle_heal"
+    },
+    {
+      "ID": 30022,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Name": "CARD_30022",
+      "Desc": "CARD_30022_DESC",
+      "Tier": 1,
+      "ICON": "powercard_422_reshuffle_heal"
+    },
+    {
       "ID": 99001,
       "CardType": 4,
       "CoolDown": 2,

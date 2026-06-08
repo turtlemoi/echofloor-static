@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T06:52:08.337Z",
+  "updatedAt": "2026-06-08T12:07:03.073Z",
   "sheets": [
     {
       "name": "Common",
@@ -22,7 +22,7 @@
     {
       "name": "Cards",
       "version": 8,
-      "hash": "86bffde01f5c1c80a017a35425dbd15496e578ed65a4ae943433e46acff3031b",
+      "hash": "a938b14ea2f7c95b98d70a0078442ef1526594c75debd5469a21ff5ffeeeecaf",
       "url": "/static/Cards.json"
     },
     {
@@ -39,14 +39,14 @@
     },
     {
       "name": "SkillCards",
-      "version": 1,
-      "hash": "071dcb85a86b1968d1278a8eea26d99d165e1f54e896eddf96d0cc1f1999e995",
+      "version": 2,
+      "hash": "710eb784e67c89ce5b8a262e53afd7087e1b457906ffb49250c7609c7b102efe",
       "url": "/static/SkillCards.json"
     },
     {
       "name": "PowerCards",
-      "version": 1,
-      "hash": "8c2393614bfb2509477ebdd43b20a9bc8eab46078b60185c5fe5bf4307aa2016",
+      "version": 3,
+      "hash": "cf2317062934c93356fe8c012aba6b5b8fce478bec3cfc06b95e3d47b393d0f8",
       "url": "/static/PowerCards.json"
     },
     {
@@ -63,8 +63,8 @@
     },
     {
       "name": "Locale",
-      "version": 7,
-      "hash": "8b4b3ef528fb9b2e808f972b3d2a75d9329ba311d1c10e2cc0eeb92049f1548c",
+      "version": 8,
+      "hash": "a1a3f311661b1773da2c3578f18b3d010ff3f3f94e157f12d25d79d0f95e699e",
       "url": "/static/Locale.json"
     }
   ]

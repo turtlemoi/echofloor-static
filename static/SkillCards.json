@@ -37,113 +37,15 @@
     },
     {
       "ID": 20006,
-      "EffectType": 6,
-      "Value1": 500,
-      "Value2": 0,
-      "Value3": 0
-    },
-    {
-      "ID": 20007,
-      "EffectType": 7,
-      "Value1": 0,
-      "Value2": 0,
-      "Value3": 0
-    },
-    {
-      "ID": 20008,
-      "EffectType": 8,
-      "Value1": 0,
-      "Value2": 0,
-      "Value3": 0
-    },
-    {
-      "ID": 20009,
-      "EffectType": 9,
-      "Value1": 0,
-      "Value2": 0,
-      "Value3": 0
-    },
-    {
-      "ID": 20010,
-      "EffectType": 10,
-      "Value1": 0,
-      "Value2": 0,
-      "Value3": 0
-    },
-    {
-      "ID": 20011,
-      "EffectType": 11,
-      "Value1": 20,
-      "Value2": 0,
-      "Value3": 0
-    },
-    {
-      "ID": 20012,
-      "EffectType": 12,
-      "Value1": 40,
-      "Value2": 0,
-      "Value3": 0
-    },
-    {
-      "ID": 20013,
-      "EffectType": 13,
-      "Value1": 2,
-      "Value2": 0,
-      "Value3": 0
-    },
-    {
-      "ID": 20014,
-      "EffectType": 14,
-      "Value1": 0,
-      "Value2": 0,
-      "Value3": 0
-    },
-    {
-      "ID": 20015,
-      "EffectType": 15,
-      "Value1": 0,
-      "Value2": 0,
-      "Value3": 0
-    },
-    {
-      "ID": 20016,
-      "EffectType": 16,
-      "Value1": 0,
-      "Value2": 0,
-      "Value3": 0
-    },
-    {
-      "ID": 20017,
-      "EffectType": 17,
-      "Value1": 0,
-      "Value2": 0,
-      "Value3": 0
-    },
-    {
-      "ID": 20018,
-      "EffectType": 18,
-      "Value1": 0,
-      "Value2": 0,
-      "Value3": 0
-    },
-    {
-      "ID": 20019,
       "EffectType": 19,
       "Value1": 2,
       "Value2": 0,
       "Value3": 0
     },
     {
-      "ID": 20020,
+      "ID": 20007,
       "EffectType": 20,
       "Value1": 4,
-      "Value2": 0,
-      "Value3": 0
-    },
-    {
-      "ID": 20021,
-      "EffectType": 21,
-      "Value1": 0,
       "Value2": 0,
       "Value3": 0
     }
