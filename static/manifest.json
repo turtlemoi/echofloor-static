@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T13:28:28.575Z",
+  "updatedAt": "2026-06-08T06:46:18.920Z",
   "sheets": [
     {
       "name": "Common",
@@ -15,8 +15,8 @@
     },
     {
       "name": "BattleData",
-      "version": 4,
-      "hash": "534b30b46e62fda9abf4787eea75098951c963c375403d5f1a7f1f48713ed9e7",
+      "version": 5,
+      "hash": "d3bf5eee7ddc7add13b1f3b58e7dfd91d56bfd2f57a8180dd597afac335ceb8b",
       "url": "/static/BattleData.json"
     },
     {
