@@ -83,6 +83,13 @@
       "Value1": null,
       "Value2": null,
       "Value3": null
+    },
+    {
+      "ID": 1011,
+      "EffectType": 3,
+      "Value1": 90001,
+      "Value2": 2,
+      "Value3": 1
     }
   ]
 }
