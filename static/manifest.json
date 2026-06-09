@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T12:49:55.378Z",
+  "updatedAt": "2026-06-09T13:29:45.392Z",
   "sheets": [
     {
       "name": "Common",
@@ -63,8 +63,8 @@
     },
     {
       "name": "Locale",
-      "version": 8,
-      "hash": "a1a3f311661b1773da2c3578f18b3d010ff3f3f94e157f12d25d79d0f95e699e",
+      "version": 9,
+      "hash": "2dfc90ce79f9966528b5f35833dcb0c62f78cfc6a3e0c419aaa15a9c3509de9a",
       "url": "/static/Locale.json"
     }
   ]
