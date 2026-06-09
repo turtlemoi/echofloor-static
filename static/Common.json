@@ -59,6 +59,10 @@
     {
       "Key": "player_critical_damage",
       "Value": "150"
+    },
+    {
+      "Key": "player_card",
+      "Value": "10101,10101,10101,10301,10301,10301,20007"
     }
   ]
 }
