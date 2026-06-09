@@ -4,351 +4,351 @@
       "ID": 10101,
       "CardType": 1,
       "CoolDown": 1,
+      "Tier": 1,
       "Name": "CARD_10101",
       "Desc": "CARD_10101_DESC",
-      "Tier": 1,
       "ICON": "AttackCards_101_Fireball"
     },
     {
       "ID": 10102,
       "CardType": 1,
       "CoolDown": 2,
+      "Tier": 1,
       "Name": "CARD_10102",
       "Desc": "CARD_10102_DESC",
-      "Tier": 1,
       "ICON": "AttackCards_102_Flamethrower"
     },
     {
       "ID": 10103,
       "CardType": 1,
       "CoolDown": 2,
+      "Tier": 1,
       "Name": "CARD_10103",
       "Desc": "CARD_10103_DESC",
-      "Tier": 1,
       "ICON": "AttackCards_103_FlameWave"
     },
     {
       "ID": 10104,
       "CardType": 1,
       "CoolDown": 2,
+      "Tier": 2,
       "Name": "CARD_10104",
       "Desc": "CARD_10104_DESC",
-      "Tier": 2,
       "ICON": "AttackCards_104_FlameBurst"
     },
     {
       "ID": 10105,
       "CardType": 1,
       "CoolDown": 3,
+      "Tier": 2,
       "Name": "CARD_10105",
       "Desc": "CARD_10105_DESC",
-      "Tier": 2,
       "ICON": "AttackCards_105_BurnGround"
     },
     {
       "ID": 10106,
       "CardType": 1,
       "CoolDown": 1,
+      "Tier": 2,
       "Name": "CARD_10106",
       "Desc": "CARD_10106_DESC",
-      "Tier": 2,
       "ICON": "AttackCards_106_Ignite"
     },
     {
       "ID": 10107,
       "CardType": 1,
       "CoolDown": 1,
+      "Tier": 2,
       "Name": "CARD_10107",
       "Desc": "CARD_10107_DESC",
-      "Tier": 2,
       "ICON": "AttackCards_107_Inferno"
     },
     {
       "ID": 10108,
       "CardType": 1,
       "CoolDown": 2,
+      "Tier": 3,
       "Name": "CARD_10108",
       "Desc": "CARD_10108_DESC",
-      "Tier": 3,
       "ICON": "AttackCards_108_Meteor"
     },
     {
       "ID": 10109,
       "CardType": 1,
       "CoolDown": 3,
+      "Tier": 3,
       "Name": "CARD_10109",
       "Desc": "CARD_10109_DESC",
-      "Tier": 3,
       "ICON": "AttackCards_109_Purgatory"
     },
     {
       "ID": 10110,
       "CardType": 1,
       "CoolDown": 1,
+      "Tier": 3,
       "Name": "CARD_10110",
       "Desc": "CARD_10110_DESC",
-      "Tier": 3,
       "ICON": "AttackCards_110_Flamestrike"
     },
     {
       "ID": 10301,
       "CardType": 1,
       "CoolDown": 1,
+      "Tier": 1,
       "Name": "CARD_10301",
       "Desc": "CARD_10301_DESC",
-      "Tier": 1,
       "ICON": "AttackCards_302_Light. Orb"
     },
     {
       "ID": 10302,
       "CardType": 1,
       "CoolDown": 1,
+      "Tier": 1,
       "Name": "CARD_10302",
       "Desc": "CARD_10302_DESC",
-      "Tier": 1,
       "ICON": "AttackCards_301_ElecShock"
     },
     {
       "ID": 10303,
       "CardType": 1,
       "CoolDown": 1,
+      "Tier": 1,
       "Name": "CARD_10303",
       "Desc": "CARD_10303_DESC",
-      "Tier": 1,
       "ICON": "AttackCards_303_LightningWhip"
     },
     {
       "ID": 10304,
       "CardType": 1,
       "CoolDown": 1,
+      "Tier": 2,
       "Name": "CARD_10304",
       "Desc": "CARD_10304_DESC",
-      "Tier": 2,
       "ICON": "AttackCards_304_Chain Light."
     },
     {
       "ID": 10305,
       "CardType": 1,
       "CoolDown": 1,
+      "Tier": 2,
       "Name": "CARD_10305",
       "Desc": "CARD_10305_DESC",
-      "Tier": 2,
       "ICON": "AttackCards_305_Light. Storm"
     },
     {
       "ID": 10306,
       "CardType": 1,
       "CoolDown": 1,
+      "Tier": 2,
       "Name": "CARD_10306",
       "Desc": "CARD_10306_DESC",
-      "Tier": 2,
       "ICON": "AttackCards_306_ElectricField"
     },
     {
       "ID": 10307,
       "CardType": 1,
       "CoolDown": 1,
+      "Tier": 2,
       "Name": "CARD_10307",
       "Desc": "CARD_10307_DESC",
-      "Tier": 2,
       "ICON": "AttackCards_307_Lightning"
     },
     {
       "ID": 10308,
       "CardType": 1,
       "CoolDown": 1,
+      "Tier": 3,
       "Name": "CARD_10308",
       "Desc": "CARD_10308_DESC",
-      "Tier": 3,
       "ICON": "AttackCards_308_Storm"
     },
     {
       "ID": 10309,
       "CardType": 1,
       "CoolDown": 1,
+      "Tier": 3,
       "Name": "CARD_10309",
       "Desc": "CARD_10309_DESC",
-      "Tier": 3,
       "ICON": "AttackCards_309_Thor"
     },
     {
       "ID": 10310,
       "CardType": 1,
       "CoolDown": 1,
+      "Tier": 3,
       "Name": "CARD_10310",
       "Desc": "CARD_10310_DESC",
-      "Tier": 3,
       "ICON": "AttackCards_310_Judgment"
     },
     {
       "ID": 20001,
       "CardType": 2,
       "CoolDown": 0.5,
+      "Tier": 1,
       "Name": "CARD_20001",
       "Desc": "CARD_20001_DESC",
-      "Tier": 1,
       "ICON": "skillcard_301_double_strike"
     },
     {
       "ID": 20002,
       "CardType": 2,
       "CoolDown": 0.5,
+      "Tier": 1,
       "Name": "CARD_20002",
       "Desc": "CARD_20002_DESC",
-      "Tier": 1,
       "ICON": "skillcard_302_echo"
     },
     {
       "ID": 20003,
       "CardType": 2,
       "CoolDown": 1,
+      "Tier": 1,
       "Name": "CARD_20003",
       "Desc": "CARD_20003_DESC",
-      "Tier": 1,
       "ICON": "skillcard_303_resonance"
     },
     {
       "ID": 20004,
       "CardType": 2,
       "CoolDown": 0.5,
+      "Tier": 1,
       "Name": "CARD_20004",
       "Desc": "CARD_20004_DESC",
-      "Tier": 1,
       "ICON": "skillcard_304_barrage"
     },
     {
       "ID": 20005,
       "CardType": 2,
       "CoolDown": 1.5,
+      "Tier": 3,
       "Name": "CARD_20005",
       "Desc": "CARD_20005_DESC",
-      "Tier": 3,
       "ICON": "skillcard_305_snipe"
     },
     {
       "ID": 20006,
       "CardType": 2,
       "CoolDown": 0.5,
+      "Tier": 2,
       "Name": "CARD_20006",
       "Desc": "CARD_20006_DESC",
-      "Tier": 2,
       "ICON": "skillcard_319_quick_draw"
     },
     {
       "ID": 20007,
       "CardType": 2,
       "CoolDown": 0.5,
+      "Tier": 1,
       "Name": "CARD_20007",
       "Desc": "CARD_20007_DESC",
-      "Tier": 1,
       "ICON": "skillcard_320_emergency_heal"
     },
     {
       "ID": 30001,
       "CardType": 3,
       "CoolDown": 2,
+      "Tier": 2,
       "Name": "CARD_30001",
       "Desc": "CARD_30001_DESC",
-      "Tier": 2,
       "ICON": "powercard_401_double_strike"
     },
     {
       "ID": 30002,
       "CardType": 3,
       "CoolDown": 2,
+      "Tier": 2,
       "Name": "CARD_30002",
       "Desc": "CARD_30002_DESC",
-      "Tier": 2,
       "ICON": "powercard_402_combo_flow"
     },
     {
       "ID": 30003,
       "CardType": 3,
       "CoolDown": 2,
+      "Tier": 1,
       "Name": "CARD_30003",
       "Desc": "CARD_30003_DESC",
-      "Tier": 1,
       "ICON": "powercard_403_last_roar"
     },
     {
       "ID": 30004,
       "CardType": 3,
       "CoolDown": 2,
+      "Tier": 1,
       "Name": "CARD_30004",
       "Desc": "CARD_30004_DESC",
-      "Tier": 1,
       "ICON": "powercard_405_instant_blast"
     },
     {
       "ID": 30005,
       "CardType": 3,
       "CoolDown": 2,
+      "Tier": 2,
       "Name": "CARD_30005",
       "Desc": "CARD_30005_DESC",
-      "Tier": 2,
       "ICON": "powercard_406_resonance_seal"
     },
     {
       "ID": 30006,
       "CardType": 3,
       "CoolDown": 2,
+      "Tier": 3,
       "Name": "CARD_30006",
       "Desc": "CARD_30006_DESC",
-      "Tier": 3,
       "ICON": "powercard_407_catalyst"
     },
     {
       "ID": 30007,
       "CardType": 3,
       "CoolDown": 2,
+      "Tier": 1,
       "Name": "CARD_30007",
       "Desc": "CARD_30007_DESC",
-      "Tier": 1,
       "ICON": "powercard_409_second_wind"
     },
     {
       "ID": 30008,
       "CardType": 3,
       "CoolDown": 2,
+      "Tier": 3,
       "Name": "CARD_30008",
       "Desc": "CARD_30008_DESC",
-      "Tier": 3,
       "ICON": "powercard_413_chain"
     },
     {
       "ID": 30009,
       "CardType": 3,
       "CoolDown": 2,
+      "Tier": 3,
       "Name": "CARD_30009",
       "Desc": "CARD_30009_DESC",
-      "Tier": 3,
       "ICON": "powercard_414_recall"
     },
     {
       "ID": 30010,
       "CardType": 3,
       "CoolDown": 2,
+      "Tier": 2,
       "Name": "CARD_30010",
       "Desc": "CARD_30010_DESC",
-      "Tier": 2,
       "ICON": "powercard_416_vanguard"
     },
     {
       "ID": 30011,
       "CardType": 3,
       "CoolDown": 2,
+      "Tier": 3,
       "Name": "CARD_30011",
       "Desc": "CARD_30011_DESC",
-      "Tier": 3,
       "ICON": "powercard_419_gambler"
     },
     {
       "ID": 99001,
       "CardType": 4,
       "CoolDown": 2,
+      "Tier": null,
       "Name": null,
       "Desc": null,
-      "Tier": null,
       "ICON": null
     }
   ]
