@@ -171,6 +171,23 @@
       "EffectIDs": "1001,1"
     },
     {
+      "ID": 10111,
+      "Tier": 1,
+      "Element": 1,
+      "AttackType": 1,
+      "PrefabName": "Fireball",
+      "BaseDamage": 300,
+      "AttackRange": 10,
+      "Knockback": 1.5,
+      "Value1": 6,
+      "Value2": 1,
+      "Value3": 0,
+      "Value4": 1,
+      "Value5": 0.1,
+      "Value6": 0,
+      "EffectIDs": "1012,1001,1,1011"
+    },
+    {
       "ID": 10301,
       "Tier": 1,
       "Element": 3,
@@ -298,7 +315,7 @@
       "BaseDamage": 50,
       "AttackRange": 5,
       "Knockback": 1,
-      "Value1": 0,
+      "Value1": 1,
       "Value2": 10,
       "Value3": 0.2,
       "Value4": "",
@@ -339,6 +356,23 @@
       "Value5": "",
       "Value6": "",
       "EffectIDs": "1010"
+    },
+    {
+      "ID": 10311,
+      "Tier": 1,
+      "Element": 3,
+      "AttackType": 8,
+      "PrefabName": "Light. Orb_boom",
+      "BaseDamage": 100,
+      "AttackRange": 10,
+      "Knockback": 0.1,
+      "Value1": 1,
+      "Value2": 0,
+      "Value3": 0.2,
+      "Value4": "",
+      "Value5": "",
+      "Value6": "",
+      "EffectIDs": "1013"
     },
     {
       "ID": 90001,
@@ -389,7 +423,7 @@
       "Value4": "",
       "Value5": "",
       "Value6": "",
-      "EffectIDs": "2"
+      "EffectIDs": null
     },
     {
       "ID": 99001,

@@ -91,6 +91,15 @@
       "ICON": "AttackCards_110_Flamestrike"
     },
     {
+      "ID": 10111,
+      "CardType": 5,
+      "CoolDown": 1,
+      "Tier": 1,
+      "Name": "CARD_10111",
+      "Desc": "CARD_10111_DESC",
+      "ICON": "AttackCards_Fireball_skill"
+    },
+    {
       "ID": 10301,
       "CardType": 1,
       "CoolDown": 1,
@@ -179,6 +188,15 @@
       "Name": "CARD_10310",
       "Desc": "CARD_10310_DESC",
       "ICON": "AttackCards_310_Judgment"
+    },
+    {
+      "ID": 10311,
+      "CardType": 1,
+      "CoolDown": 1,
+      "Tier": 1,
+      "Name": "CARD_10311",
+      "Desc": "CARD_10311_DESC",
+      "ICON": "AttackCards_Light.Orb_skill"
     },
     {
       "ID": 20001,
