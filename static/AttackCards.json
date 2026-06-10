@@ -362,7 +362,7 @@
       "Tier": 1,
       "Element": 3,
       "AttackType": 8,
-      "PrefabName": "Light. Orb_boom",
+      "PrefabName": "Light. Orb_skill",
       "BaseDamage": 100,
       "AttackRange": 10,
       "Knockback": 0.1,
