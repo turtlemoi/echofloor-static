@@ -834,6 +834,11 @@
       "Key": "TYPE_POWER",
       "ko": "파워",
       "en": null
+    },
+    {
+      "Key": "SHOP_REFRESH",
+      "ko": "재입고 ({0})",
+      "en": null
     }
   ]
 }

@@ -87,6 +87,14 @@
     {
       "Key": "shop_delete_price_plus",
       "Value": "25"
+    },
+    {
+      "Key": "shop_refresh_price",
+      "Value": "5,10,15"
+    },
+    {
+      "Key": "shop_refresh_count",
+      "Value": "3"
     }
   ]
 }
