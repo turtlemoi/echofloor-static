@@ -92,7 +92,7 @@
     },
     {
       "ID": 10111,
-      "CardType": 5,
+      "CardType": 1,
       "CoolDown": 1,
       "Tier": 1,
       "Name": "CARD_10111",
