@@ -67,6 +67,26 @@
     {
       "Key": "card_drop_rate",
       "Value": "70,20,10"
+    },
+    {
+      "Key": "shop_card_price_t1",
+      "Value": "20,40"
+    },
+    {
+      "Key": "shop_card_price_t2",
+      "Value": "50,70"
+    },
+    {
+      "Key": "shop_card_price_t3",
+      "Value": "80,100"
+    },
+    {
+      "Key": "shop_delete_price_default",
+      "Value": "50"
+    },
+    {
+      "Key": "shop_delete_price_plus",
+      "Value": "25"
     }
   ]
 }
