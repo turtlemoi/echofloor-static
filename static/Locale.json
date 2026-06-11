@@ -839,6 +839,11 @@
       "Key": "SHOP_REFRESH",
       "ko": "재입고 ({0})",
       "en": null
+    },
+    {
+      "Key": "SHOP_NEXT",
+      "ko": "다음 스테이지로 이동",
+      "en": null
     }
   ]
 }
