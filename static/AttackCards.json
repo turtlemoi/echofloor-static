@@ -11,9 +11,9 @@
       "Knockback": 1.5,
       "Value1": 6,
       "Value2": 1,
-      "Value3": 0,
+      "Value3": 10,
       "Value4": 1,
-      "Value5": 0,
+      "Value5": 0.2,
       "Value6": 0,
       "EffectIDs": "1001,1011",
       "Series": "1"
@@ -106,7 +106,7 @@
       "Value5": "",
       "Value6": "",
       "EffectIDs": "1004,1",
-      "Series": ""
+      "Series": "2"
     },
     {
       "ID": 10107,
@@ -191,9 +191,9 @@
       "Knockback": 1,
       "Value1": 6,
       "Value2": 0,
-      "Value3": 0,
+      "Value3": 10,
       "Value4": 1,
-      "Value5": 0,
+      "Value5": 0.1,
       "Value6": 0,
       "EffectIDs": "1014,1011",
       "Series": "1"
@@ -209,9 +209,9 @@
       "Knockback": 1,
       "Value1": 6,
       "Value2": 0,
-      "Value3": 0,
+      "Value3": 10,
       "Value4": 1,
-      "Value5": 0,
+      "Value5": 0.1,
       "Value6": 0,
       "EffectIDs": "1015,1011",
       "Series": "1"
@@ -227,9 +227,9 @@
       "Knockback": 1.5,
       "Value1": 6,
       "Value2": 3,
-      "Value3": 0,
+      "Value3": 10,
       "Value4": 1,
-      "Value5": 0,
+      "Value5": 0.1,
       "Value6": 0,
       "EffectIDs": "1016,1011",
       "Series": "1"
