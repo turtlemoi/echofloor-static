@@ -117,7 +117,7 @@
       "Tier": 2,
       "Name": "CARD_10112",
       "Desc": "CARD_10112_DESC",
-      "ICON": "",
+      "ICON": "AttackCards_112_Flameshot",
       "Series": 1
     },
     {
@@ -127,7 +127,7 @@
       "Tier": 3,
       "Name": "CARD_10113",
       "Desc": "CARD_10113_DESC",
-      "ICON": "",
+      "ICON": "AttackCards_113_FireballStorm",
       "Series": 1
     },
     {
@@ -317,7 +317,7 @@
       "Tier": 1,
       "Name": "CARD_20008",
       "Desc": "CARD_20008_DESC",
-      "ICON": "",
+      "ICON": "skillcard_321_flame_hone",
       "Series": 1
     },
     {
@@ -327,7 +327,7 @@
       "Tier": 2,
       "Name": "CARD_20009",
       "Desc": "CARD_20009_DESC",
-      "ICON": "",
+      "ICON": "skillcard_322_ignition_load",
       "Series": 1
     },
     {
@@ -447,7 +447,7 @@
       "Tier": 1,
       "Name": "CARD_30012",
       "Desc": "CARD_30012_DESC",
-      "ICON": "",
+      "ICON": "powercard_420_burning_bullet",
       "Series": 1
     },
     {
@@ -457,7 +457,7 @@
       "Tier": 2,
       "Name": "CARD_30013",
       "Desc": "CARD_30013_DESC",
-      "ICON": "",
+      "ICON": "powercard_421_ballistic_mastery",
       "Series": 1
     },
     {
@@ -467,7 +467,7 @@
       "Tier": 2,
       "Name": "CARD_30014",
       "Desc": "CARD_30014_DESC",
-      "ICON": "",
+      "ICON": "powercard_422_splitting_shot",
       "Series": 1
     },
     {
