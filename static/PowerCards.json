@@ -87,6 +87,30 @@
       "Value1": 0,
       "Value2": 0,
       "Value3": 0
+    },
+    {
+      "ID": 30012,
+      "TriggerType": 6,
+      "EffectType": 30,
+      "Value1": 1,
+      "Value2": 1,
+      "Value3": 0
+    },
+    {
+      "ID": 30013,
+      "TriggerType": 6,
+      "EffectType": 31,
+      "Value1": 1,
+      "Value2": 1,
+      "Value3": 0
+    },
+    {
+      "ID": 30014,
+      "TriggerType": 6,
+      "EffectType": 30,
+      "Value1": 1018,
+      "Value2": 1,
+      "Value3": 0
     }
   ]
 }

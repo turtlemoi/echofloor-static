@@ -15,7 +15,8 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "1001,1,1011"
+      "EffectIDs": "1001,1011",
+      "Series": "1"
     },
     {
       "ID": 10102,
@@ -32,7 +33,8 @@
       "Value4": 0,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "1002,1"
+      "EffectIDs": "1002,1",
+      "Series": ""
     },
     {
       "ID": 10103,
@@ -49,7 +51,8 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 1,
-      "EffectIDs": "1001,1"
+      "EffectIDs": "1001",
+      "Series": ""
     },
     {
       "ID": 10104,
@@ -66,7 +69,8 @@
       "Value4": "",
       "Value5": "",
       "Value6": "",
-      "EffectIDs": "1003,1"
+      "EffectIDs": "1003",
+      "Series": ""
     },
     {
       "ID": 10105,
@@ -83,7 +87,8 @@
       "Value4": 0,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "1002,1"
+      "EffectIDs": "1002,1",
+      "Series": ""
     },
     {
       "ID": 10106,
@@ -100,7 +105,8 @@
       "Value4": "",
       "Value5": "",
       "Value6": "",
-      "EffectIDs": "1004,1"
+      "EffectIDs": "1004,1",
+      "Series": ""
     },
     {
       "ID": 10107,
@@ -117,7 +123,8 @@
       "Value4": "",
       "Value5": "",
       "Value6": "",
-      "EffectIDs": "1001,1"
+      "EffectIDs": "1001,1",
+      "Series": ""
     },
     {
       "ID": 10108,
@@ -134,7 +141,8 @@
       "Value4": 30,
       "Value5": 0,
       "Value6": 1,
-      "EffectIDs": "1005,1"
+      "EffectIDs": "1005",
+      "Series": ""
     },
     {
       "ID": 10109,
@@ -146,12 +154,13 @@
       "AttackRange": 7,
       "Knockback": 0.5,
       "Value1": 3,
-      "Value2": 30,
+      "Value2": 3,
       "Value3": 0.1,
       "Value4": 10,
       "Value5": 1,
       "Value6": 0.8,
-      "EffectIDs": "1006,1"
+      "EffectIDs": "1006,1011",
+      "Series": "1"
     },
     {
       "ID": 10110,
@@ -168,7 +177,8 @@
       "Value4": 0,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "1001,1"
+      "EffectIDs": "1001,1",
+      "Series": ""
     },
     {
       "ID": 10111,
@@ -176,16 +186,53 @@
       "Element": 1,
       "AttackType": 1,
       "PrefabName": "Fireball",
-      "BaseDamage": 300,
+      "BaseDamage": 120,
+      "AttackRange": 10,
+      "Knockback": 1,
+      "Value1": 6,
+      "Value2": 0,
+      "Value3": 0,
+      "Value4": 1,
+      "Value5": 0,
+      "Value6": 0,
+      "EffectIDs": "1014,1011",
+      "Series": "1"
+    },
+    {
+      "ID": 10112,
+      "Tier": 2,
+      "Element": 1,
+      "AttackType": 1,
+      "PrefabName": "Fireball",
+      "BaseDamage": 150,
+      "AttackRange": 10,
+      "Knockback": 1,
+      "Value1": 6,
+      "Value2": 0,
+      "Value3": 0,
+      "Value4": 1,
+      "Value5": 0,
+      "Value6": 0,
+      "EffectIDs": "1015,1011",
+      "Series": "1"
+    },
+    {
+      "ID": 10113,
+      "Tier": 3,
+      "Element": 1,
+      "AttackType": 1,
+      "PrefabName": "Fireball",
+      "BaseDamage": 150,
       "AttackRange": 10,
       "Knockback": 1.5,
       "Value1": 6,
-      "Value2": 1,
+      "Value2": 3,
       "Value3": 0,
       "Value4": 1,
-      "Value5": 0.1,
+      "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "1012,1001,1,1011"
+      "EffectIDs": "1016,1011",
+      "Series": "1"
     },
     {
       "ID": 10301,
@@ -202,7 +249,8 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "1007,2"
+      "EffectIDs": "1007,2",
+      "Series": ""
     },
     {
       "ID": 10302,
@@ -219,7 +267,8 @@
       "Value4": 0,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "2"
+      "EffectIDs": "2",
+      "Series": ""
     },
     {
       "ID": 10303,
@@ -236,7 +285,8 @@
       "Value4": 0,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "2"
+      "EffectIDs": "2",
+      "Series": ""
     },
     {
       "ID": 10304,
@@ -253,7 +303,8 @@
       "Value4": 1,
       "Value5": 1.5,
       "Value6": 0,
-      "EffectIDs": "2"
+      "EffectIDs": "2",
+      "Series": ""
     },
     {
       "ID": 10305,
@@ -270,7 +321,8 @@
       "Value4": 0,
       "Value5": 0,
       "Value6": 50,
-      "EffectIDs": "2"
+      "EffectIDs": "2",
+      "Series": ""
     },
     {
       "ID": 10306,
@@ -287,7 +339,8 @@
       "Value4": "",
       "Value5": "",
       "Value6": "",
-      "EffectIDs": "2"
+      "EffectIDs": "2",
+      "Series": ""
     },
     {
       "ID": 10307,
@@ -304,7 +357,8 @@
       "Value4": "",
       "Value5": "",
       "Value6": "",
-      "EffectIDs": "2"
+      "EffectIDs": "2",
+      "Series": ""
     },
     {
       "ID": 10308,
@@ -321,7 +375,8 @@
       "Value4": "",
       "Value5": "",
       "Value6": "",
-      "EffectIDs": "1008"
+      "EffectIDs": "1008",
+      "Series": ""
     },
     {
       "ID": 10309,
@@ -338,7 +393,8 @@
       "Value4": 1,
       "Value5": 0.1,
       "Value6": 0,
-      "EffectIDs": "1009"
+      "EffectIDs": "1009",
+      "Series": ""
     },
     {
       "ID": 10310,
@@ -355,7 +411,8 @@
       "Value4": "",
       "Value5": "",
       "Value6": "",
-      "EffectIDs": "1010"
+      "EffectIDs": "1010",
+      "Series": ""
     },
     {
       "ID": 10311,
@@ -372,7 +429,8 @@
       "Value4": "",
       "Value5": "",
       "Value6": "",
-      "EffectIDs": "1013"
+      "EffectIDs": "1013",
+      "Series": ""
     },
     {
       "ID": 90001,
@@ -389,7 +447,8 @@
       "Value4": "",
       "Value5": "",
       "Value6": "",
-      "EffectIDs": "1"
+      "EffectIDs": "1",
+      "Series": ""
     },
     {
       "ID": 90002,
@@ -406,11 +465,12 @@
       "Value4": 80,
       "Value5": 0,
       "Value6": 1,
-      "EffectIDs": "1006,1"
+      "EffectIDs": "1006,1",
+      "Series": ""
     },
     {
       "ID": 90003,
-      "Tier": 1,
+      "Tier": 0,
       "Element": 3,
       "AttackType": 3,
       "PrefabName": "Light. Orb_boom",
@@ -423,7 +483,26 @@
       "Value4": "",
       "Value5": "",
       "Value6": "",
-      "EffectIDs": null
+      "EffectIDs": "",
+      "Series": ""
+    },
+    {
+      "ID": 90004,
+      "Tier": 0,
+      "Element": 1,
+      "AttackType": 1,
+      "PrefabName": "Fireball",
+      "BaseDamage": 50,
+      "AttackRange": 10,
+      "Knockback": 0.5,
+      "Value1": 6,
+      "Value2": 1,
+      "Value3": 0,
+      "Value4": 1,
+      "Value5": 0,
+      "Value6": 0,
+      "EffectIDs": "",
+      "Series": "1"
     },
     {
       "ID": 99001,
@@ -434,13 +513,14 @@
       "BaseDamage": 100,
       "AttackRange": 2,
       "Knockback": 1,
-      "Value1": null,
-      "Value2": null,
-      "Value3": null,
-      "Value4": null,
-      "Value5": null,
-      "Value6": null,
-      "EffectIDs": null
+      "Value1": "",
+      "Value2": "",
+      "Value3": "",
+      "Value4": "",
+      "Value5": "",
+      "Value6": "",
+      "EffectIDs": "",
+      "Series": ""
     }
   ]
 }
