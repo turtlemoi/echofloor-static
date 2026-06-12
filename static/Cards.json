@@ -131,116 +131,6 @@
       "Series": 1
     },
     {
-      "ID": 10301,
-      "CardType": 1,
-      "CoolDown": 1,
-      "Tier": 1,
-      "Name": "CARD_10301",
-      "Desc": "CARD_10301_DESC",
-      "ICON": "AttackCards_302_Light. Orb",
-      "Series": ""
-    },
-    {
-      "ID": 10302,
-      "CardType": 1,
-      "CoolDown": 1,
-      "Tier": 1,
-      "Name": "CARD_10302",
-      "Desc": "CARD_10302_DESC",
-      "ICON": "AttackCards_301_ElecShock",
-      "Series": ""
-    },
-    {
-      "ID": 10303,
-      "CardType": 1,
-      "CoolDown": 1,
-      "Tier": 1,
-      "Name": "CARD_10303",
-      "Desc": "CARD_10303_DESC",
-      "ICON": "AttackCards_303_LightningWhip",
-      "Series": ""
-    },
-    {
-      "ID": 10304,
-      "CardType": 1,
-      "CoolDown": 1,
-      "Tier": 2,
-      "Name": "CARD_10304",
-      "Desc": "CARD_10304_DESC",
-      "ICON": "AttackCards_304_Chain Light.",
-      "Series": ""
-    },
-    {
-      "ID": 10305,
-      "CardType": 1,
-      "CoolDown": 1,
-      "Tier": 2,
-      "Name": "CARD_10305",
-      "Desc": "CARD_10305_DESC",
-      "ICON": "AttackCards_305_Light. Storm",
-      "Series": ""
-    },
-    {
-      "ID": 10306,
-      "CardType": 1,
-      "CoolDown": 1,
-      "Tier": 2,
-      "Name": "CARD_10306",
-      "Desc": "CARD_10306_DESC",
-      "ICON": "AttackCards_306_ElectricField",
-      "Series": ""
-    },
-    {
-      "ID": 10307,
-      "CardType": 1,
-      "CoolDown": 1,
-      "Tier": 2,
-      "Name": "CARD_10307",
-      "Desc": "CARD_10307_DESC",
-      "ICON": "AttackCards_307_Lightning",
-      "Series": ""
-    },
-    {
-      "ID": 10308,
-      "CardType": 1,
-      "CoolDown": 1,
-      "Tier": 3,
-      "Name": "CARD_10308",
-      "Desc": "CARD_10308_DESC",
-      "ICON": "AttackCards_308_Storm",
-      "Series": ""
-    },
-    {
-      "ID": 10309,
-      "CardType": 1,
-      "CoolDown": 1,
-      "Tier": 3,
-      "Name": "CARD_10309",
-      "Desc": "CARD_10309_DESC",
-      "ICON": "AttackCards_309_Thor",
-      "Series": ""
-    },
-    {
-      "ID": 10310,
-      "CardType": 1,
-      "CoolDown": 1,
-      "Tier": 3,
-      "Name": "CARD_10310",
-      "Desc": "CARD_10310_DESC",
-      "ICON": "AttackCards_310_Judgment",
-      "Series": ""
-    },
-    {
-      "ID": 10311,
-      "CardType": 1,
-      "CoolDown": 1,
-      "Tier": 1,
-      "Name": "CARD_10311",
-      "Desc": "CARD_10311_DESC",
-      "ICON": "AttackCards_Light.Orb_skill",
-      "Series": ""
-    },
-    {
       "ID": 20001,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -248,26 +138,6 @@
       "Name": "CARD_20001",
       "Desc": "CARD_20001_DESC",
       "ICON": "skillcard_301_double_strike",
-      "Series": ""
-    },
-    {
-      "ID": 20002,
-      "CardType": 2,
-      "CoolDown": 0.5,
-      "Tier": 1,
-      "Name": "CARD_20002",
-      "Desc": "CARD_20002_DESC",
-      "ICON": "skillcard_302_echo",
-      "Series": ""
-    },
-    {
-      "ID": 20003,
-      "CardType": 2,
-      "CoolDown": 1,
-      "Tier": 1,
-      "Name": "CARD_20003",
-      "Desc": "CARD_20003_DESC",
-      "ICON": "skillcard_303_resonance",
       "Series": ""
     },
     {
@@ -301,16 +171,6 @@
       "Series": ""
     },
     {
-      "ID": 20007,
-      "CardType": 2,
-      "CoolDown": 0.5,
-      "Tier": 1,
-      "Name": "CARD_20007",
-      "Desc": "CARD_20007_DESC",
-      "ICON": "skillcard_320_emergency_heal",
-      "Series": ""
-    },
-    {
       "ID": 20008,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -331,36 +191,6 @@
       "Series": 1
     },
     {
-      "ID": 30001,
-      "CardType": 3,
-      "CoolDown": 2,
-      "Tier": 2,
-      "Name": "CARD_30001",
-      "Desc": "CARD_30001_DESC",
-      "ICON": "powercard_401_double_strike",
-      "Series": ""
-    },
-    {
-      "ID": 30002,
-      "CardType": 3,
-      "CoolDown": 2,
-      "Tier": 2,
-      "Name": "CARD_30002",
-      "Desc": "CARD_30002_DESC",
-      "ICON": "powercard_402_combo_flow",
-      "Series": ""
-    },
-    {
-      "ID": 30003,
-      "CardType": 3,
-      "CoolDown": 2,
-      "Tier": 1,
-      "Name": "CARD_30003",
-      "Desc": "CARD_30003_DESC",
-      "ICON": "powercard_403_last_roar",
-      "Series": ""
-    },
-    {
       "ID": 30004,
       "CardType": 3,
       "CoolDown": 2,
@@ -368,16 +198,6 @@
       "Name": "CARD_30004",
       "Desc": "CARD_30004_DESC",
       "ICON": "powercard_405_instant_blast",
-      "Series": ""
-    },
-    {
-      "ID": 30005,
-      "CardType": 3,
-      "CoolDown": 2,
-      "Tier": 2,
-      "Name": "CARD_30005",
-      "Desc": "CARD_30005_DESC",
-      "ICON": "powercard_406_resonance_seal",
       "Series": ""
     },
     {
@@ -391,16 +211,6 @@
       "Series": ""
     },
     {
-      "ID": 30007,
-      "CardType": 3,
-      "CoolDown": 2,
-      "Tier": 1,
-      "Name": "CARD_30007",
-      "Desc": "CARD_30007_DESC",
-      "ICON": "powercard_409_second_wind",
-      "Series": ""
-    },
-    {
       "ID": 30008,
       "CardType": 3,
       "CoolDown": 2,
@@ -408,16 +218,6 @@
       "Name": "CARD_30008",
       "Desc": "CARD_30008_DESC",
       "ICON": "powercard_413_chain",
-      "Series": ""
-    },
-    {
-      "ID": 30009,
-      "CardType": 3,
-      "CoolDown": 2,
-      "Tier": 3,
-      "Name": "CARD_30009",
-      "Desc": "CARD_30009_DESC",
-      "ICON": "powercard_414_recall",
       "Series": ""
     },
     {

@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-06-12T14:42:42.458Z",
+  "updatedAt": "2026-06-12T15:04:59.806Z",
   "sheets": [
     {
       "name": "Common",
-      "version": 13,
-      "hash": "cec473fb66c82bb9f96e7b8749e3a01343a050c99016c0e47423e97949e6db83",
+      "version": 15,
+      "hash": "25e432637d3612f01940707ff36418894c2bbb23a8c17aec850745dde2559b18",
       "url": "/static/Common.json"
     },
     {
@@ -22,7 +22,7 @@
     {
       "name": "Cards",
       "version": 14,
-      "hash": "4d84775c39c1b375d54dc95531ee1f7479b8085f946d19b02f6bc77b59730410",
+      "hash": "603bcad7d808356cbb214a71339cb0e18dfffb4b755613170f01c9d36402776d",
       "url": "/static/Cards.json"
     },
     {
