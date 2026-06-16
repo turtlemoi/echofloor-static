@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T06:30:48.503Z",
+  "updatedAt": "2026-06-16T06:58:43.456Z",
   "sheets": [
     {
       "name": "Common",
@@ -21,8 +21,8 @@
     },
     {
       "name": "Cards",
-      "version": 16,
-      "hash": "996150e3019a44119267132769d24a8d41c9c83a5e0e818d04edc6ab4a7213ee",
+      "version": 17,
+      "hash": "7e503282374c00271b673385114e997ad2864bd4094cd99bacfae481a6a74fd5",
       "url": "/static/Cards.json"
     },
     {
