@@ -51,6 +51,46 @@
       "Series": 1
     },
     {
+      "ID": 10210,
+      "CardType": 1,
+      "CoolDown": 1,
+      "Tier": 1,
+      "Name": "CARD_10210",
+      "Desc": "CARD_10210_DESC",
+      "ICON": "AttackCards_210_ForceRelease",
+      "Series": 4
+    },
+    {
+      "ID": 10211,
+      "CardType": 1,
+      "CoolDown": 2,
+      "Tier": 2,
+      "Name": "CARD_10211",
+      "Desc": "CARD_10211_DESC",
+      "ICON": "AttackCards_211_FrostOrb",
+      "Series": 4
+    },
+    {
+      "ID": 10212,
+      "CardType": 1,
+      "CoolDown": 3,
+      "Tier": 3,
+      "Name": "CARD_10212",
+      "Desc": "CARD_10212_DESC",
+      "ICON": "AttackCards_212_OrbBurst",
+      "Series": 4
+    },
+    {
+      "ID": 10213,
+      "CardType": 1,
+      "CoolDown": 3,
+      "Tier": 3,
+      "Name": "CARD_10213",
+      "Desc": "CARD_10213_DESC",
+      "ICON": "AttackCards_213_FrostOrbit",
+      "Series": 4
+    },
+    {
       "ID": 10302,
       "CardType": 1,
       "CoolDown": 1,
