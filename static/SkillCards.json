@@ -62,6 +62,20 @@
       "Value1": 1,
       "Value2": 1,
       "Value3": 0
+    },
+    {
+      "ID": 20010,
+      "EffectType": 23,
+      "Value1": 0,
+      "Value2": 3,
+      "Value3": 0
+    },
+    {
+      "ID": 20011,
+      "EffectType": 24,
+      "Value1": 1,
+      "Value2": 2,
+      "Value3": 3
     }
   ]
 }

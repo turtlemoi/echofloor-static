@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-06-12T15:35:07.076Z",
+  "updatedAt": "2026-06-16T06:30:48.503Z",
   "sheets": [
     {
       "name": "Common",
-      "version": 15,
-      "hash": "25e432637d3612f01940707ff36418894c2bbb23a8c17aec850745dde2559b18",
+      "version": 16,
+      "hash": "36e619f447f29a56c069dc0743184c5b444c381dadbd44e27bfa39d51ae60fde",
       "url": "/static/Common.json"
     },
     {
@@ -21,32 +21,32 @@
     },
     {
       "name": "Cards",
-      "version": 14,
-      "hash": "603bcad7d808356cbb214a71339cb0e18dfffb4b755613170f01c9d36402776d",
+      "version": 16,
+      "hash": "996150e3019a44119267132769d24a8d41c9c83a5e0e818d04edc6ab4a7213ee",
       "url": "/static/Cards.json"
     },
     {
       "name": "AttackCards",
-      "version": 41,
-      "hash": "708a6f65cb788ad931e40bee4c4f40a7221d9721d9b50b5010046aaec52a5a30",
+      "version": 42,
+      "hash": "94699a99c2a1da7bd55a883bbbb1acc731bb9fdd4c86b99248a6249edaec055c",
       "url": "/static/AttackCards.json"
     },
     {
       "name": "AttackEffects",
-      "version": 10,
-      "hash": "d7fe236da5351daa14c6209fa4585cbbeb329aeb7cc5ceca421753c09c968890",
+      "version": 11,
+      "hash": "e2c72d7870549229ea5f07aa0dd4a0e027d2f5522bbc3b15153ede9321197b71",
       "url": "/static/AttackEffects.json"
     },
     {
       "name": "SkillCards",
-      "version": 3,
-      "hash": "fcf9c176d8a1ca4fff11a90c5922a27edb0694a0d33327c0067fb697b3cf8c1c",
+      "version": 4,
+      "hash": "742efd87741318e87e7575e70cbf4d354a02f0a15d53d78b81a416b7c260b0e3",
       "url": "/static/SkillCards.json"
     },
     {
       "name": "PowerCards",
       "version": 5,
-      "hash": "35cc29ab49df7a6aaf7ebd701052bf6ff247ecb4e856908261f987843179005a",
+      "hash": "6e3fa95b0c56777b04dfa366f8a109f6aaedb53d399eec30918d62ac0760b221",
       "url": "/static/PowerCards.json"
     },
     {
@@ -63,8 +63,8 @@
     },
     {
       "name": "Locale",
-      "version": 15,
-      "hash": "a81c866e816f6c3ae254e022148d8027f18ec02cdbbe791af8c053d96f8c87ed",
+      "version": 16,
+      "hash": "b65227bacc26b817928691821b93dea9db8cb8585a596ce61514599929ba4e26",
       "url": "/static/Locale.json"
     }
   ]

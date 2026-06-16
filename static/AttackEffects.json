@@ -159,6 +159,30 @@
       "Value2": 1,
       "Value3": 1,
       "Value4": null
+    },
+    {
+      "ID": 1019,
+      "EffectType": 7,
+      "Value1": 10,
+      "Value2": 6,
+      "Value3": 3,
+      "Value4": 3
+    },
+    {
+      "ID": 1020,
+      "EffectType": 7,
+      "Value1": 6,
+      "Value2": 3,
+      "Value3": 1,
+      "Value4": 3
+    },
+    {
+      "ID": 1021,
+      "EffectType": 3,
+      "Value1": 90003,
+      "Value2": 2,
+      "Value3": 1,
+      "Value4": 0
     }
   ]
 }
