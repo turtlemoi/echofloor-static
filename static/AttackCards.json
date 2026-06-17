@@ -257,7 +257,7 @@
       "Tier": 1,
       "Element": 2,
       "AttackType": 0,
-      "PrefabName": "IceOrbShot",
+      "PrefabName": "iceball",
       "BaseDamage": 80,
       "AttackRange": 8,
       "Knockback": 0,
