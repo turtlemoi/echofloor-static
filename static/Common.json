@@ -98,7 +98,7 @@
     },
     {
       "Key": "cooldown_accel",
-      "Value": "0.2"
+      "Value": "20"
     }
   ]
 }
