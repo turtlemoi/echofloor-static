@@ -6,7 +6,7 @@
     },
     {
       "Key": "initial_draw_count",
-      "Value": "4"
+      "Value": "3"
     },
     {
       "Key": "max_hand_size",
@@ -62,7 +62,7 @@
     },
     {
       "Key": "player_card",
-      "Value": "10101,10101,10302,10302,20012,20012"
+      "Value": "10101,10101"
     },
     {
       "Key": "card_drop_rate",
