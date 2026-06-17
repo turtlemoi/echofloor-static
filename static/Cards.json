@@ -211,6 +211,36 @@
       "Series": 3
     },
     {
+      "ID": 20012,
+      "CardType": 2,
+      "CoolDown": 1,
+      "Tier": 1,
+      "Name": "CARD_20012",
+      "Desc": "CARD_20012_DESC",
+      "ICON": "skillcard_212_ice_orb",
+      "Series": 4
+    },
+    {
+      "ID": 20013,
+      "CardType": 2,
+      "CoolDown": 1,
+      "Tier": 1,
+      "Name": "CARD_20013",
+      "Desc": "CARD_20013_DESC",
+      "ICON": "skillcard_213_orb_align",
+      "Series": 4
+    },
+    {
+      "ID": 20014,
+      "CardType": 2,
+      "CoolDown": 2,
+      "Tier": 2,
+      "Name": "CARD_20014",
+      "Desc": "CARD_20014_DESC",
+      "ICON": "skillcard_214_chill_supply",
+      "Series": 4
+    },
+    {
       "ID": 30004,
       "CardType": 3,
       "CoolDown": 2,
@@ -299,6 +329,26 @@
       "Desc": "CARD_30016_DESC",
       "ICON": "powercard_422_blast_reaction",
       "Series": 3
+    },
+    {
+      "ID": 30017,
+      "CardType": 3,
+      "CoolDown": 1,
+      "Tier": 1,
+      "Name": "CARD_30017",
+      "Desc": "CARD_30017_DESC",
+      "ICON": "powercard_217_expand_orbit",
+      "Series": 4
+    },
+    {
+      "ID": 30018,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Tier": 2,
+      "Name": "CARD_30018",
+      "Desc": "CARD_30018_DESC",
+      "ICON": "powercard_218_frost_core",
+      "Series": 4
     },
     {
       "ID": 99001,
