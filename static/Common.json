@@ -95,6 +95,10 @@
     {
       "Key": "shop_refresh_count",
       "Value": "3"
+    },
+    {
+      "Key": "cooldown_accel",
+      "Value": "20"
     }
   ]
 }
