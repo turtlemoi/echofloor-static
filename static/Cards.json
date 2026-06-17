@@ -63,8 +63,8 @@
     {
       "ID": 10211,
       "CardType": 1,
-      "CoolDown": 2,
-      "Tier": 2,
+      "CoolDown": 3,
+      "Tier": 3,
       "Name": "CARD_10211",
       "Desc": "CARD_10211_DESC",
       "ICON": "AttackCards_211_FrostOrb",
@@ -73,8 +73,8 @@
     {
       "ID": 10212,
       "CardType": 1,
-      "CoolDown": 3,
-      "Tier": 3,
+      "CoolDown": 2,
+      "Tier": 2,
       "Name": "CARD_10212",
       "Desc": "CARD_10212_DESC",
       "ICON": "AttackCards_212_OrbBurst",
