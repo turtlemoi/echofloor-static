@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-06-19T14:13:40.361Z",
+  "updatedAt": "2026-06-19T14:44:44.789Z",
   "sheets": [
     {
       "name": "Common",
-      "version": 26,
-      "hash": "2934334fabaea2c5b763e2bd4450fe9de0a815490c2be8c3d020c4d053d7c5e2",
+      "version": 27,
+      "hash": "100ceb900334ddeb5f570225408fca82e38f2f79137c1473699490733b172fe7",
       "url": "/static/Common.json"
     },
     {
@@ -22,7 +22,7 @@
     {
       "name": "Cards",
       "version": 20,
-      "hash": "bf5e65b3751128a0e2ae7d387357340d5d76fe7cb13146be41cfdcd9ae011791",
+      "hash": "705d943e46bd3c5a13c054c8d8081d62b8a26832d5d4b3d5053ed34eda741cac",
       "url": "/static/Cards.json"
     },
     {
@@ -45,8 +45,8 @@
     },
     {
       "name": "PowerCards",
-      "version": 6,
-      "hash": "a8fa9ecbb99f453f907116039dce602d3b7fb4172e428e45fc3e1dd0c93c6da7",
+      "version": 7,
+      "hash": "670fa954aca2790edc81a736df637f40b8bc45ef454cba1c8b3fd1c1a19c2468",
       "url": "/static/PowerCards.json"
     },
     {
@@ -64,7 +64,7 @@
     {
       "name": "Locale",
       "version": 18,
-      "hash": "ae8e2d648d6b620d24d7dc6d05f5c0fc5dffdcd128377b68dc63039876bb3c6e",
+      "hash": "9019910e67afab1040824c4b8c1ef26595b1007cd8f4d5d4e399ef1a55b50cbe",
       "url": "/static/Locale.json"
     }
   ]

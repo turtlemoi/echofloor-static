@@ -351,6 +351,66 @@
       "Series": 2
     },
     {
+      "ID": 30501,
+      "CardType": 3,
+      "CoolDown": 3,
+      "Tier": 3,
+      "Name": "CARD_30501",
+      "Desc": "CARD_30501_DESC",
+      "ICON": "powercard_40_ignition_condense",
+      "Series": "1,2"
+    },
+    {
+      "ID": 30502,
+      "CardType": 3,
+      "CoolDown": 3,
+      "Tier": 3,
+      "Name": "CARD_30502",
+      "Desc": "CARD_30502_DESC",
+      "ICON": "powercard_41_ember_crystal",
+      "Series": "1,2"
+    },
+    {
+      "ID": 30503,
+      "CardType": 3,
+      "CoolDown": 3,
+      "Tier": 3,
+      "Name": "CARD_30503",
+      "Desc": "CARD_30503_DESC",
+      "ICON": "powercard_42_shock_ignition",
+      "Series": "1,3"
+    },
+    {
+      "ID": 30504,
+      "CardType": 3,
+      "CoolDown": 3,
+      "Tier": 3,
+      "Name": "CARD_30504",
+      "Desc": "CARD_30504_DESC",
+      "ICON": "powercard_43_overheat_chain",
+      "Series": "1,3"
+    },
+    {
+      "ID": 30505,
+      "CardType": 3,
+      "CoolDown": 3,
+      "Tier": 3,
+      "Name": "CARD_30505",
+      "Desc": "CARD_30505_DESC",
+      "ICON": "powercard_44_conductive_frost",
+      "Series": "2,3"
+    },
+    {
+      "ID": 30506,
+      "CardType": 3,
+      "CoolDown": 3,
+      "Tier": 3,
+      "Name": "CARD_30506",
+      "Desc": "CARD_30506_DESC",
+      "ICON": "powercard_45_frostbolt_resonance",
+      "Series": "2,3"
+    },
+    {
       "ID": 99001,
       "CardType": 4,
       "CoolDown": 2,

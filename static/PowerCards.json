@@ -143,6 +143,54 @@
       "Value1": 2,
       "Value2": 1,
       "Value3": 0
+    },
+    {
+      "ID": 30501,
+      "TriggerType": 8,
+      "EffectType": 40,
+      "Value1": "",
+      "Value2": 1,
+      "Value3": ""
+    },
+    {
+      "ID": 30502,
+      "TriggerType": 8,
+      "EffectType": 41,
+      "Value1": 3,
+      "Value2": "",
+      "Value3": ""
+    },
+    {
+      "ID": 30503,
+      "TriggerType": 8,
+      "EffectType": 42,
+      "Value1": "",
+      "Value2": "",
+      "Value3": ""
+    },
+    {
+      "ID": 30504,
+      "TriggerType": 8,
+      "EffectType": 43,
+      "Value1": "",
+      "Value2": "",
+      "Value3": ""
+    },
+    {
+      "ID": 30505,
+      "TriggerType": 8,
+      "EffectType": 44,
+      "Value1": 3,
+      "Value2": "",
+      "Value3": ""
+    },
+    {
+      "ID": 30506,
+      "TriggerType": 8,
+      "EffectType": 45,
+      "Value1": "",
+      "Value2": "",
+      "Value3": ""
     }
   ]
 }
