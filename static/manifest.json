@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T06:39:56.033Z",
+  "updatedAt": "2026-06-19T14:13:40.361Z",
   "sheets": [
     {
       "name": "Common",
@@ -16,19 +16,19 @@
     {
       "name": "BattleData",
       "version": 8,
-      "hash": "1b97b012f18355377766a6443b72b8cdef556053495934794e18e8c6f800d1fb",
+      "hash": "cb9d72c078806d3426a1631a77afdc0e9d368543b2b92abf4f741f67829b889e",
       "url": "/static/BattleData.json"
     },
     {
       "name": "Cards",
-      "version": 19,
-      "hash": "664b27f2982f11ccb7cf4ea7003d96ea4dbc4693f519ecff89252bfddeee0d8e",
+      "version": 20,
+      "hash": "bf5e65b3751128a0e2ae7d387357340d5d76fe7cb13146be41cfdcd9ae011791",
       "url": "/static/Cards.json"
     },
     {
       "name": "AttackCards",
-      "version": 52,
-      "hash": "b388e469a9f2a87db45b0d83060cef5b5abc9da7b5b9438aa1868906319a9bed",
+      "version": 53,
+      "hash": "7e0a5d93c766bea71920eddac9bb2bfa6766500b0b1d1bfc8093ce2b5144c663",
       "url": "/static/AttackCards.json"
     },
     {

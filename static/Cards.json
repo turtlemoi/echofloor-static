@@ -58,7 +58,7 @@
       "Name": "CARD_10210",
       "Desc": "CARD_10210_DESC",
       "ICON": "AttackCards_210_ForceRelease",
-      "Series": 4
+      "Series": 2
     },
     {
       "ID": 10211,
@@ -68,7 +68,7 @@
       "Name": "CARD_10211",
       "Desc": "CARD_10211_DESC",
       "ICON": "AttackCards_211_FrostOrb",
-      "Series": 4
+      "Series": 2
     },
     {
       "ID": 10212,
@@ -78,7 +78,7 @@
       "Name": "CARD_10212",
       "Desc": "CARD_10212_DESC",
       "ICON": "AttackCards_212_OrbBurst",
-      "Series": 4
+      "Series": 2
     },
     {
       "ID": 10213,
@@ -88,7 +88,7 @@
       "Name": "CARD_10213",
       "Desc": "CARD_10213_DESC",
       "ICON": "AttackCards_213_FrostOrbit",
-      "Series": 4
+      "Series": 2
     },
     {
       "ID": 10302,
@@ -218,7 +218,7 @@
       "Name": "CARD_20012",
       "Desc": "CARD_20012_DESC",
       "ICON": "skillcard_212_ice_orb",
-      "Series": 4
+      "Series": 2
     },
     {
       "ID": 20013,
@@ -228,7 +228,7 @@
       "Name": "CARD_20013",
       "Desc": "CARD_20013_DESC",
       "ICON": "skillcard_213_orb_align",
-      "Series": 4
+      "Series": 2
     },
     {
       "ID": 20014,
@@ -238,7 +238,7 @@
       "Name": "CARD_20014",
       "Desc": "CARD_20014_DESC",
       "ICON": "skillcard_214_chill_supply",
-      "Series": 4
+      "Series": 2
     },
     {
       "ID": 30004,
@@ -338,7 +338,7 @@
       "Name": "CARD_30017",
       "Desc": "CARD_30017_DESC",
       "ICON": "powercard_217_expand_orbit",
-      "Series": 4
+      "Series": 2
     },
     {
       "ID": 30018,
@@ -348,7 +348,7 @@
       "Name": "CARD_30018",
       "Desc": "CARD_30018_DESC",
       "ICON": "powercard_218_frost_core",
-      "Series": 4
+      "Series": 2
     },
     {
       "ID": 99001,
@@ -359,6 +359,56 @@
       "Desc": null,
       "ICON": null,
       "Series": null
+    },
+    {
+      "ID": 99010,
+      "CardType": 4,
+      "CoolDown": 2,
+      "Tier": "",
+      "Name": "",
+      "Desc": "",
+      "ICON": "",
+      "Series": ""
+    },
+    {
+      "ID": 99011,
+      "CardType": 4,
+      "CoolDown": 3,
+      "Tier": "",
+      "Name": "",
+      "Desc": "",
+      "ICON": "",
+      "Series": ""
+    },
+    {
+      "ID": 99012,
+      "CardType": 4,
+      "CoolDown": 4,
+      "Tier": "",
+      "Name": "",
+      "Desc": "",
+      "ICON": "",
+      "Series": ""
+    },
+    {
+      "ID": 99013,
+      "CardType": 4,
+      "CoolDown": 3,
+      "Tier": "",
+      "Name": "",
+      "Desc": "",
+      "ICON": "",
+      "Series": ""
+    },
+    {
+      "ID": 99014,
+      "CardType": 4,
+      "CoolDown": 1,
+      "Tier": "",
+      "Name": "",
+      "Desc": "",
+      "ICON": "",
+      "Series": ""
     }
   ]
 }

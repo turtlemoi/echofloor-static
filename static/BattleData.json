@@ -206,7 +206,7 @@
       "SuddenWave": "",
       "Duration4": "",
       "HPValue": 1.7,
-      "DamageValue": 1.1
+      "DamageValue": 1
     },
     {
       "ID": 14,
@@ -222,7 +222,7 @@
       "SuddenWave": "",
       "Duration4": "",
       "HPValue": 1.7,
-      "DamageValue": 1.1
+      "DamageValue": 1
     },
     {
       "ID": 15,
@@ -238,7 +238,7 @@
       "SuddenWave": "",
       "Duration4": "",
       "HPValue": 1.7,
-      "DamageValue": 1.1
+      "DamageValue": 1
     },
     {
       "ID": 16,
@@ -254,7 +254,7 @@
       "SuddenWave": "",
       "Duration4": "",
       "HPValue": 2,
-      "DamageValue": 1.15
+      "DamageValue": 1
     },
     {
       "ID": 17,
@@ -270,7 +270,7 @@
       "SuddenWave": "",
       "Duration4": "",
       "HPValue": 2,
-      "DamageValue": 1.15
+      "DamageValue": 1
     },
     {
       "ID": 18,
@@ -286,7 +286,7 @@
       "SuddenWave": "",
       "Duration4": "",
       "HPValue": 2,
-      "DamageValue": 1.15
+      "DamageValue": 1
     },
     {
       "ID": 19,
@@ -302,7 +302,7 @@
       "SuddenWave": "121:18",
       "Duration4": 4,
       "HPValue": 2.4,
-      "DamageValue": 1.2
+      "DamageValue": 1
     },
     {
       "ID": 20,
@@ -318,7 +318,7 @@
       "SuddenWave": "121:18",
       "Duration4": 4,
       "HPValue": 2.4,
-      "DamageValue": 1.2
+      "DamageValue": 1
     },
     {
       "ID": 21,
@@ -334,7 +334,7 @@
       "SuddenWave": "121:12",
       "Duration4": 4,
       "HPValue": 2.4,
-      "DamageValue": 1.2
+      "DamageValue": 1
     },
     {
       "ID": 22,
@@ -350,7 +350,7 @@
       "SuddenWave": "121:50",
       "Duration4": 5,
       "HPValue": 2.8,
-      "DamageValue": 1.25
+      "DamageValue": 1
     },
     {
       "ID": 23,
@@ -366,7 +366,7 @@
       "SuddenWave": "121:50",
       "Duration4": 5,
       "HPValue": 2.8,
-      "DamageValue": 1.25
+      "DamageValue": 1
     },
     {
       "ID": 24,
@@ -382,7 +382,7 @@
       "SuddenWave": "121:60",
       "Duration4": 5,
       "HPValue": 2.8,
-      "DamageValue": 1.25
+      "DamageValue": 1
     },
     {
       "ID": 25,
@@ -398,7 +398,7 @@
       "SuddenWave": "121:6",
       "Duration4": 3,
       "HPValue": 3,
-      "DamageValue": 1.35
+      "DamageValue": 1
     },
     {
       "ID": 26,
@@ -414,7 +414,7 @@
       "SuddenWave": "121:8",
       "Duration4": 3,
       "HPValue": 3,
-      "DamageValue": 1.35
+      "DamageValue": 1
     },
     {
       "ID": 27,
@@ -430,7 +430,7 @@
       "SuddenWave": "121:8",
       "Duration4": 3,
       "HPValue": 3,
-      "DamageValue": 1.35
+      "DamageValue": 1
     },
     {
       "ID": 28,
@@ -446,7 +446,7 @@
       "SuddenWave": "121:15",
       "Duration4": 4,
       "HPValue": 3.5,
-      "DamageValue": 1.45
+      "DamageValue": 1
     },
     {
       "ID": 29,
@@ -462,7 +462,7 @@
       "SuddenWave": "121:20",
       "Duration4": 4,
       "HPValue": 3.5,
-      "DamageValue": 1.45
+      "DamageValue": 1
     },
     {
       "ID": 30,
@@ -478,7 +478,7 @@
       "SuddenWave": "121:17",
       "Duration4": 4,
       "HPValue": 3.5,
-      "DamageValue": 1.45
+      "DamageValue": 1
     },
     {
       "ID": 31,
@@ -494,7 +494,7 @@
       "SuddenWave": 5.074305555555555,
       "Duration4": 5,
       "HPValue": 4.2,
-      "DamageValue": 1.55
+      "DamageValue": 1
     },
     {
       "ID": 32,
@@ -510,7 +510,7 @@
       "SuddenWave": "121:51",
       "Duration4": 5,
       "HPValue": 4.2,
-      "DamageValue": 1.55
+      "DamageValue": 1
     },
     {
       "ID": 33,
@@ -526,7 +526,7 @@
       "SuddenWave": "121:43",
       "Duration4": 5,
       "HPValue": 4.2,
-      "DamageValue": 1.55
+      "DamageValue": 1
     },
     {
       "ID": 34,
@@ -542,7 +542,7 @@
       "SuddenWave": "121:90,123:18",
       "Duration4": 6,
       "HPValue": 5,
-      "DamageValue": 1.65
+      "DamageValue": 1
     },
     {
       "ID": 35,
@@ -558,7 +558,7 @@
       "SuddenWave": "121:85,123:18",
       "Duration4": 6,
       "HPValue": 5,
-      "DamageValue": 1.65
+      "DamageValue": 1
     },
     {
       "ID": 36,
@@ -574,7 +574,7 @@
       "SuddenWave": "121:90,124:15",
       "Duration4": 6,
       "HPValue": 5,
-      "DamageValue": 1.65
+      "DamageValue": 1
     },
     {
       "ID": 37,
@@ -590,7 +590,7 @@
       "SuddenWave": "121:110",
       "Duration4": 7,
       "HPValue": 5,
-      "DamageValue": 1.8
+      "DamageValue": 1
     },
     {
       "ID": 38,
@@ -606,7 +606,7 @@
       "SuddenWave": "121:104",
       "Duration4": 7,
       "HPValue": 5,
-      "DamageValue": 1.8
+      "DamageValue": 1
     },
     {
       "ID": 39,
@@ -622,7 +622,7 @@
       "SuddenWave": "121:102",
       "Duration4": 7,
       "HPValue": 5,
-      "DamageValue": 1.8
+      "DamageValue": 1
     },
     {
       "ID": 40,
@@ -638,7 +638,7 @@
       "SuddenWave": "121:145",
       "Duration4": 9,
       "HPValue": 6,
-      "DamageValue": 1.95
+      "DamageValue": 1
     },
     {
       "ID": 41,
@@ -654,7 +654,7 @@
       "SuddenWave": "121:145",
       "Duration4": 9,
       "HPValue": 6,
-      "DamageValue": 1.95
+      "DamageValue": 1
     },
     {
       "ID": 42,
@@ -670,7 +670,7 @@
       "SuddenWave": "121:155",
       "Duration4": 9,
       "HPValue": 6,
-      "DamageValue": 1.95
+      "DamageValue": 1
     },
     {
       "ID": 43,
@@ -686,7 +686,7 @@
       "SuddenWave": "121:250,123:37",
       "Duration4": 11,
       "HPValue": 7,
-      "DamageValue": 2.1
+      "DamageValue": 1
     },
     {
       "ID": 44,
@@ -702,7 +702,7 @@
       "SuddenWave": "121:250,123:27",
       "Duration4": 11,
       "HPValue": 7,
-      "DamageValue": 2.1
+      "DamageValue": 1
     },
     {
       "ID": 45,
@@ -718,7 +718,7 @@
       "SuddenWave": "121:240,123:30",
       "Duration4": 11,
       "HPValue": 7,
-      "DamageValue": 2.1
+      "DamageValue": 1
     },
     {
       "ID": 46,
@@ -734,7 +734,7 @@
       "SuddenWave": "121:350,123:51",
       "Duration4": 12,
       "HPValue": 8.5,
-      "DamageValue": 2.25
+      "DamageValue": 1
     },
     {
       "ID": 47,
@@ -750,7 +750,7 @@
       "SuddenWave": "121:350,123:38",
       "Duration4": 12,
       "HPValue": 8.5,
-      "DamageValue": 2.25
+      "DamageValue": 1
     },
     {
       "ID": 48,
@@ -766,7 +766,7 @@
       "SuddenWave": "121:310,124:31",
       "Duration4": 12,
       "HPValue": 8.5,
-      "DamageValue": 2.25
+      "DamageValue": 1
     },
     {
       "ID": 49,
@@ -782,7 +782,7 @@
       "SuddenWave": "121:164",
       "Duration4": 8,
       "HPValue": 8.5,
-      "DamageValue": 2.4
+      "DamageValue": 1
     },
     {
       "ID": 50,
@@ -798,7 +798,7 @@
       "SuddenWave": "121:170,123:22",
       "Duration4": 8,
       "HPValue": 8.5,
-      "DamageValue": 2.4
+      "DamageValue": 1
     },
     {
       "ID": 51,
@@ -814,7 +814,7 @@
       "SuddenWave": "121:157,125:20",
       "Duration4": 8,
       "HPValue": 8.5,
-      "DamageValue": 2.4
+      "DamageValue": 1
     },
     {
       "ID": 52,
@@ -830,7 +830,7 @@
       "SuddenWave": "121:220",
       "Duration4": 10,
       "HPValue": 10,
-      "DamageValue": 2.55
+      "DamageValue": 1
     },
     {
       "ID": 53,
@@ -846,7 +846,7 @@
       "SuddenWave": "121:230,123:34",
       "Duration4": 10,
       "HPValue": 10,
-      "DamageValue": 2.55
+      "DamageValue": 1
     },
     {
       "ID": 54,
@@ -862,7 +862,7 @@
       "SuddenWave": "121:229",
       "Duration4": 10,
       "HPValue": 10,
-      "DamageValue": 2.55
+      "DamageValue": 1
     },
     {
       "ID": 55,
@@ -878,7 +878,7 @@
       "SuddenWave": "121:330,123:50",
       "Duration4": 12,
       "HPValue": 12,
-      "DamageValue": 2.7
+      "DamageValue": 1
     },
     {
       "ID": 56,
@@ -894,7 +894,7 @@
       "SuddenWave": "121:340,123:43",
       "Duration4": 12,
       "HPValue": 12,
-      "DamageValue": 2.7
+      "DamageValue": 1
     },
     {
       "ID": 57,
@@ -910,7 +910,7 @@
       "SuddenWave": "121:330,124:50",
       "Duration4": 12,
       "HPValue": 12,
-      "DamageValue": 2.7
+      "DamageValue": 1
     },
     {
       "ID": 58,
@@ -926,7 +926,7 @@
       "SuddenWave": "121:450,123:56",
       "Duration4": 14,
       "HPValue": 15,
-      "DamageValue": 2.9
+      "DamageValue": 1
     },
     {
       "ID": 59,
@@ -942,7 +942,7 @@
       "SuddenWave": "121:580,123:71",
       "Duration4": 14,
       "HPValue": 15,
-      "DamageValue": 2.9
+      "DamageValue": 1
     },
     {
       "ID": 60,
@@ -958,7 +958,7 @@
       "SuddenWave": "121:620,124:70",
       "Duration4": 14,
       "HPValue": 15,
-      "DamageValue": 2.9
+      "DamageValue": 1
     }
   ]
 }
