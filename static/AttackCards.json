@@ -388,7 +388,7 @@
       "AttackRange": 2,
       "Knockback": 1,
       "Value1": 0,
-      "Value2": 1,
+      "Value2": 0.5,
       "Value3": "",
       "Value4": "",
       "Value5": "",
