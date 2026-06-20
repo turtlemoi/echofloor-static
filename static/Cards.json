@@ -51,6 +51,36 @@
       "Series": 1
     },
     {
+      "ID": 10120,
+      "CardType": 1,
+      "CoolDown": 1,
+      "Tier": 1,
+      "Name": "CARD_10120",
+      "Desc": "CARD_10120_DESC",
+      "ICON": "AttackCards_120_IgniteOrb",
+      "Series": 1
+    },
+    {
+      "ID": 10121,
+      "CardType": 1,
+      "CoolDown": 1,
+      "Tier": 1,
+      "Name": "CARD_10121",
+      "Desc": "CARD_10121_DESC",
+      "ICON": "AttackCards_121_EmberScatter",
+      "Series": 1
+    },
+    {
+      "ID": 10122,
+      "CardType": 1,
+      "CoolDown": 1.5,
+      "Tier": 2,
+      "Name": "CARD_10122",
+      "Desc": "CARD_10122_DESC",
+      "ICON": "AttackCards_122_FinishingHarvest",
+      "Series": 1
+    },
+    {
       "ID": 10210,
       "CardType": 1,
       "CoolDown": 1,
@@ -138,6 +168,16 @@
       "Name": "CARD_10314",
       "Desc": "CARD_10314_DESC",
       "ICON": "AttackCards_314_SuperconductBolt",
+      "Series": 3
+    },
+    {
+      "ID": 10320,
+      "CardType": 1,
+      "CoolDown": 1,
+      "Tier": 1,
+      "Name": "CARD_10320",
+      "Desc": "CARD_10320_DESC",
+      "ICON": "AttackCards_320_ChainDischarge",
       "Series": 3
     },
     {
@@ -239,6 +279,36 @@
       "Desc": "CARD_20014_DESC",
       "ICON": "skillcard_214_chill_supply",
       "Series": 2
+    },
+    {
+      "ID": 20015,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 1,
+      "Name": "CARD_20015",
+      "Desc": "CARD_20015_DESC",
+      "ICON": "skillcard_325_ember_charge",
+      "Series": 1
+    },
+    {
+      "ID": 20016,
+      "CardType": 2,
+      "CoolDown": 1,
+      "Tier": 2,
+      "Name": "CARD_20016",
+      "Desc": "CARD_20016_DESC",
+      "ICON": "skillcard_215_frost_insight",
+      "Series": 4
+    },
+    {
+      "ID": 20017,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 1,
+      "Name": "CARD_20017",
+      "Desc": "CARD_20017_DESC",
+      "ICON": "skillcard_326_overload_circuit",
+      "Series": 3
     },
     {
       "ID": 30004,
@@ -349,6 +419,36 @@
       "Desc": "CARD_30018_DESC",
       "ICON": "powercard_218_frost_core",
       "Series": 2
+    },
+    {
+      "ID": 30019,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Tier": 2,
+      "Name": "CARD_30019",
+      "Desc": "CARD_30019_DESC",
+      "ICON": "powercard_219_frost_reflux",
+      "Series": 4
+    },
+    {
+      "ID": 30020,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Tier": 2,
+      "Name": "CARD_30020",
+      "Desc": "CARD_30020_DESC",
+      "ICON": "powercard_423_research",
+      "Series": ""
+    },
+    {
+      "ID": 30021,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Tier": 2,
+      "Name": "CARD_30021",
+      "Desc": "CARD_30021_DESC",
+      "ICON": "powercard_424_inspiration",
+      "Series": ""
     },
     {
       "ID": 30501,

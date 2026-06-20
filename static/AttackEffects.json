@@ -183,6 +183,38 @@
       "Value2": 2,
       "Value3": 1,
       "Value4": 0
+    },
+    {
+      "ID": 1101,
+      "EffectType": 9,
+      "Value1": 1,
+      "Value2": 0,
+      "Value3": 0,
+      "Value4": null
+    },
+    {
+      "ID": 1102,
+      "EffectType": 9,
+      "Value1": 1,
+      "Value2": 4,
+      "Value3": 0,
+      "Value4": null
+    },
+    {
+      "ID": 1103,
+      "EffectType": 9,
+      "Value1": 1,
+      "Value2": 2,
+      "Value3": 3,
+      "Value4": null
+    },
+    {
+      "ID": 1104,
+      "EffectType": 9,
+      "Value1": 1,
+      "Value2": 1,
+      "Value3": 0,
+      "Value4": null
     }
   ]
 }
