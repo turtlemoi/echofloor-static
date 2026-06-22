@@ -103,6 +103,10 @@
     {
       "Key": "boss_hp_base",
       "Value": "100"
+    },
+    {
+      "Key": "boss_damage_ratio",
+      "Value": "1"
     }
   ]
 }
