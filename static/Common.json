@@ -106,7 +106,7 @@
     },
     {
       "Key": "boss_damage_ratio",
-      "Value": "1"
+      "Value": "0.1"
     }
   ]
 }
