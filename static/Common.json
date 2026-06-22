@@ -99,6 +99,10 @@
     {
       "Key": "cooldown_accel",
       "Value": "50"
+    },
+    {
+      "Key": "boss_hp_base",
+      "Value": "100"
     }
   ]
 }
