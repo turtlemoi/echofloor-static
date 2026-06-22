@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T08:03:33.355Z",
+  "updatedAt": "2026-06-22T11:10:22.537Z",
   "sheets": [
     {
       "name": "Common",
@@ -9,14 +9,14 @@
     },
     {
       "name": "FloorData",
-      "version": 4,
-      "hash": "01086a41d634a6e3469dcc21c86f9253782950ab99b050221a45ed06d469ac01",
+      "version": 5,
+      "hash": "1a29943d419a745295722130e60e865c6edec62a505a2b9c3925f2f98e6357f6",
       "url": "/static/FloorData.json"
     },
     {
       "name": "BattleData",
-      "version": 8,
-      "hash": "cb9d72c078806d3426a1631a77afdc0e9d368543b2b92abf4f741f67829b889e",
+      "version": 9,
+      "hash": "fb4f16790531287b1e65c4555ca88bf08dd7f79bc30c2ec092655dfb661dec67",
       "url": "/static/BattleData.json"
     },
     {
