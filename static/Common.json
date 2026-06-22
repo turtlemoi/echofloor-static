@@ -107,6 +107,10 @@
     {
       "Key": "boss_damage_ratio",
       "Value": "0.1"
+    },
+    {
+      "Key": "boss_weight",
+      "Value": "50"
     }
   ]
 }
