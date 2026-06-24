@@ -199,6 +199,83 @@
       "RequireSeries": ""
     },
     {
+      "ID": 10410,
+      "CardType": 1,
+      "CoolDown": 1,
+      "Tier": 1,
+      "Name": "CARD_10410",
+      "Desc": "CARD_10410_DESC",
+      "ICON": "AttackCards_401_Vortex",
+      "Series": 4,
+      "RequireSeries": ""
+    },
+    {
+      "ID": 10411,
+      "CardType": 1,
+      "CoolDown": 1,
+      "Tier": 1,
+      "Name": "CARD_10411",
+      "Desc": "CARD_10411_DESC",
+      "ICON": "AttackCards_402_Gust",
+      "Series": 4,
+      "RequireSeries": ""
+    },
+    {
+      "ID": 10412,
+      "CardType": 1,
+      "CoolDown": 1,
+      "Tier": 1,
+      "Name": "CARD_10412",
+      "Desc": "CARD_10412_DESC",
+      "ICON": "AttackCards_403_WhirlShot",
+      "Series": 4,
+      "RequireSeries": ""
+    },
+    {
+      "ID": 10413,
+      "CardType": 1,
+      "CoolDown": 1.5,
+      "Tier": 2,
+      "Name": "CARD_10413",
+      "Desc": "CARD_10413_DESC",
+      "ICON": "AttackCards_404_Gale",
+      "Series": 4,
+      "RequireSeries": ""
+    },
+    {
+      "ID": 10414,
+      "CardType": 1,
+      "CoolDown": 1.5,
+      "Tier": 2,
+      "Name": "CARD_10414",
+      "Desc": "CARD_10414_DESC",
+      "ICON": "AttackCards_405_Storm",
+      "Series": 4,
+      "RequireSeries": ""
+    },
+    {
+      "ID": 10415,
+      "CardType": 1,
+      "CoolDown": 3,
+      "Tier": 3,
+      "Name": "CARD_10415",
+      "Desc": "CARD_10415_DESC",
+      "ICON": "AttackCards_406_Typhoon",
+      "Series": 4,
+      "RequireSeries": ""
+    },
+    {
+      "ID": 10416,
+      "CardType": 1,
+      "CoolDown": 3,
+      "Tier": 3,
+      "Name": "CARD_10416",
+      "Desc": "CARD_10416_DESC",
+      "ICON": "AttackCards_407_Swarm",
+      "Series": 4,
+      "RequireSeries": ""
+    },
+    {
       "ID": 20001,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -340,6 +417,39 @@
       "ICON": "skillcard_326_overload_circuit",
       "Series": 3,
       "RequireSeries": ""
+    },
+    {
+      "ID": 20018,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 1,
+      "Name": "CARD_20018",
+      "Desc": "CARD_20018_DESC",
+      "ICON": "SkillCards_Turbulence",
+      "Series": 4,
+      "RequireSeries": null
+    },
+    {
+      "ID": 20019,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 1,
+      "Name": "CARD_20019",
+      "Desc": "CARD_20019_DESC",
+      "ICON": "SkillCards_AirCharge",
+      "Series": 4,
+      "RequireSeries": null
+    },
+    {
+      "ID": 20020,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 2,
+      "Name": "CARD_20020",
+      "Desc": "CARD_20020_DESC",
+      "ICON": "SkillCards_StormMuster",
+      "Series": 4,
+      "RequireSeries": null
     },
     {
       "ID": 30004,
@@ -494,6 +604,39 @@
       "ICON": "powercard_424_inspiration",
       "Series": "",
       "RequireSeries": ""
+    },
+    {
+      "ID": 30022,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Tier": 1,
+      "Name": "CARD_30022",
+      "Desc": "CARD_30022_DESC",
+      "ICON": "PowerCards_Updraft",
+      "Series": 4,
+      "RequireSeries": null
+    },
+    {
+      "ID": 30023,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Tier": 2,
+      "Name": "CARD_30023",
+      "Desc": "CARD_30023_DESC",
+      "ICON": "PowerCards_LowPressure",
+      "Series": 4,
+      "RequireSeries": null
+    },
+    {
+      "ID": 30024,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Tier": 2,
+      "Name": "CARD_30024",
+      "Desc": "CARD_30024_DESC",
+      "ICON": "PowerCards_SpinUp",
+      "Series": 4,
+      "RequireSeries": null
     },
     {
       "ID": 30501,
