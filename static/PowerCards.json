@@ -239,6 +239,54 @@
       "Value1": 0.05,
       "Value2": 0,
       "Value3": 0
+    },
+    {
+      "ID": 30507,
+      "TriggerType": 8,
+      "EffectType": 46,
+      "Value1": 2,
+      "Value2": 0,
+      "Value3": 0
+    },
+    {
+      "ID": 30508,
+      "TriggerType": 8,
+      "EffectType": 47,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0
+    },
+    {
+      "ID": 30509,
+      "TriggerType": 8,
+      "EffectType": 48,
+      "Value1": 2,
+      "Value2": 0,
+      "Value3": 0
+    },
+    {
+      "ID": 30510,
+      "TriggerType": 8,
+      "EffectType": 49,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0
+    },
+    {
+      "ID": 30511,
+      "TriggerType": 8,
+      "EffectType": 50,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0
+    },
+    {
+      "ID": 30512,
+      "TriggerType": 8,
+      "EffectType": 51,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0
     }
   ]
 }

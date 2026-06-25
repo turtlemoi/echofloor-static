@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T14:22:33.214Z",
+  "updatedAt": "2026-06-25T14:23:12.841Z",
   "sheets": [
     {
       "name": "Common",
@@ -22,7 +22,7 @@
     {
       "name": "Cards",
       "version": 21,
-      "hash": "77e62166c42e24f871cd412df456cdf5e88ae8c3126f76cf0238c5ec1460fefb",
+      "hash": "08144b46178bd7c6c84a2e20c9cddde9962b50f31b7211b9b7ec1feba77284af",
       "url": "/static/Cards.json"
     },
     {
@@ -46,7 +46,7 @@
     {
       "name": "PowerCards",
       "version": 7,
-      "hash": "9124fa22580e7cf87ebc3e67442ced17f7bd36e72562c9248030394de44e5385",
+      "hash": "6aac1bb08177c61de8bda0095eba85029ae89318ccc72d7d06a84c37264293d5",
       "url": "/static/PowerCards.json"
     },
     {
@@ -63,8 +63,8 @@
     },
     {
       "name": "Locale",
-      "version": 23,
-      "hash": "816513cff2a2db16f3deab9ba36d7db713c67fc22c9323c0e1b21d7cd1c62f15",
+      "version": 24,
+      "hash": "176be3e470b5fd03883270ee8ce1490dc4489a568513a0846bb236182353cb52",
       "url": "/static/Locale.json"
     }
   ]

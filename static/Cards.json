@@ -427,7 +427,7 @@
       "Desc": "CARD_20018_DESC",
       "ICON": "SkillCards_Turbulence",
       "Series": 4,
-      "RequireSeries": null
+      "RequireSeries": ""
     },
     {
       "ID": 20019,
@@ -438,7 +438,7 @@
       "Desc": "CARD_20019_DESC",
       "ICON": "SkillCards_AirCharge",
       "Series": 4,
-      "RequireSeries": null
+      "RequireSeries": ""
     },
     {
       "ID": 20020,
@@ -449,7 +449,7 @@
       "Desc": "CARD_20020_DESC",
       "ICON": "SkillCards_StormMuster",
       "Series": 4,
-      "RequireSeries": null
+      "RequireSeries": ""
     },
     {
       "ID": 30004,
@@ -614,7 +614,7 @@
       "Desc": "CARD_30022_DESC",
       "ICON": "PowerCards_Updraft",
       "Series": 4,
-      "RequireSeries": null
+      "RequireSeries": ""
     },
     {
       "ID": 30023,
@@ -625,7 +625,7 @@
       "Desc": "CARD_30023_DESC",
       "ICON": "PowerCards_LowPressure",
       "Series": 4,
-      "RequireSeries": null
+      "RequireSeries": ""
     },
     {
       "ID": 30024,
@@ -636,7 +636,7 @@
       "Desc": "CARD_30024_DESC",
       "ICON": "PowerCards_SpinUp",
       "Series": 4,
-      "RequireSeries": null
+      "RequireSeries": ""
     },
     {
       "ID": 30501,
@@ -703,6 +703,72 @@
       "ICON": "powercard_45_frostbolt_resonance",
       "Series": "2,3",
       "RequireSeries": "2,3"
+    },
+    {
+      "ID": 30507,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Tier": 3,
+      "Name": "CARD_30507",
+      "Desc": "CARD_30507_DESC",
+      "ICON": "PowerCards_WhirlIgnite",
+      "Series": "4,1",
+      "RequireSeries": "4,1"
+    },
+    {
+      "ID": 30508,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Tier": 3,
+      "Name": "CARD_30508",
+      "Desc": "CARD_30508_DESC",
+      "ICON": "PowerCards_HeatWind",
+      "Series": "4,1",
+      "RequireSeries": "4,1"
+    },
+    {
+      "ID": 30509,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Tier": 3,
+      "Name": "CARD_30509",
+      "Desc": "CARD_30509_DESC",
+      "ICON": "PowerCards_FrostEddy",
+      "Series": "4,2",
+      "RequireSeries": "4,2"
+    },
+    {
+      "ID": 30510,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Tier": 3,
+      "Name": "CARD_30510",
+      "Desc": "CARD_30510_DESC",
+      "ICON": "PowerCards_FrostWind",
+      "Series": "4,2",
+      "RequireSeries": "4,2"
+    },
+    {
+      "ID": 30511,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Tier": 3,
+      "Name": "CARD_30511",
+      "Desc": "CARD_30511_DESC",
+      "ICON": "PowerCards_StormBolt",
+      "Series": "4,3",
+      "RequireSeries": "4,3"
+    },
+    {
+      "ID": 30512,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Tier": 3,
+      "Name": "CARD_30512",
+      "Desc": "CARD_30512_DESC",
+      "ICON": "PowerCards_DischargeEddy",
+      "Series": "4,3",
+      "RequireSeries": "4,3"
     },
     {
       "ID": 99001,
