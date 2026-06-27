@@ -139,6 +139,27 @@
       "Value1": 0,
       "Value2": 0,
       "Value3": 0
+    },
+    {
+      "ID": 20021,
+      "EffectType": 22,
+      "Value1": 1,
+      "Value2": 5,
+      "Value3": 0
+    },
+    {
+      "ID": 20022,
+      "EffectType": 28,
+      "Value1": 0,
+      "Value2": 5,
+      "Value3": 0
+    },
+    {
+      "ID": 20023,
+      "EffectType": 32,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0
     }
   ]
 }

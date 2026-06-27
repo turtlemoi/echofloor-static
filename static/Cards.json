@@ -276,6 +276,72 @@
       "RequireSeries": ""
     },
     {
+      "ID": 10510,
+      "CardType": 1,
+      "CoolDown": 1.5,
+      "Tier": 1,
+      "Name": "SKILL_10510",
+      "Desc": "SKILL_10510_DESC",
+      "ICON": "AttackCards_501_Pillar",
+      "Series": 5,
+      "RequireSeries": ""
+    },
+    {
+      "ID": 10511,
+      "CardType": 1,
+      "CoolDown": 1,
+      "Tier": 1,
+      "Name": "SKILL_10511",
+      "Desc": "SKILL_10511_DESC",
+      "ICON": "AttackCards_502_StoneSpike",
+      "Series": 5,
+      "RequireSeries": ""
+    },
+    {
+      "ID": 10512,
+      "CardType": 1,
+      "CoolDown": 1,
+      "Tier": 1,
+      "Name": "SKILL_10512",
+      "Desc": "SKILL_10512_DESC",
+      "ICON": "AttackCards_503_Tremor",
+      "Series": 5,
+      "RequireSeries": ""
+    },
+    {
+      "ID": 10513,
+      "CardType": 1,
+      "CoolDown": 2,
+      "Tier": 2,
+      "Name": "SKILL_10513",
+      "Desc": "SKILL_10513_DESC",
+      "ICON": "AttackCards_504_PillarCluster",
+      "Series": 5,
+      "RequireSeries": ""
+    },
+    {
+      "ID": 10514,
+      "CardType": 1,
+      "CoolDown": 2,
+      "Tier": 2,
+      "Name": "SKILL_10514",
+      "Desc": "SKILL_10514_DESC",
+      "ICON": "AttackCards_505_Boulder",
+      "Series": 5,
+      "RequireSeries": ""
+    },
+    {
+      "ID": 10515,
+      "CardType": 1,
+      "CoolDown": 3,
+      "Tier": 3,
+      "Name": "SKILL_10515",
+      "Desc": "SKILL_10515_DESC",
+      "ICON": "AttackCards_506_FaultUplift",
+      "Series": 5,
+      "RequireSeries": ""
+    },
+    {
       "ID": 20001,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -449,6 +515,39 @@
       "Desc": "CARD_20020_DESC",
       "ICON": "SkillCards_StormMuster",
       "Series": 4,
+      "RequireSeries": ""
+    },
+    {
+      "ID": 20021,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 1,
+      "Name": "SKILL_20021",
+      "Desc": "SKILL_20021_DESC",
+      "ICON": "SkillCards_GroundTamping",
+      "Series": 5,
+      "RequireSeries": ""
+    },
+    {
+      "ID": 20022,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 1,
+      "Name": "SKILL_20022",
+      "Desc": "SKILL_20022_DESC",
+      "ICON": "SkillCards_GroundCharge",
+      "Series": 5,
+      "RequireSeries": ""
+    },
+    {
+      "ID": 20023,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 2,
+      "Name": "SKILL_20023",
+      "Desc": "SKILL_20023_DESC",
+      "ICON": "SkillCards_PillarReposition",
+      "Series": 5,
       "RequireSeries": ""
     },
     {
@@ -636,6 +735,39 @@
       "Desc": "CARD_30024_DESC",
       "ICON": "PowerCards_SpinUp",
       "Series": 4,
+      "RequireSeries": ""
+    },
+    {
+      "ID": 30025,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Tier": 1,
+      "Name": "SKILL_30025",
+      "Desc": "SKILL_30025_DESC",
+      "ICON": "PowerCards_Quarry",
+      "Series": 5,
+      "RequireSeries": ""
+    },
+    {
+      "ID": 30026,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Tier": 2,
+      "Name": "SKILL_30026",
+      "Desc": "SKILL_30026_DESC",
+      "ICON": "PowerCards_Aftershock",
+      "Series": 5,
+      "RequireSeries": ""
+    },
+    {
+      "ID": 30027,
+      "CardType": 3,
+      "CoolDown": 2,
+      "Tier": 2,
+      "Name": "SKILL_30027",
+      "Desc": "SKILL_30027_DESC",
+      "ICON": "PowerCards_Sturdy",
+      "Series": 5,
       "RequireSeries": ""
     },
     {
