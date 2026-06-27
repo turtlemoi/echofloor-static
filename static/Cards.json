@@ -404,7 +404,7 @@
       "Name": "CARD_20016",
       "Desc": "CARD_20016_DESC",
       "ICON": "skillcard_215_frost_insight",
-      "Series": 4,
+      "Series": 2,
       "RequireSeries": ""
     },
     {
@@ -580,7 +580,7 @@
       "Name": "CARD_30019",
       "Desc": "CARD_30019_DESC",
       "ICON": "powercard_219_frost_reflux",
-      "Series": 4,
+      "Series": 2,
       "RequireSeries": ""
     },
     {
