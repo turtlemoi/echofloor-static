@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T08:22:26.629Z",
+  "updatedAt": "2026-06-30T14:11:55.058Z",
   "sheets": [
     {
       "name": "Common",
@@ -21,8 +21,8 @@
     },
     {
       "name": "Cards",
-      "version": 21,
-      "hash": "86debf3fe51ea983c626230e28f57e3053bd8e3641f2fd550ca626b9612a744d",
+      "version": 22,
+      "hash": "c2fe84f009b78ad805162291c85b1a9aca026bd5e1a2d4a72cd28c65f16bd965",
       "url": "/static/Cards.json"
     },
     {
@@ -44,15 +44,9 @@
       "url": "/static/SkillCards.json"
     },
     {
-      "name": "PowerCards",
-      "version": 7,
-      "hash": "6eafbae886ee94be3b97d433c4e7c6fe1281fd9658822866c7b663e8cceee4bf",
-      "url": "/static/PowerCards.json"
-    },
-    {
       "name": "Augment",
-      "version": 1,
-      "hash": "68f39dca3ab9ecd57478464749990293908b7ffb2e2163b76f51c166d23248e7",
+      "version": 2,
+      "hash": "ee62912ddae5152fae9638c0d049f760336f91c2d0736133c15c1ce38329898a",
       "url": "/static/Augment.json"
     },
     {
@@ -64,7 +58,7 @@
     {
       "name": "Locale",
       "version": 25,
-      "hash": "083d9269de78d8f904c84d5bb197375f86edf38214a6c70c801d3e5ac16062ce",
+      "hash": "2e77840b7e32a383ae53fbaba9cfc5c6bfe22d8aac2b2d1c437ed453a31cb2ec",
       "url": "/static/Locale.json"
     }
   ]
