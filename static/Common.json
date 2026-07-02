@@ -38,7 +38,7 @@
     },
     {
       "Key": "player_speed",
-      "Value": "2"
+      "Value": "2.5"
     },
     {
       "Key": "player_damage",
@@ -66,7 +66,7 @@
     },
     {
       "Key": "player_dash_cooldown",
-      "Value": "3"
+      "Value": "3.0"
     },
     {
       "Key": "card_drop_rate",
