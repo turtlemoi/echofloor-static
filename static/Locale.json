@@ -26,6 +26,21 @@
       "en": null
     },
     {
+      "Key": "DEFEAT_TITLE",
+      "ko": "패배",
+      "en": null
+    },
+    {
+      "Key": "DEFEAT_DESC1",
+      "ko": "메아리 나무가 기억을 흡수합니다...",
+      "en": null
+    },
+    {
+      "Key": "DEFEAT_DESC2",
+      "ko": "통계에서 지나간 기록을 확인할 수 있습니다.",
+      "en": null
+    },
+    {
       "Key": "CARD_10101",
       "ko": "화염구",
       "en": null
