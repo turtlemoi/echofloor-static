@@ -41,6 +41,11 @@
       "en": null
     },
     {
+      "Key": "BTN_CONTINUE",
+      "ko": "계속",
+      "en": null
+    },
+    {
       "Key": "CARD_10101",
       "ko": "화염구",
       "en": null
