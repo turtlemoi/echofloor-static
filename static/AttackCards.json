@@ -284,7 +284,7 @@
       "Value3": 0,
       "Value4": 0,
       "Value5": 0,
-      "Value6": 0,
+      "Value6": 1,
       "EffectIDs": "2",
       "Series": "3"
     },
@@ -302,7 +302,7 @@
       "Value3": 3,
       "Value4": 1,
       "Value5": 0.1,
-      "Value6": 0,
+      "Value6": 1,
       "EffectIDs": "2",
       "Series": "3"
     },
@@ -338,7 +338,7 @@
       "Value3": 0,
       "Value4": 0,
       "Value5": 0.1,
-      "Value6": 0,
+      "Value6": 1,
       "EffectIDs": "1019,2",
       "Series": "3"
     },
@@ -374,7 +374,7 @@
       "Value3": 3,
       "Value4": 1,
       "Value5": 0.1,
-      "Value6": 0,
+      "Value6": 1,
       "EffectIDs": "1103,2",
       "Series": "3"
     },
