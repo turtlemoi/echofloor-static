@@ -38,7 +38,7 @@
     },
     {
       "Key": "player_speed",
-      "Value": "2.5"
+      "Value": "2.2"
     },
     {
       "Key": "player_damage",
@@ -98,7 +98,7 @@
     },
     {
       "Key": "shop_refresh_count",
-      "Value": "3"
+      "Value": "99"
     },
     {
       "Key": "cooldown_accel",
