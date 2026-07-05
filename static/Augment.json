@@ -5,7 +5,7 @@
       "Tier": 1,
       "AugmentName": "aug_name_1",
       "AugmentDesc": "aug_desc_1",
-      "Icon": "aug_quick_hand",
+      "Icon": "Aug_QuickHand",
       "EffectType": 2001,
       "Value1": 0,
       "Value2": 0
@@ -15,7 +15,7 @@
       "Tier": 3,
       "AugmentName": "aug_name_2",
       "AugmentDesc": "aug_desc_2",
-      "Icon": "aug_duplicate",
+      "Icon": "Aug_Duplicate",
       "EffectType": 2002,
       "Value1": 25,
       "Value2": 0
@@ -25,7 +25,7 @@
       "Tier": 2,
       "AugmentName": "aug_name_3",
       "AugmentDesc": "aug_desc_3",
-      "Icon": "aug_appeal",
+      "Icon": "Aug_Appeal",
       "EffectType": 2003,
       "Value1": 0,
       "Value2": 0
@@ -35,7 +35,7 @@
       "Tier": 3,
       "AugmentName": "aug_name_4",
       "AugmentDesc": "aug_desc_4",
-      "Icon": "aug_habit",
+      "Icon": "Aug_Habit",
       "EffectType": 2004,
       "Value1": 0,
       "Value2": 0
@@ -45,7 +45,7 @@
       "Tier": 2,
       "AugmentName": "aug_name_5",
       "AugmentDesc": "aug_desc_5",
-      "Icon": "aug_research",
+      "Icon": "Aug_Research",
       "EffectType": 2005,
       "Value1": 1,
       "Value2": 0
@@ -55,7 +55,7 @@
       "Tier": 2,
       "AugmentName": "aug_name_6",
       "AugmentDesc": "aug_desc_6",
-      "Icon": "aug_inspiration",
+      "Icon": "Aug_Inspiration",
       "EffectType": 2006,
       "Value1": 1,
       "Value2": 0
@@ -65,7 +65,7 @@
       "Tier": 1,
       "AugmentName": "aug_name_7",
       "AugmentDesc": "aug_desc_7",
-      "Icon": "aug_burning_bullet",
+      "Icon": "Aug_BurningBullet",
       "EffectType": 2007,
       "Value1": 1,
       "Value2": 1
@@ -75,7 +75,7 @@
       "Tier": 2,
       "AugmentName": "aug_name_8",
       "AugmentDesc": "aug_desc_8",
-      "Icon": "aug_ballistic_mastery",
+      "Icon": "Aug_BallisticMastery",
       "EffectType": 2008,
       "Value1": 1,
       "Value2": 1
@@ -85,7 +85,7 @@
       "Tier": 2,
       "AugmentName": "aug_name_9",
       "AugmentDesc": "aug_desc_9",
-      "Icon": "aug_splitting_shot",
+      "Icon": "Aug_SplittingShot",
       "EffectType": 2009,
       "Value1": 1018,
       "Value2": 1
@@ -95,7 +95,7 @@
       "Tier": 1,
       "AugmentName": "aug_name_10",
       "AugmentDesc": "aug_desc_10",
-      "Icon": "aug_conductive_air",
+      "Icon": "Aug_ConductiveAir",
       "EffectType": 2010,
       "Value1": 1,
       "Value2": 3
@@ -105,7 +105,7 @@
       "Tier": 3,
       "AugmentName": "aug_name_11",
       "AugmentDesc": "aug_desc_11",
-      "Icon": "aug_blast_reaction",
+      "Icon": "Aug_BlastReaction",
       "EffectType": 2011,
       "Value1": 1021,
       "Value2": 3
@@ -115,7 +115,7 @@
       "Tier": 1,
       "AugmentName": "aug_name_12",
       "AugmentDesc": "aug_desc_12",
-      "Icon": "aug_expand_orbit",
+      "Icon": "Aug_ExpandOrbit",
       "EffectType": 2012,
       "Value1": 1,
       "Value2": 0
@@ -125,7 +125,7 @@
       "Tier": 2,
       "AugmentName": "aug_name_13",
       "AugmentDesc": "aug_desc_13",
-      "Icon": "aug_frost_cycle",
+      "Icon": "Aug_FrostCycle",
       "EffectType": 2013,
       "Value1": 2,
       "Value2": 1
@@ -135,7 +135,7 @@
       "Tier": 2,
       "AugmentName": "aug_name_14",
       "AugmentDesc": "aug_desc_14",
-      "Icon": "aug_ice_vent",
+      "Icon": "Aug_IceVent",
       "EffectType": 2014,
       "Value1": 2,
       "Value2": 0
@@ -145,7 +145,7 @@
       "Tier": 1,
       "AugmentName": "aug_name_15",
       "AugmentDesc": "aug_desc_15",
-      "Icon": "aug_updraft",
+      "Icon": "Aug_Updraft",
       "EffectType": 2015,
       "Value1": 1,
       "Value2": 0
@@ -155,7 +155,7 @@
       "Tier": 2,
       "AugmentName": "aug_name_16",
       "AugmentDesc": "aug_desc_16",
-      "Icon": "aug_low_pressure",
+      "Icon": "Aug_LowPressure",
       "EffectType": 2016,
       "Value1": 1,
       "Value2": 0
@@ -165,7 +165,7 @@
       "Tier": 2,
       "AugmentName": "aug_name_17",
       "AugmentDesc": "aug_desc_17",
-      "Icon": "aug_spin_up",
+      "Icon": "Aug_SpinUp",
       "EffectType": 2017,
       "Value1": 0.05,
       "Value2": 0
@@ -175,7 +175,7 @@
       "Tier": 1,
       "AugmentName": "aug_name_18",
       "AugmentDesc": "aug_desc_18",
-      "Icon": "aug_quarry",
+      "Icon": "Aug_Quarry",
       "EffectType": 2018,
       "Value1": 1,
       "Value2": 0
@@ -185,7 +185,7 @@
       "Tier": 2,
       "AugmentName": "aug_name_19",
       "AugmentDesc": "aug_desc_19",
-      "Icon": "aug_aftershock",
+      "Icon": "Aug_Aftershock",
       "EffectType": 2019,
       "Value1": 20,
       "Value2": 0
@@ -195,7 +195,7 @@
       "Tier": 2,
       "AugmentName": "aug_name_20",
       "AugmentDesc": "aug_desc_20",
-      "Icon": "aug_sturdy",
+      "Icon": "Aug_Sturdy",
       "EffectType": 2020,
       "Value1": 1,
       "Value2": 0
@@ -205,7 +205,7 @@
       "Tier": 3,
       "AugmentName": "aug_name_21",
       "AugmentDesc": "aug_desc_21",
-      "Icon": "aug_ignition_condense",
+      "Icon": "Aug_IgnitionCondense",
       "EffectType": 2021,
       "Value1": 0,
       "Value2": 1
@@ -215,7 +215,7 @@
       "Tier": 3,
       "AugmentName": "aug_name_22",
       "AugmentDesc": "aug_desc_22",
-      "Icon": "aug_ember_crystal",
+      "Icon": "Aug_EmberCrystal",
       "EffectType": 2022,
       "Value1": 3,
       "Value2": 0
@@ -225,7 +225,7 @@
       "Tier": 3,
       "AugmentName": "aug_name_23",
       "AugmentDesc": "aug_desc_23",
-      "Icon": "aug_shock_ignition",
+      "Icon": "Aug_ShockIgnition",
       "EffectType": 2023,
       "Value1": 0,
       "Value2": 0
@@ -235,7 +235,7 @@
       "Tier": 3,
       "AugmentName": "aug_name_24",
       "AugmentDesc": "aug_desc_24",
-      "Icon": "aug_overheat_chain",
+      "Icon": "Aug_OverheatChain",
       "EffectType": 2024,
       "Value1": 0,
       "Value2": 0
@@ -245,7 +245,7 @@
       "Tier": 3,
       "AugmentName": "aug_name_25",
       "AugmentDesc": "aug_desc_25",
-      "Icon": "aug_conductive_frost",
+      "Icon": "Aug_ConductiveFrost",
       "EffectType": 2025,
       "Value1": 3,
       "Value2": 0
@@ -255,7 +255,7 @@
       "Tier": 3,
       "AugmentName": "aug_name_26",
       "AugmentDesc": "aug_desc_26",
-      "Icon": "aug_frost_static",
+      "Icon": "Aug_FrostStatic",
       "EffectType": 2026,
       "Value1": 0,
       "Value2": 0
@@ -265,7 +265,7 @@
       "Tier": 3,
       "AugmentName": "aug_name_27",
       "AugmentDesc": "aug_desc_27",
-      "Icon": "aug_whirl_ignite",
+      "Icon": "Aug_WhirlIgnite",
       "EffectType": 2027,
       "Value1": 2,
       "Value2": 0
@@ -275,7 +275,7 @@
       "Tier": 3,
       "AugmentName": "aug_name_28",
       "AugmentDesc": "aug_desc_28",
-      "Icon": "aug_heat_wind",
+      "Icon": "Aug_HeatWind",
       "EffectType": 2028,
       "Value1": 0,
       "Value2": 0
@@ -285,7 +285,7 @@
       "Tier": 3,
       "AugmentName": "aug_name_29",
       "AugmentDesc": "aug_desc_29",
-      "Icon": "aug_frost_eddy",
+      "Icon": "Aug_FrostEddy",
       "EffectType": 2029,
       "Value1": 2,
       "Value2": 0
@@ -295,7 +295,7 @@
       "Tier": 3,
       "AugmentName": "aug_name_30",
       "AugmentDesc": "aug_desc_30",
-      "Icon": "aug_frost_wind",
+      "Icon": "Aug_FrostWind",
       "EffectType": 2030,
       "Value1": 0,
       "Value2": 0
@@ -305,7 +305,7 @@
       "Tier": 3,
       "AugmentName": "aug_name_31",
       "AugmentDesc": "aug_desc_31",
-      "Icon": "aug_storm_bolt",
+      "Icon": "Aug_StormBolt",
       "EffectType": 2031,
       "Value1": 0,
       "Value2": 0
@@ -315,7 +315,7 @@
       "Tier": 3,
       "AugmentName": "aug_name_32",
       "AugmentDesc": "aug_desc_32",
-      "Icon": "aug_discharge_eddy",
+      "Icon": "Aug_DischargeEddy",
       "EffectType": 2032,
       "Value1": 0,
       "Value2": 0
@@ -325,7 +325,7 @@
       "Tier": 2,
       "AugmentName": "aug_name_33",
       "AugmentDesc": "aug_desc_33",
-      "Icon": "aug_overflow_memory",
+      "Icon": "Aug_OverflowMemory",
       "EffectType": 104,
       "Value1": 0,
       "Value2": 0
@@ -335,7 +335,7 @@
       "Tier": 2,
       "AugmentName": "aug_name_34",
       "AugmentDesc": "aug_desc_34",
-      "Icon": "aug_blade_premonition",
+      "Icon": "Aug_BladePremonition",
       "EffectType": 105,
       "Value1": 40,
       "Value2": 0
@@ -345,7 +345,7 @@
       "Tier": 1,
       "AugmentName": "aug_name_35",
       "AugmentDesc": "aug_desc_35",
-      "Icon": "aug_skill_chain",
+      "Icon": "Aug_SkillChain",
       "EffectType": 107,
       "Value1": 0,
       "Value2": 0
@@ -355,7 +355,7 @@
       "Tier": 2,
       "AugmentName": "aug_name_36",
       "AugmentDesc": "aug_desc_36",
-      "Icon": "aug_discard_strike",
+      "Icon": "Aug_DiscardStrike",
       "EffectType": 201,
       "Value1": 0,
       "Value2": 0
@@ -365,7 +365,7 @@
       "Tier": 3,
       "AugmentName": "aug_name_37",
       "AugmentDesc": "aug_desc_37",
-      "Icon": "aug_deck_burst",
+      "Icon": "Aug_DeckBurst",
       "EffectType": 301,
       "Value1": 20,
       "Value2": 0
@@ -375,7 +375,7 @@
       "Tier": 2,
       "AugmentName": "aug_name_38",
       "AugmentDesc": "aug_desc_38",
-      "Icon": "aug_double_trigger",
+      "Icon": "Aug_DoubleTrigger",
       "EffectType": 501,
       "Value1": 20,
       "Value2": 0
@@ -385,7 +385,7 @@
       "Tier": 3,
       "AugmentName": "aug_name_39",
       "AugmentDesc": "aug_desc_39",
-      "Icon": "aug_echo_strike",
+      "Icon": "Aug_EchoStrike",
       "EffectType": 502,
       "Value1": 0,
       "Value2": 0
@@ -395,7 +395,7 @@
       "Tier": 2,
       "AugmentName": "aug_name_40",
       "AugmentDesc": "aug_desc_40",
-      "Icon": "aug_hand_pincer",
+      "Icon": "Aug_HandPincer",
       "EffectType": 503,
       "Value1": 0,
       "Value2": 0
@@ -405,7 +405,7 @@
       "Tier": 3,
       "AugmentName": "aug_name_41",
       "AugmentDesc": "aug_desc_41",
-      "Icon": "aug_sync_attack",
+      "Icon": "Aug_SyncAttack",
       "EffectType": 505,
       "Value1": 0,
       "Value2": 0
@@ -415,7 +415,7 @@
       "Tier": 1,
       "AugmentName": "aug_name_42",
       "AugmentDesc": "aug_desc_42",
-      "Icon": "aug_tier1_double_strike",
+      "Icon": "Aug_Tier1DoubleStrike",
       "EffectType": 1001,
       "Value1": 1,
       "Value2": 1
@@ -425,7 +425,7 @@
       "Tier": 1,
       "AugmentName": "aug_name_43",
       "AugmentDesc": "aug_desc_43",
-      "Icon": "aug_focused_strike",
+      "Icon": "Aug_FocusedStrike",
       "EffectType": 1008,
       "Value1": 0,
       "Value2": 0
@@ -435,7 +435,7 @@
       "Tier": 2,
       "AugmentName": "aug_name_44",
       "AugmentDesc": "aug_desc_44",
-      "Icon": "aug_shadow_step",
+      "Icon": "Aug_ShadowStep",
       "EffectType": 1301,
       "Value1": 0,
       "Value2": 0
@@ -445,7 +445,7 @@
       "Tier": 2,
       "AugmentName": "aug_name_45",
       "AugmentDesc": "aug_desc_45",
-      "Icon": "aug_wind_cut",
+      "Icon": "Aug_WindCut",
       "EffectType": 1302,
       "Value1": 0,
       "Value2": 0
@@ -455,7 +455,7 @@
       "Tier": 3,
       "AugmentName": "aug_name_46",
       "AugmentDesc": "aug_desc_46",
-      "Icon": "aug_element_overcharge",
+      "Icon": "Aug_ElementOvercharge",
       "EffectType": 1303,
       "Value1": 0,
       "Value2": 0
@@ -465,7 +465,7 @@
       "Tier": 3,
       "AugmentName": "aug_name_47",
       "AugmentDesc": "aug_desc_47",
-      "Icon": "aug_five_resonance",
+      "Icon": "Aug_FiveResonance",
       "EffectType": 1304,
       "Value1": 0,
       "Value2": 0
