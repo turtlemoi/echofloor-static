@@ -7,7 +7,7 @@
       "Tier": 1,
       "Name": "CARD_10101",
       "Desc": "CARD_10101_DESC",
-      "ICON": "AttackCards_101_Fireball",
+      "ICON": "ATK_10101_Fireball",
       "Series": 1,
       "RequireSeries": ""
     },
@@ -18,7 +18,7 @@
       "Tier": 3,
       "Name": "CARD_10109",
       "Desc": "CARD_10109_DESC",
-      "ICON": "AttackCards_109_Purgatory",
+      "ICON": "ATK_10109_Purgatory",
       "Series": 1,
       "RequireSeries": ""
     },
@@ -29,7 +29,7 @@
       "Tier": 1,
       "Name": "CARD_10111",
       "Desc": "CARD_10111_DESC",
-      "ICON": "AttackCards_Fireball_skill",
+      "ICON": "ATK_10111_FireballSkill",
       "Series": 1,
       "RequireSeries": ""
     },
@@ -40,7 +40,7 @@
       "Tier": 2,
       "Name": "CARD_10112",
       "Desc": "CARD_10112_DESC",
-      "ICON": "AttackCards_112_Flameshot",
+      "ICON": "ATK_10112_Flameshot",
       "Series": 1,
       "RequireSeries": ""
     },
@@ -51,7 +51,7 @@
       "Tier": 3,
       "Name": "CARD_10113",
       "Desc": "CARD_10113_DESC",
-      "ICON": "AttackCards_113_FireballStorm",
+      "ICON": "ATK_10113_FireballStorm",
       "Series": 1,
       "RequireSeries": ""
     },
@@ -62,7 +62,7 @@
       "Tier": 1,
       "Name": "CARD_10120",
       "Desc": "CARD_10120_DESC",
-      "ICON": "AttackCards_120_IgniteOrb",
+      "ICON": "ATK_10120_IgniteOrb",
       "Series": 1,
       "RequireSeries": ""
     },
@@ -73,7 +73,7 @@
       "Tier": 1,
       "Name": "CARD_10121",
       "Desc": "CARD_10121_DESC",
-      "ICON": "AttackCards_121_EmberScatter",
+      "ICON": "ATK_10121_EmberScatter",
       "Series": 1,
       "RequireSeries": ""
     },
@@ -84,7 +84,7 @@
       "Tier": 2,
       "Name": "CARD_10122",
       "Desc": "CARD_10122_DESC",
-      "ICON": "AttackCards_122_FinishingHarvest",
+      "ICON": "ATK_10122_FinishingHarvest",
       "Series": 1,
       "RequireSeries": ""
     },
@@ -95,7 +95,7 @@
       "Tier": 1,
       "Name": "CARD_10210",
       "Desc": "CARD_10210_DESC",
-      "ICON": "AttackCards_210_ForceRelease",
+      "ICON": "ATK_10210_ForceRelease",
       "Series": 2,
       "RequireSeries": ""
     },
@@ -106,7 +106,7 @@
       "Tier": 3,
       "Name": "CARD_10211",
       "Desc": "CARD_10211_DESC",
-      "ICON": "AttackCards_211_FrostOrb",
+      "ICON": "ATK_10211_FrostOrb",
       "Series": 2,
       "RequireSeries": ""
     },
@@ -117,7 +117,7 @@
       "Tier": 2,
       "Name": "CARD_10212",
       "Desc": "CARD_10212_DESC",
-      "ICON": "AttackCards_212_OrbBurst",
+      "ICON": "ATK_10212_OrbBurst",
       "Series": 2,
       "RequireSeries": ""
     },
@@ -128,7 +128,7 @@
       "Tier": 3,
       "Name": "CARD_10213",
       "Desc": "CARD_10213_DESC",
-      "ICON": "AttackCards_213_FrostOrbit",
+      "ICON": "ATK_10213_FrostOrbit",
       "Series": 2,
       "RequireSeries": ""
     },
@@ -139,7 +139,7 @@
       "Tier": 1,
       "Name": "CARD_10302",
       "Desc": "CARD_10302_DESC",
-      "ICON": "AttackCards_301_ElecShock",
+      "ICON": "ATK_10302_ElecShock",
       "Series": 3,
       "RequireSeries": ""
     },
@@ -150,7 +150,7 @@
       "Tier": 2,
       "Name": "CARD_10304",
       "Desc": "CARD_10304_DESC",
-      "ICON": "AttackCards_304_Chain Light.",
+      "ICON": "ATK_10304_ChainLightning",
       "Series": 3,
       "RequireSeries": ""
     },
@@ -161,7 +161,7 @@
       "Tier": 1,
       "Name": "CARD_10312",
       "Desc": "CARD_10312_DESC",
-      "ICON": "AttackCards_312_ForkedLightning",
+      "ICON": "ATK_10312_ForkedLightning",
       "Series": 3,
       "RequireSeries": ""
     },
@@ -172,7 +172,7 @@
       "Tier": 3,
       "Name": "CARD_10313",
       "Desc": "CARD_10313_DESC",
-      "ICON": "AttackCards_313_LightningStorm",
+      "ICON": "ATK_10313_LightningStorm",
       "Series": 3,
       "RequireSeries": ""
     },
@@ -183,7 +183,7 @@
       "Tier": 3,
       "Name": "CARD_10314",
       "Desc": "CARD_10314_DESC",
-      "ICON": "AttackCards_314_SuperconductBolt",
+      "ICON": "ATK_10314_SuperconductBolt",
       "Series": 3,
       "RequireSeries": ""
     },
@@ -194,7 +194,7 @@
       "Tier": 1,
       "Name": "CARD_10320",
       "Desc": "CARD_10320_DESC",
-      "ICON": "AttackCards_320_ChainDischarge",
+      "ICON": "ATK_10320_ChainDischarge",
       "Series": 3,
       "RequireSeries": ""
     },
@@ -205,7 +205,7 @@
       "Tier": 1,
       "Name": "CARD_10410",
       "Desc": "CARD_10410_DESC",
-      "ICON": "AttackCards_401_Vortex",
+      "ICON": "ATK_10410_Vortex",
       "Series": 4,
       "RequireSeries": ""
     },
@@ -216,7 +216,7 @@
       "Tier": 1,
       "Name": "CARD_10411",
       "Desc": "CARD_10411_DESC",
-      "ICON": "AttackCards_402_Gust",
+      "ICON": "ATK_10411_Gust",
       "Series": 4,
       "RequireSeries": ""
     },
@@ -227,7 +227,7 @@
       "Tier": 1,
       "Name": "CARD_10412",
       "Desc": "CARD_10412_DESC",
-      "ICON": "AttackCards_403_WhirlShot",
+      "ICON": "ATK_10412_WhirlShot",
       "Series": 4,
       "RequireSeries": ""
     },
@@ -238,7 +238,7 @@
       "Tier": 2,
       "Name": "CARD_10413",
       "Desc": "CARD_10413_DESC",
-      "ICON": "AttackCards_404_Gale",
+      "ICON": "ATK_10413_Gale",
       "Series": 4,
       "RequireSeries": ""
     },
@@ -249,7 +249,7 @@
       "Tier": 2,
       "Name": "CARD_10414",
       "Desc": "CARD_10414_DESC",
-      "ICON": "AttackCards_405_Storm",
+      "ICON": "ATK_10414_Storm",
       "Series": 4,
       "RequireSeries": ""
     },
@@ -260,7 +260,7 @@
       "Tier": 3,
       "Name": "CARD_10415",
       "Desc": "CARD_10415_DESC",
-      "ICON": "AttackCards_406_Typhoon",
+      "ICON": "ATK_10415_Typhoon",
       "Series": 4,
       "RequireSeries": ""
     },
@@ -271,7 +271,7 @@
       "Tier": 3,
       "Name": "CARD_10416",
       "Desc": "CARD_10416_DESC",
-      "ICON": "AttackCards_407_Swarm",
+      "ICON": "ATK_10416_Swarm",
       "Series": 4,
       "RequireSeries": ""
     },
@@ -282,7 +282,7 @@
       "Tier": 1,
       "Name": "CARD_10510",
       "Desc": "CARD_10510_DESC",
-      "ICON": "AttackCards_501_Pillar",
+      "ICON": "ATK_10510_Pillar",
       "Series": 5,
       "RequireSeries": ""
     },
@@ -293,7 +293,7 @@
       "Tier": 1,
       "Name": "CARD_10511",
       "Desc": "CARD_10511_DESC",
-      "ICON": "AttackCards_502_StoneSpike",
+      "ICON": "ATK_10511_StoneSpike",
       "Series": 5,
       "RequireSeries": ""
     },
@@ -304,7 +304,7 @@
       "Tier": 1,
       "Name": "CARD_10512",
       "Desc": "CARD_10512_DESC",
-      "ICON": "AttackCards_503_Tremor",
+      "ICON": "ATK_10512_Tremor",
       "Series": 5,
       "RequireSeries": ""
     },
@@ -315,7 +315,7 @@
       "Tier": 2,
       "Name": "CARD_10513",
       "Desc": "CARD_10513_DESC",
-      "ICON": "AttackCards_504_PillarCluster",
+      "ICON": "ATK_10513_PillarCluster",
       "Series": 5,
       "RequireSeries": ""
     },
@@ -326,7 +326,7 @@
       "Tier": 2,
       "Name": "CARD_10514",
       "Desc": "CARD_10514_DESC",
-      "ICON": "AttackCards_505_Boulder",
+      "ICON": "ATK_10514_Boulder",
       "Series": 5,
       "RequireSeries": ""
     },
@@ -337,7 +337,7 @@
       "Tier": 3,
       "Name": "CARD_10515",
       "Desc": "CARD_10515_DESC",
-      "ICON": "AttackCards_506_FaultUplift",
+      "ICON": "ATK_10515_FaultUplift",
       "Series": 5,
       "RequireSeries": ""
     },
@@ -348,7 +348,7 @@
       "Tier": 1,
       "Name": "CARD_20001",
       "Desc": "CARD_20001_DESC",
-      "ICON": "skillcard_301_double_strike",
+      "ICON": "SKL_20001_DoubleStrike",
       "Series": "",
       "RequireSeries": ""
     },
@@ -359,7 +359,7 @@
       "Tier": 3,
       "Name": "CARD_20005",
       "Desc": "CARD_20005_DESC",
-      "ICON": "skillcard_305_snipe",
+      "ICON": "SKL_20005_Snipe",
       "Series": "",
       "RequireSeries": ""
     },
@@ -370,7 +370,7 @@
       "Tier": 2,
       "Name": "CARD_20006",
       "Desc": "CARD_20006_DESC",
-      "ICON": "skillcard_319_quick_draw",
+      "ICON": "SKL_20006_QuickDraw",
       "Series": "",
       "RequireSeries": ""
     },
@@ -381,7 +381,7 @@
       "Tier": 1,
       "Name": "CARD_20008",
       "Desc": "CARD_20008_DESC",
-      "ICON": "skillcard_321_flame_hone",
+      "ICON": "SKL_20008_FlameHone",
       "Series": 1,
       "RequireSeries": ""
     },
@@ -392,7 +392,7 @@
       "Tier": 2,
       "Name": "CARD_20009",
       "Desc": "CARD_20009_DESC",
-      "ICON": "skillcard_322_ignition_load",
+      "ICON": "SKL_20009_IgnitionLoad",
       "Series": 1,
       "RequireSeries": ""
     },
@@ -403,7 +403,7 @@
       "Tier": 1,
       "Name": "CARD_20010",
       "Desc": "CARD_20010_DESC",
-      "ICON": "skillcard_323_current_split",
+      "ICON": "SKL_20010_CurrentSplit",
       "Series": 3,
       "RequireSeries": ""
     },
@@ -414,7 +414,7 @@
       "Tier": 2,
       "Name": "CARD_20011",
       "Desc": "CARD_20011_DESC",
-      "ICON": "skillcard_324_bolt_amplify",
+      "ICON": "SKL_20011_BoltAmplify",
       "Series": 3,
       "RequireSeries": ""
     },
@@ -425,7 +425,7 @@
       "Tier": 1,
       "Name": "CARD_20012",
       "Desc": "CARD_20012_DESC",
-      "ICON": "skillcard_212_ice_orb",
+      "ICON": "SKL_20012_IceOrb",
       "Series": 2,
       "RequireSeries": ""
     },
@@ -436,7 +436,7 @@
       "Tier": 1,
       "Name": "CARD_20013",
       "Desc": "CARD_20013_DESC",
-      "ICON": "skillcard_213_orb_align",
+      "ICON": "SKL_20013_OrbAlign",
       "Series": 2,
       "RequireSeries": ""
     },
@@ -447,7 +447,7 @@
       "Tier": 2,
       "Name": "CARD_20014",
       "Desc": "CARD_20014_DESC",
-      "ICON": "skillcard_214_chill_supply",
+      "ICON": "SKL_20014_ChillSupply",
       "Series": 2,
       "RequireSeries": ""
     },
@@ -458,7 +458,7 @@
       "Tier": 1,
       "Name": "CARD_20015",
       "Desc": "CARD_20015_DESC",
-      "ICON": "skillcard_325_ember_charge",
+      "ICON": "SKL_20015_EmberCharge",
       "Series": 1,
       "RequireSeries": ""
     },
@@ -469,7 +469,7 @@
       "Tier": 2,
       "Name": "CARD_20016",
       "Desc": "CARD_20016_DESC",
-      "ICON": "skillcard_215_frost_insight",
+      "ICON": "SKL_20016_FrostInsight",
       "Series": 2,
       "RequireSeries": ""
     },
@@ -480,7 +480,7 @@
       "Tier": 1,
       "Name": "CARD_20017",
       "Desc": "CARD_20017_DESC",
-      "ICON": "skillcard_326_overload_circuit",
+      "ICON": "SKL_20017_OverloadCircuit",
       "Series": 3,
       "RequireSeries": ""
     },
@@ -491,7 +491,7 @@
       "Tier": 1,
       "Name": "CARD_20018",
       "Desc": "CARD_20018_DESC",
-      "ICON": "SkillCards_Turbulence",
+      "ICON": "SKL_20018_Turbulence",
       "Series": 4,
       "RequireSeries": ""
     },
@@ -502,7 +502,7 @@
       "Tier": 1,
       "Name": "CARD_20019",
       "Desc": "CARD_20019_DESC",
-      "ICON": "SkillCards_AirCharge",
+      "ICON": "SKL_20019_AirCharge",
       "Series": 4,
       "RequireSeries": ""
     },
@@ -513,7 +513,7 @@
       "Tier": 2,
       "Name": "CARD_20020",
       "Desc": "CARD_20020_DESC",
-      "ICON": "SkillCards_StormMuster",
+      "ICON": "SKL_20020_StormMuster",
       "Series": 4,
       "RequireSeries": ""
     },
@@ -524,7 +524,7 @@
       "Tier": 1,
       "Name": "CARD_20021",
       "Desc": "CARD_20021_DESC",
-      "ICON": "SkillCards_GroundTamping",
+      "ICON": "SKL_20021_GroundTamping",
       "Series": 5,
       "RequireSeries": ""
     },
@@ -535,7 +535,7 @@
       "Tier": 1,
       "Name": "CARD_20022",
       "Desc": "CARD_20022_DESC",
-      "ICON": "SkillCards_GroundCharge",
+      "ICON": "SKL_20022_GroundCharge",
       "Series": 5,
       "RequireSeries": ""
     },
@@ -546,7 +546,7 @@
       "Tier": 2,
       "Name": "CARD_20023",
       "Desc": "CARD_20023_DESC",
-      "ICON": "SkillCards_PillarReposition",
+      "ICON": "SKL_20023_PillarReposition",
       "Series": 5,
       "RequireSeries": ""
     },
