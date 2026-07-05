@@ -69,6 +69,10 @@
       "Value": "2.5"
     },
     {
+      "Key": "player_dash_default",
+      "Value": "2"
+    },
+    {
       "Key": "card_drop_rate",
       "Value": "80,15,5"
     },
