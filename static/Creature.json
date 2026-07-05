@@ -2,7 +2,7 @@
   "data": [
     {
       "ID": 111,
-      "PrefabName": "01_slime_blue",
+      "PrefabName": "Mon_SlimeBlue",
       "DeadSound_Name": "Death_Slime",
       "Speed": 0.7,
       "Damage": 1,
@@ -19,7 +19,7 @@
     },
     {
       "ID": 112,
-      "PrefabName": "02_slime_green",
+      "PrefabName": "Mon_SlimeGreen",
       "DeadSound_Name": "Death_Slime",
       "Speed": 1,
       "Damage": 1,
@@ -36,7 +36,7 @@
     },
     {
       "ID": 113,
-      "PrefabName": "03_slime_yellow",
+      "PrefabName": "Mon_SlimeYellow",
       "DeadSound_Name": "Death_Slime",
       "Speed": 0.6,
       "Damage": 1,
@@ -53,7 +53,7 @@
     },
     {
       "ID": 121,
-      "PrefabName": "mob_swarm",
+      "PrefabName": "Mon_Swarm",
       "DeadSound_Name": "Death_Slime",
       "Speed": 1.1,
       "Damage": 1,
@@ -70,7 +70,7 @@
     },
     {
       "ID": 122,
-      "PrefabName": "mob_brute",
+      "PrefabName": "Mon_Brute",
       "DeadSound_Name": "Death_Slime",
       "Speed": 0.5,
       "Damage": 2,
@@ -87,7 +87,7 @@
     },
     {
       "ID": 123,
-      "PrefabName": "mob_berserker",
+      "PrefabName": "Mon_Berserker",
       "DeadSound_Name": "Death_Slime",
       "Speed": 1.2,
       "Damage": 3,
@@ -104,7 +104,7 @@
     },
     {
       "ID": 124,
-      "PrefabName": "mob_archer",
+      "PrefabName": "Mon_Archer",
       "DeadSound_Name": "Death_Slime",
       "Speed": 0.6,
       "Damage": 2,
@@ -121,7 +121,7 @@
     },
     {
       "ID": 125,
-      "PrefabName": "mob_spore",
+      "PrefabName": "Mon_Spore",
       "DeadSound_Name": "Death_Slime",
       "Speed": 0.55,
       "Damage": 1,
@@ -138,7 +138,7 @@
     },
     {
       "ID": 126,
-      "PrefabName": "mob_bombard",
+      "PrefabName": "Mon_Bombard",
       "DeadSound_Name": "Death_Slime",
       "Speed": 0.5,
       "Damage": 2,
@@ -155,7 +155,7 @@
     },
     {
       "ID": 127,
-      "PrefabName": "mob_splitter",
+      "PrefabName": "Mon_Splitter",
       "DeadSound_Name": "Death_Slime",
       "Speed": 0.7,
       "Damage": 1,
@@ -172,7 +172,7 @@
     },
     {
       "ID": 128,
-      "PrefabName": "mob_exploder",
+      "PrefabName": "Mon_Exploder",
       "DeadSound_Name": "Death_Slime",
       "Speed": 1.5,
       "Damage": 1,
@@ -189,7 +189,7 @@
     },
     {
       "ID": 129,
-      "PrefabName": "mob_blink",
+      "PrefabName": "Mon_Blink",
       "DeadSound_Name": "Death_Slime",
       "Speed": 0,
       "Damage": 1,
@@ -206,7 +206,7 @@
     },
     {
       "ID": 130,
-      "PrefabName": "mob_charger",
+      "PrefabName": "Mon_Charger",
       "DeadSound_Name": "Death_Slime",
       "Speed": 0.8,
       "Damage": 1,
@@ -223,7 +223,7 @@
     },
     {
       "ID": 131,
-      "PrefabName": "mob_shield",
+      "PrefabName": "Mon_Shield",
       "DeadSound_Name": "Death_Slime",
       "Speed": 0.6,
       "Damage": 2,
@@ -240,7 +240,7 @@
     },
     {
       "ID": 132,
-      "PrefabName": "mob_summoner",
+      "PrefabName": "Mon_Summoner",
       "DeadSound_Name": "Death_Slime",
       "Speed": 0.5,
       "Damage": 1,
@@ -257,7 +257,7 @@
     },
     {
       "ID": 133,
-      "PrefabName": "mob_minion",
+      "PrefabName": "Mon_Minion",
       "DeadSound_Name": "Death_Slime",
       "Speed": 1,
       "Damage": 1,
@@ -274,7 +274,7 @@
     },
     {
       "ID": 134,
-      "PrefabName": "mob_support",
+      "PrefabName": "Mon_Support",
       "DeadSound_Name": "Death_Slime",
       "Speed": 0.6,
       "Damage": 1,
