@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "ID": "ICEORB",
+      "NameKey": "KEYWORD_NAME_ICEORB",
+      "DescKey": "KEYWORD_DESC_ICEORB"
+    },
+    {
+      "ID": "FROZENORB",
+      "NameKey": "KEYWORD_NAME_FROZENORB",
+      "DescKey": "KEYWORD_DESC_FROZENORB"
+    },
+    {
+      "ID": "SPLIT",
+      "NameKey": "KEYWORD_NAME_SPLIT",
+      "DescKey": "KEYWORD_DESC_SPLIT"
+    },
+    {
+      "ID": "RICOCHET",
+      "NameKey": "KEYWORD_NAME_RICOCHET",
+      "DescKey": "KEYWORD_DESC_RICOCHET"
+    },
+    {
+      "ID": "IMPACT",
+      "NameKey": "KEYWORD_NAME_IMPACT",
+      "DescKey": "KEYWORD_DESC_IMPACT"
+    },
+    {
+      "ID": "MERGE",
+      "NameKey": "KEYWORD_NAME_MERGE",
+      "DescKey": "KEYWORD_DESC_MERGE"
+    }
+  ]
+}

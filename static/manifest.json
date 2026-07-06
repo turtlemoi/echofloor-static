@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T01:19:05.648Z",
+  "updatedAt": "2026-07-06T02:02:35.450Z",
   "sheets": [
     {
       "name": "Common",
@@ -46,7 +46,7 @@
     {
       "name": "Augment",
       "version": 3,
-      "hash": "c5f36907f06aedf8a5cd4b3a7deabfa76e6739c0435bad47905349ff54ed655b",
+      "hash": "b511994471af643c8b3faeeeb60a8cba2a0dd616e376c10eb09d11dedb246e1c",
       "url": "/static/Augment.json"
     },
     {
@@ -56,9 +56,15 @@
       "url": "/static/Creature.json"
     },
     {
+      "name": "Keyword",
+      "version": 1,
+      "hash": "e8b0aaf178403986f6eefcb5b70d312a4080370c480d2a06eece0e9c63d1de0b",
+      "url": "/static/Keyword.json"
+    },
+    {
       "name": "Locale",
-      "version": 28,
-      "hash": "9fc74876ab91f73628b6e3e473fd460c50bb8729b286ade612a1cf918d08967a",
+      "version": 29,
+      "hash": "ccbb0300844418cf2a39b8ca4e9a8fef54b1849432fe82d296bc0fc723cbde8f",
       "url": "/static/Locale.json"
     }
   ]

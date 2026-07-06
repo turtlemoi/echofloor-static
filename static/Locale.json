@@ -1146,473 +1146,533 @@
       "en": null
     },
     {
-      "Key": "aug_name_1",
+      "Key": "AUG_NAME_1",
       "ko": "손놀림",
       "en": null
     },
     {
-      "Key": "aug_desc_1",
+      "Key": "AUG_DESC_1",
       "ko": "스킬 카드 사용 시 핸드의 공격 카드 1장 즉시 발동.",
       "en": null
     },
     {
-      "Key": "aug_name_2",
+      "Key": "AUG_NAME_2",
       "ko": "복제",
       "en": null
     },
     {
-      "Key": "aug_desc_2",
+      "Key": "AUG_DESC_2",
       "ko": "공격 카드 사용 시 25% 확률로 사용 더미의 공격 카드 1장 즉시 발동.",
       "en": null
     },
     {
-      "Key": "aug_name_3",
+      "Key": "AUG_NAME_3",
       "ko": "어필",
       "en": null
     },
     {
-      "Key": "aug_desc_3",
+      "Key": "AUG_DESC_3",
       "ko": "핸드 순환마다 덱의 공격 카드 1장 즉시 발동.",
       "en": null
     },
     {
-      "Key": "aug_name_4",
+      "Key": "AUG_NAME_4",
       "ko": "손버릇",
       "en": null
     },
     {
-      "Key": "aug_desc_4",
+      "Key": "AUG_DESC_4",
       "ko": "스킬 카드 사용 시 사용 더미의 공격 카드 1장을 핸드에 추가하고 즉발 준비.",
       "en": null
     },
     {
-      "Key": "aug_name_5",
+      "Key": "AUG_NAME_5",
       "ko": "연구",
       "en": null
     },
     {
-      "Key": "aug_desc_5",
+      "Key": "AUG_DESC_5",
       "ko": "스킬 카드 사용마다 카드 1장 드로우.",
       "en": null
     },
     {
-      "Key": "aug_name_6",
+      "Key": "AUG_NAME_6",
       "ko": "영감",
       "en": null
     },
     {
-      "Key": "aug_desc_6",
+      "Key": "AUG_DESC_6",
       "ko": "핸드 순환마다 카드 1장 추가 드로우.",
       "en": null
     },
     {
-      "Key": "aug_name_7",
+      "Key": "AUG_NAME_7",
       "ko": "불타는 탄환",
       "en": null
     },
     {
-      "Key": "aug_desc_7",
+      "Key": "AUG_DESC_7",
       "ko": "화염구 계열 공격 명중 시 대상에게 화상 부여.",
       "en": null
     },
     {
-      "Key": "aug_name_8",
+      "Key": "AUG_NAME_8",
       "ko": "탄도 숙련",
       "en": null
     },
     {
-      "Key": "aug_desc_8",
+      "Key": "AUG_DESC_8",
       "ko": "이번 전투 동안 화염구 계열 공격 카드 사용마다 화염구 발사 수 +1.",
       "en": null
     },
     {
-      "Key": "aug_name_9",
+      "Key": "AUG_NAME_9",
       "ko": "분열 탄도",
       "en": null
     },
     {
-      "Key": "aug_desc_9",
+      "Key": "AUG_DESC_9",
       "ko": "화염구로 적 처치 시 작은 화염구 1개가 가까운 적에게 발사.",
       "en": null
     },
     {
-      "Key": "aug_name_10",
+      "Key": "AUG_NAME_10",
       "ko": "전도성 공기",
       "en": null
     },
     {
-      "Key": "aug_desc_10",
+      "Key": "AUG_DESC_10",
       "ko": "이번 전투 동안 번개 계열 공격 카드의 갈래 +1.",
       "en": null
     },
     {
-      "Key": "aug_name_11",
+      "Key": "AUG_NAME_11",
       "ko": "폭뢰 반응",
       "en": null
     },
     {
-      "Key": "aug_desc_11",
+      "Key": "AUG_DESC_11",
       "ko": "이번 전투 동안 번개 계열 공격 카드 타격 시 전기 폭파 발생.",
       "en": null
     },
     {
-      "Key": "aug_name_12",
+      "Key": "AUG_NAME_12",
       "ko": "확장 궤도",
       "en": null
     },
     {
-      "Key": "aug_desc_12",
+      "Key": "AUG_DESC_12",
       "ko": "이번 전투 동안 얼음구체 최대 보유량 +1.",
       "en": null
     },
     {
-      "Key": "aug_name_13",
+      "Key": "AUG_NAME_13",
       "ko": "빙결 순환",
       "en": null
     },
     {
-      "Key": "aug_desc_13",
+      "Key": "AUG_DESC_13",
       "ko": "얼음구체 2개 발동마다 얼음구체 1개 획득.",
       "en": null
     },
     {
-      "Key": "aug_name_14",
+      "Key": "AUG_NAME_14",
       "ko": "얼음 환기",
       "en": null
     },
     {
-      "Key": "aug_desc_14",
+      "Key": "AUG_DESC_14",
       "ko": "얼음구체 2회 발동마다 카드 1장 드로우.",
       "en": null
     },
     {
-      "Key": "aug_name_15",
+      "Key": "AUG_NAME_15",
       "ko": "상승기류",
       "en": null
     },
     {
-      "Key": "aug_desc_15",
+      "Key": "AUG_DESC_15",
       "ko": "앞으로 생성되는 소용돌이의 모든 강화 축 레벨 +1.",
       "en": null
     },
     {
-      "Key": "aug_name_16",
+      "Key": "AUG_NAME_16",
       "ko": "저기압",
       "en": null
     },
     {
-      "Key": "aug_desc_16",
+      "Key": "AUG_DESC_16",
       "ko": "소용돌이 흡인력 증가.",
       "en": null
     },
     {
-      "Key": "aug_name_17",
+      "Key": "AUG_NAME_17",
       "ko": "회전 가속",
       "en": null
     },
     {
-      "Key": "aug_desc_17",
+      "Key": "AUG_DESC_17",
       "ko": "소용돌이 피해 간격 감소.",
       "en": null
     },
     {
-      "Key": "aug_name_18",
+      "Key": "AUG_NAME_18",
       "ko": "채석",
       "en": null
     },
     {
-      "Key": "aug_desc_18",
+      "Key": "AUG_DESC_18",
       "ko": "핸드 순환마다 돌기둥 1개 생성.",
       "en": null
     },
     {
-      "Key": "aug_name_19",
+      "Key": "AUG_NAME_19",
       "ko": "여진",
       "en": null
     },
     {
-      "Key": "aug_desc_19",
+      "Key": "AUG_DESC_19",
       "ko": "설치된 돌기둥이 주변 적에게 공격력의 20% 지속 피해.",
       "en": null
     },
     {
-      "Key": "aug_name_20",
+      "Key": "AUG_NAME_20",
       "ko": "견고함",
       "en": null
     },
     {
-      "Key": "aug_desc_20",
+      "Key": "AUG_DESC_20",
       "ko": "돌기둥 생성 시 돌기둥 1개 추가 생성.",
       "en": null
     },
     {
-      "Key": "aug_name_21",
+      "Key": "AUG_NAME_21",
       "ko": "점화 응축",
       "en": null
     },
     {
-      "Key": "aug_desc_21",
+      "Key": "AUG_DESC_21",
       "ko": "화염구 발사 시 보유한 얼음구체 수만큼 발사 수 증가.",
       "en": null
     },
     {
-      "Key": "aug_name_22",
+      "Key": "AUG_NAME_22",
       "ko": "잔열 결정",
       "en": null
     },
     {
-      "Key": "aug_desc_22",
+      "Key": "AUG_DESC_22",
       "ko": "화염구 3개 발사마다 얼음구체 1개 생성.",
       "en": null
     },
     {
-      "Key": "aug_name_23",
+      "Key": "AUG_NAME_23",
       "ko": "감전 점화",
       "en": null
     },
     {
-      "Key": "aug_desc_23",
+      "Key": "AUG_DESC_23",
       "ko": "화염 공격 타격 시 대상에게 핸드의 무작위 번개 스킬 1개 발동.",
       "en": null
     },
     {
-      "Key": "aug_name_24",
+      "Key": "AUG_NAME_24",
       "ko": "과열 연쇄",
       "en": null
     },
     {
-      "Key": "aug_desc_24",
+      "Key": "AUG_DESC_24",
       "ko": "번개 공격으로 처치 시 핸드의 무작위 화염 스킬 1개 발동.",
       "en": null
     },
     {
-      "Key": "aug_name_25",
+      "Key": "AUG_NAME_25",
       "ko": "전도 응결",
       "en": null
     },
     {
-      "Key": "aug_desc_25",
+      "Key": "AUG_DESC_25",
       "ko": "번개가 3회 튕길 때마다 얼음구체 1개 생성.",
       "en": null
     },
     {
-      "Key": "aug_name_26",
+      "Key": "AUG_NAME_26",
       "ko": "얼음 정전기",
       "en": null
     },
     {
-      "Key": "aug_desc_26",
+      "Key": "AUG_DESC_26",
       "ko": "얼음구체 발동 시 핸드의 무작위 번개 스킬 1개 발동.",
       "en": null
     },
     {
-      "Key": "aug_name_27",
+      "Key": "AUG_NAME_27",
       "ko": "회오리 발화",
       "en": null
     },
     {
-      "Key": "aug_desc_27",
+      "Key": "AUG_DESC_27",
       "ko": "화염구 2개 발사마다 소용돌이 강화.",
       "en": null
     },
     {
-      "Key": "aug_name_28",
+      "Key": "AUG_NAME_28",
       "ko": "열풍",
       "en": null
     },
     {
-      "Key": "aug_desc_28",
+      "Key": "AUG_DESC_28",
       "ko": "화염 공격 발사 수가 소용돌이 강화 레벨만큼 증가.",
       "en": null
     },
     {
-      "Key": "aug_name_29",
+      "Key": "AUG_NAME_29",
       "ko": "서리 와류",
       "en": null
     },
     {
-      "Key": "aug_desc_29",
+      "Key": "AUG_DESC_29",
       "ko": "소용돌이 2회 강화마다 얼음구체 1개 생성.",
       "en": null
     },
     {
-      "Key": "aug_name_30",
+      "Key": "AUG_NAME_30",
       "ko": "빙풍",
       "en": null
     },
     {
-      "Key": "aug_desc_30",
+      "Key": "AUG_DESC_30",
       "ko": "바람 공격 발동 시 보유 얼음구체 수만큼 소용돌이 추가 강화.",
       "en": null
     },
     {
-      "Key": "aug_name_31",
+      "Key": "AUG_NAME_31",
       "ko": "뇌풍",
       "en": null
     },
     {
-      "Key": "aug_desc_31",
+      "Key": "AUG_DESC_31",
       "ko": "번개 공격 튕김 수가 소용돌이 강화 레벨만큼 증가.",
       "en": null
     },
     {
-      "Key": "aug_name_32",
+      "Key": "AUG_NAME_32",
       "ko": "방전 와류",
       "en": null
     },
     {
-      "Key": "aug_desc_32",
+      "Key": "AUG_DESC_32",
       "ko": "소용돌이 강화 시 무작위 번개 스킬 발동.",
       "en": null
     },
     {
-      "Key": "aug_name_33",
+      "Key": "AUG_NAME_33",
       "ko": "넘친 기억",
       "en": null
     },
     {
-      "Key": "aug_desc_33",
+      "Key": "AUG_DESC_33",
       "ko": "핸드가 꽉 찬 상태에서 드로우된 카드가 즉시 발동되고 더미로 이동.",
       "en": null
     },
     {
-      "Key": "aug_name_34",
+      "Key": "AUG_NAME_34",
       "ko": "칼끝 예감",
       "en": null
     },
     {
-      "Key": "aug_desc_34",
+      "Key": "AUG_DESC_34",
       "ko": "공격 카드를 드로우할 때마다 40% 확률로 1장을 추가로 드로우.",
       "en": null
     },
     {
-      "Key": "aug_name_35",
+      "Key": "AUG_NAME_35",
       "ko": "기술 연쇄",
       "en": null
     },
     {
-      "Key": "aug_desc_35",
+      "Key": "AUG_DESC_35",
       "ko": "스킬 카드가 발동될 때마다 덱에서 1장을 즉시 드로우.",
       "en": null
     },
     {
-      "Key": "aug_name_36",
+      "Key": "AUG_NAME_36",
       "ko": "버림 일격",
       "en": null
     },
     {
-      "Key": "aug_desc_36",
+      "Key": "AUG_DESC_36",
       "ko": "핸드에서 더미로 이동할 때 핸드의 공격 스킬 중 랜덤 1개가 1회 발동.",
       "en": null
     },
     {
-      "Key": "aug_name_37",
+      "Key": "AUG_NAME_37",
       "ko": "더미 폭주",
       "en": null
     },
     {
-      "Key": "aug_desc_37",
+      "Key": "AUG_DESC_37",
       "ko": "더미에서 덱으로 리셔플 시 더미의 각 공격 카드가 20% 확률로 발동.",
       "en": null
     },
     {
-      "Key": "aug_name_38",
+      "Key": "AUG_NAME_38",
       "ko": "이중 발동",
       "en": null
     },
     {
-      "Key": "aug_desc_38",
+      "Key": "AUG_DESC_38",
       "ko": "공격 스킬이 발동될 때 20% 확률로 동일 스킬이 1번 더 발동.",
       "en": null
     },
     {
-      "Key": "aug_name_39",
+      "Key": "AUG_NAME_39",
       "ko": "잔향 일격",
       "en": null
     },
     {
-      "Key": "aug_desc_39",
+      "Key": "AUG_DESC_39",
       "ko": "공격 카드가 발동될 때 직전에 발동된 공격 카드도 1회 추가 발동.",
       "en": null
     },
     {
-      "Key": "aug_name_40",
+      "Key": "AUG_NAME_40",
       "ko": "손패 협공",
       "en": null
     },
     {
-      "Key": "aug_desc_40",
+      "Key": "AUG_DESC_40",
       "ko": "핸드에 스킬 카드가 있을 때 공격 카드가 발동되면 스킬 카드도 함께 발동.",
       "en": null
     },
     {
-      "Key": "aug_name_41",
+      "Key": "AUG_NAME_41",
       "ko": "동조 공격",
       "en": null
     },
     {
-      "Key": "aug_desc_41",
+      "Key": "AUG_DESC_41",
       "ko": "공격 카드가 발동될 때 같은 계열의 모든 공격 카드가 동시에 발동.",
       "en": null
     },
     {
-      "Key": "aug_name_42",
+      "Key": "AUG_NAME_42",
       "ko": "연계 일격",
       "en": null
     },
     {
-      "Key": "aug_desc_42",
+      "Key": "AUG_DESC_42",
       "ko": "1티어 공격 스킬이 발동될 때 1번 더 발동.",
       "en": null
     },
     {
-      "Key": "aug_name_43",
+      "Key": "AUG_NAME_43",
       "ko": "초집중",
       "en": null
     },
     {
-      "Key": "aug_desc_43",
+      "Key": "AUG_DESC_43",
       "ko": "스킬 카드 발동 시 덱에서 랜덤한 공격 카드를 즉시 발동.",
       "en": null
     },
     {
-      "Key": "aug_name_44",
+      "Key": "AUG_NAME_44",
       "ko": "그림자 보법",
       "en": null
     },
     {
-      "Key": "aug_desc_44",
+      "Key": "AUG_DESC_44",
       "ko": "대쉬 쿨다운이 크게 줄고 이동 거리가 늘어납니다.",
       "en": null
     },
     {
-      "Key": "aug_name_45",
+      "Key": "AUG_NAME_45",
       "ko": "질풍 베기",
       "en": null
     },
     {
-      "Key": "aug_desc_45",
+      "Key": "AUG_DESC_45",
       "ko": "대쉬 시 덱의 공격 카드 1장이 즉시 발동됩니다.",
       "en": null
     },
     {
-      "Key": "aug_name_46",
+      "Key": "AUG_NAME_46",
       "ko": "원소 과충전",
       "en": null
     },
     {
-      "Key": "aug_desc_46",
+      "Key": "AUG_DESC_46",
       "ko": "같은 속성 공격을 3회 연속 발동하면 다음 그 속성 공격이 대폭 강화됩니다.",
       "en": null
     },
     {
-      "Key": "aug_name_47",
+      "Key": "AUG_NAME_47",
       "ko": "오행 공명",
       "en": null
     },
     {
-      "Key": "aug_desc_47",
+      "Key": "AUG_DESC_47",
       "ko": "5속성을 각 1회씩 사용하면 사용 더미의 카드가 모두 덱으로 돌아오며 공격 카드가 전부 발동됩니다.",
+      "en": null
+    },
+    {
+      "Key": "KEYWORD_NAME_ICEORB",
+      "ko": "얼음구체",
+      "en": null
+    },
+    {
+      "Key": "KEYWORD_NAME_FROZENORB",
+      "ko": "빙결구체",
+      "en": null
+    },
+    {
+      "Key": "KEYWORD_NAME_SPLIT",
+      "ko": "갈래",
+      "en": null
+    },
+    {
+      "Key": "KEYWORD_NAME_RICOCHET",
+      "ko": "튕김",
+      "en": null
+    },
+    {
+      "Key": "KEYWORD_NAME_IMPACT",
+      "ko": "격돌",
+      "en": null
+    },
+    {
+      "Key": "KEYWORD_NAME_MERGE",
+      "ko": "합류",
+      "en": null
+    },
+    {
+      "Key": "KEYWORD_DESC_ICEORB",
+      "ko": "캐릭터 주변에 누적하여 맴도는 얼음 자원으로, 발동하면 가까운 적에게 투사체로 발사됩니다.",
+      "en": null
+    },
+    {
+      "Key": "KEYWORD_DESC_FROZENORB",
+      "ko": "얼음구체를 일정 수 발동해 생성하는 큰 구체로, 날아가며 주변으로 얼음 볼트를 흩뿌립니다.",
+      "en": null
+    },
+    {
+      "Key": "KEYWORD_DESC_SPLIT",
+      "ko": "번개 줄기가 여러 대상 방향으로 동시에 갈라져 발사되는 수",
+      "en": null
+    },
+    {
+      "Key": "KEYWORD_DESC_RICOCHET",
+      "ko": "맞은 적을 시작점으로 번개가 다른 적에게 추가로 이어지는 횟수",
+      "en": null
+    },
+    {
+      "Key": "KEYWORD_DESC_IMPACT",
+      "ko": "소용돌이 분출로 적을 밀쳐내며 충돌/넉백 피해를 주는 효과",
+      "en": null
+    },
+    {
+      "Key": "KEYWORD_DESC_MERGE",
+      "ko": "작은 소용돌이가 기존 소용돌이로 날아가 합쳐지며 소용돌이를 강화하는 효과",
       "en": null
     }
   ]
