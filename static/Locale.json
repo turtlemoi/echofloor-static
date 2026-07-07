@@ -46,6 +46,21 @@
       "en": null
     },
     {
+      "Key": "REMOVE_TITLE",
+      "ko": "제거할 카드를 선택하세요",
+      "en": null
+    },
+    {
+      "Key": "REMOVE_CONFIRM",
+      "ko": "이 카드를 제거하겠습니까?",
+      "en": null
+    },
+    {
+      "Key": "DECK_TITLE",
+      "ko": "내 카드",
+      "en": null
+    },
+    {
       "Key": "CARD_10101",
       "ko": "화염구",
       "en": null
