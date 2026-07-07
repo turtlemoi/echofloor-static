@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "ID": 1,
+      "Chapter": 1,
+      "Name": "BOSS_01",
+      "CharacterID": 1,
+      "CardsRandom": "0",
+      "Cards": "10101,10101",
+      "AugmentsRandom": 0,
+      "Augments": "14,18"
+    },
+    {
+      "ID": 2,
+      "Chapter": 1,
+      "Name": "BOSS_02",
+      "CharacterID": 1,
+      "CardsRandom": "0",
+      "Cards": "10101,10101",
+      "AugmentsRandom": 1,
+      "Augments": 2
+    },
+    {
+      "ID": 3,
+      "Chapter": 1,
+      "Name": "BOSS_03",
+      "CharacterID": 1,
+      "CardsRandom": "0",
+      "Cards": "10101,10101",
+      "AugmentsRandom": 1,
+      "Augments": 2
+    },
+    {
+      "ID": 4,
+      "Chapter": 2,
+      "Name": "BOSS_04",
+      "CharacterID": 1,
+      "CardsRandom": "0",
+      "Cards": "10101,10101",
+      "AugmentsRandom": 0,
+      "Augments": "1,16,22,10"
+    },
+    {
+      "ID": 5,
+      "Chapter": 2,
+      "Name": "BOSS_05",
+      "CharacterID": 1,
+      "CardsRandom": "0",
+      "Cards": "10101,10101",
+      "AugmentsRandom": 0,
+      "Augments": "15,5,47,2"
+    },
+    {
+      "ID": 6,
+      "Chapter": 2,
+      "Name": "BOSS_06",
+      "CharacterID": 1,
+      "CardsRandom": "0",
+      "Cards": "10101,10101",
+      "AugmentsRandom": 1,
+      "Augments": 4
+    },
+    {
+      "ID": 7,
+      "Chapter": 3,
+      "Name": "BOSS_07",
+      "CharacterID": 1,
+      "CardsRandom": "0",
+      "Cards": "10101,10101",
+      "AugmentsRandom": 0,
+      "Augments": "8,24,32,11,7,9"
+    },
+    {
+      "ID": 8,
+      "Chapter": 3,
+      "Name": "BOSS_08",
+      "CharacterID": 1,
+      "CardsRandom": "0",
+      "Cards": "10101,10101",
+      "AugmentsRandom": 1,
+      "Augments": 6
+    },
+    {
+      "ID": 9,
+      "Chapter": 3,
+      "Name": "BOSS_09",
+      "CharacterID": 1,
+      "CardsRandom": "0",
+      "Cards": "10101,10101",
+      "AugmentsRandom": 1,
+      "Augments": 6
+    },
+    {
+      "ID": 10,
+      "Chapter": 4,
+      "Name": "BOSS_10",
+      "CharacterID": 1,
+      "CardsRandom": "0",
+      "Cards": "10101,10101",
+      "AugmentsRandom": 1,
+      "Augments": 8
+    },
+    {
+      "ID": 11,
+      "Chapter": 4,
+      "Name": "BOSS_11",
+      "CharacterID": 1,
+      "CardsRandom": "0",
+      "Cards": "10101,10101",
+      "AugmentsRandom": 1,
+      "Augments": 8
+    },
+    {
+      "ID": 12,
+      "Chapter": 4,
+      "Name": "BOSS_12",
+      "CharacterID": 1,
+      "CardsRandom": "0",
+      "Cards": "10101,10101",
+      "AugmentsRandom": 1,
+      "Augments": 8
+    },
+    {
+      "ID": 13,
+      "Chapter": 5,
+      "Name": "BOSS_13",
+      "CharacterID": 1,
+      "CardsRandom": "0",
+      "Cards": "10101,10101",
+      "AugmentsRandom": 1,
+      "Augments": 10
+    },
+    {
+      "ID": 14,
+      "Chapter": 5,
+      "Name": "BOSS_14",
+      "CharacterID": 1,
+      "CardsRandom": "0",
+      "Cards": "10101,10101",
+      "AugmentsRandom": 1,
+      "Augments": 10
+    },
+    {
+      "ID": 15,
+      "Chapter": 5,
+      "Name": "BOSS_15",
+      "CharacterID": 1,
+      "CardsRandom": "1",
+      "Cards": "26",
+      "AugmentsRandom": 1,
+      "Augments": 10
+    }
+  ]
+}

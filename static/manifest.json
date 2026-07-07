@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-07T03:58:28.677Z",
+  "updatedAt": "2026-07-07T13:03:24.491Z",
   "sheets": [
     {
       "name": "Common",
-      "version": 50,
-      "hash": "a54b7bc0b0623c0a51afb2d645b03ad0f9f91ae1cdc3c47df8609872f18c63bf",
+      "version": 51,
+      "hash": "1c00b17636aa1ae8a00f29d827e2b3f4baee640441b99972315855b54b92c902",
       "url": "/static/Common.json"
     },
     {
@@ -28,7 +28,7 @@
     {
       "name": "AttackCards",
       "version": 65,
-      "hash": "5902c90099bf87678ef296bc7ad1a5054fe39980099173e873d2f6cd18e9ba17",
+      "hash": "ccebf1eab11e1fa00ead172b96550b90e336091335ff7a9e811136eb2cfbaa7b",
       "url": "/static/AttackCards.json"
     },
     {
@@ -54,6 +54,12 @@
       "version": 11,
       "hash": "5859dc5ed79b8ce7d676bf9a84747770c67c625b32e47b782ed2afe785cccd15",
       "url": "/static/Creature.json"
+    },
+    {
+      "name": "Boss",
+      "version": 1,
+      "hash": "a93731fe6ddfcf73f811c330afa78e54bb14e1b0cf0cc577a78ccb3a41ede988",
+      "url": "/static/Boss.json"
     },
     {
       "name": "Keyword",

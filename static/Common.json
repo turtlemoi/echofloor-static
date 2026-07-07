@@ -119,6 +119,10 @@
     {
       "Key": "boss_weight",
       "Value": "50"
+    },
+    {
+      "Key": "boss_user_weight",
+      "Value": "45:55"
     }
   ]
 }
