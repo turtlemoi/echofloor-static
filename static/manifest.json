@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T13:08:40.579Z",
+  "updatedAt": "2026-07-07T13:11:33.073Z",
   "sheets": [
     {
       "name": "Common",
@@ -57,8 +57,8 @@
     },
     {
       "name": "Boss",
-      "version": 2,
-      "hash": "a93731fe6ddfcf73f811c330afa78e54bb14e1b0cf0cc577a78ccb3a41ede988",
+      "version": 4,
+      "hash": "951b7592fb62283f1db90376d50ebee6822d8ad32b637c30ba987d8561f3ce81",
       "url": "/static/Boss.json"
     },
     {
