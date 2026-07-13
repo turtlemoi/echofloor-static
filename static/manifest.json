@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-07T13:13:17.856Z",
+  "updatedAt": "2026-07-13T11:45:02.425Z",
   "sheets": [
     {
       "name": "Common",
-      "version": 51,
-      "hash": "1c00b17636aa1ae8a00f29d827e2b3f4baee640441b99972315855b54b92c902",
+      "version": 52,
+      "hash": "d0b253748c590e63dc5203fd4b5c1943b8c843983f7f677ba5462a1783b27c86",
       "url": "/static/Common.json"
     },
     {
@@ -21,32 +21,32 @@
     },
     {
       "name": "Cards",
-      "version": 23,
-      "hash": "f5b6d6fb9f785aae864c175ec69ea53cf1977ed521b489a29ad65d4bc66681b4",
+      "version": 24,
+      "hash": "0cece02bfa655a13af8e42003a1abaab4b91194e0e35939018a9c58ba0d16167",
       "url": "/static/Cards.json"
     },
     {
       "name": "AttackCards",
       "version": 65,
-      "hash": "ccebf1eab11e1fa00ead172b96550b90e336091335ff7a9e811136eb2cfbaa7b",
+      "hash": "6bc36532c541544565d0e028c827fa03f46d75801d87ed599e93265c41163e94",
       "url": "/static/AttackCards.json"
     },
     {
       "name": "AttackEffects",
       "version": 11,
-      "hash": "f4a171b57022030d0469fec7b210abed598be248b3759fd75119f5bc865e65d4",
+      "hash": "f02d14db4f007cfd92bd4520c37dfa64f592c1b76d2d07c99edc7bf4135d11e1",
       "url": "/static/AttackEffects.json"
     },
     {
       "name": "SkillCards",
       "version": 5,
-      "hash": "b488cdfcb4fb506a8159a1b036c385126580d2bcf30bb6b890d897bbd83f3a3f",
+      "hash": "cb7aab2d657933d0f4d7404109f6a50fd7ab6ee85bc948e37e4e1d16893e3b50",
       "url": "/static/SkillCards.json"
     },
     {
       "name": "Augment",
-      "version": 3,
-      "hash": "b511994471af643c8b3faeeeb60a8cba2a0dd616e376c10eb09d11dedb246e1c",
+      "version": 4,
+      "hash": "1129fbab1f00fa658520f375b9e1d3594b46550529eb5b90c1ccd7c89e8f1997",
       "url": "/static/Augment.json"
     },
     {
@@ -58,7 +58,7 @@
     {
       "name": "Boss",
       "version": 5,
-      "hash": "951b7592fb62283f1db90376d50ebee6822d8ad32b637c30ba987d8561f3ce81",
+      "hash": "1dc5334785e124c33cbbada7665ee8725e65f21e25162973e64f6dd1d9b9dee2",
       "url": "/static/Boss.json"
     },
     {
@@ -70,7 +70,7 @@
     {
       "name": "Locale",
       "version": 30,
-      "hash": "53a2e69bc540f09ff80d311a280170c2f762922247ff46834f4e0ee58b6b619f",
+      "hash": "a6e6fad2453453fab7be9944152e6162a6e6d56d48d0a53289ff58323e6caa16",
       "url": "/static/Locale.json"
     }
   ]

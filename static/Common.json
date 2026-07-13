@@ -33,6 +33,10 @@
       "Value": "50,40,10"
     },
     {
+      "Key": "player_character",
+      "Value": "2"
+    },
+    {
       "Key": "player_weight",
       "Value": "10"
     },
@@ -61,8 +65,12 @@
       "Value": "150"
     },
     {
-      "Key": "player_card",
+      "Key": "player_card_1",
       "Value": "10101,10101|10302,10302|20012,20012|10410,10410|10510,10510"
+    },
+    {
+      "Key": "player_card_2",
+      "Value": "10601,10601|10611,10611"
     },
     {
       "Key": "player_dash_cooldown",
@@ -114,7 +122,7 @@
     },
     {
       "Key": "boss_damage_ratio",
-      "Value": "0.01"
+      "Value": "0.5"
     },
     {
       "Key": "boss_weight",

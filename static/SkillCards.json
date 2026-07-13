@@ -160,6 +160,118 @@
       "Value1": 0,
       "Value2": 0,
       "Value3": 0
+    },
+    {
+      "ID": 20601,
+      "EffectType": 21,
+      "Value1": 1,
+      "Value2": 6,
+      "Value3": 0
+    },
+    {
+      "ID": 20602,
+      "EffectType": 50,
+      "Value1": 1,
+      "Value2": 2,
+      "Value3": 6
+    },
+    {
+      "ID": 20603,
+      "EffectType": 51,
+      "Value1": 40,
+      "Value2": 2,
+      "Value3": 6
+    },
+    {
+      "ID": 20604,
+      "EffectType": 52,
+      "Value1": 50,
+      "Value2": 2,
+      "Value3": 6
+    },
+    {
+      "ID": 20605,
+      "EffectType": 53,
+      "Value1": 30,
+      "Value2": 2,
+      "Value3": 6
+    },
+    {
+      "ID": 20606,
+      "EffectType": 54,
+      "Value1": 50,
+      "Value2": 2,
+      "Value3": 6
+    },
+    {
+      "ID": 20611,
+      "EffectType": 55,
+      "Value1": 0,
+      "Value2": 2,
+      "Value3": 6
+    },
+    {
+      "ID": 20612,
+      "EffectType": 22,
+      "Value1": 1,
+      "Value2": 6,
+      "Value3": 0
+    },
+    {
+      "ID": 20613,
+      "EffectType": 56,
+      "Value1": 2,
+      "Value2": 2,
+      "Value3": 6
+    },
+    {
+      "ID": 20614,
+      "EffectType": 57,
+      "Value1": 70,
+      "Value2": 2,
+      "Value3": 6
+    },
+    {
+      "ID": 20621,
+      "EffectType": 58,
+      "Value1": 6001,
+      "Value2": 2,
+      "Value3": 6
+    },
+    {
+      "ID": 20622,
+      "EffectType": 58,
+      "Value1": 6002,
+      "Value2": 2,
+      "Value3": 6
+    },
+    {
+      "ID": 20623,
+      "EffectType": 58,
+      "Value1": 6003,
+      "Value2": 2,
+      "Value3": 6
+    },
+    {
+      "ID": 20624,
+      "EffectType": 58,
+      "Value1": 6004,
+      "Value2": 2,
+      "Value3": 6
+    },
+    {
+      "ID": 20625,
+      "EffectType": 58,
+      "Value1": 6005,
+      "Value2": 2,
+      "Value3": 6
+    },
+    {
+      "ID": 20631,
+      "EffectType": 59,
+      "Value1": 1,
+      "Value2": 1,
+      "Value3": 6
     }
   ]
 }

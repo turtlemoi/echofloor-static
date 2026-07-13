@@ -215,6 +215,62 @@
       "Value2": 1,
       "Value3": 0,
       "Value4": null
+    },
+    {
+      "ID": 6001,
+      "EffectType": 3,
+      "Value1": 90601,
+      "Value2": 2,
+      "Value3": 0,
+      "Value4": 0
+    },
+    {
+      "ID": 6002,
+      "EffectType": 3,
+      "Value1": 90602,
+      "Value2": 2,
+      "Value3": 0,
+      "Value4": 0
+    },
+    {
+      "ID": 6003,
+      "EffectType": 3,
+      "Value1": 90603,
+      "Value2": 4,
+      "Value3": 0,
+      "Value4": 0
+    },
+    {
+      "ID": 6004,
+      "EffectType": 6,
+      "Value1": 0.1,
+      "Value2": 0,
+      "Value3": 0,
+      "Value4": 0
+    },
+    {
+      "ID": 6005,
+      "EffectType": 9,
+      "Value1": 1,
+      "Value2": 1,
+      "Value3": 0,
+      "Value4": 0
+    },
+    {
+      "ID": 6011,
+      "EffectType": 10,
+      "Value1": 1,
+      "Value2": 0,
+      "Value3": 0,
+      "Value4": 0
+    },
+    {
+      "ID": 6012,
+      "EffectType": 10,
+      "Value1": 1,
+      "Value2": 2,
+      "Value3": 0,
+      "Value4": 0
     }
   ]
 }

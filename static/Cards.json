@@ -9,7 +9,8 @@
       "Desc": "CARD_10101_DESC",
       "ICON": "ATK_10101_Fireball",
       "Series": 1,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10109,
@@ -20,7 +21,8 @@
       "Desc": "CARD_10109_DESC",
       "ICON": "ATK_10109_Purgatory",
       "Series": 1,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10111,
@@ -31,7 +33,8 @@
       "Desc": "CARD_10111_DESC",
       "ICON": "ATK_10111_FireballSkill",
       "Series": 1,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10112,
@@ -42,7 +45,8 @@
       "Desc": "CARD_10112_DESC",
       "ICON": "ATK_10112_Flameshot",
       "Series": 1,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10113,
@@ -53,7 +57,8 @@
       "Desc": "CARD_10113_DESC",
       "ICON": "ATK_10113_FireballStorm",
       "Series": 1,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10120,
@@ -64,7 +69,8 @@
       "Desc": "CARD_10120_DESC",
       "ICON": "ATK_10120_IgniteOrb",
       "Series": 1,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10121,
@@ -75,7 +81,8 @@
       "Desc": "CARD_10121_DESC",
       "ICON": "ATK_10121_EmberScatter",
       "Series": 1,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10122,
@@ -86,7 +93,8 @@
       "Desc": "CARD_10122_DESC",
       "ICON": "ATK_10122_FinishingHarvest",
       "Series": 1,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10210,
@@ -97,7 +105,8 @@
       "Desc": "CARD_10210_DESC",
       "ICON": "ATK_10210_ForceRelease",
       "Series": 2,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10211,
@@ -108,7 +117,8 @@
       "Desc": "CARD_10211_DESC",
       "ICON": "ATK_10211_FrostOrb",
       "Series": 2,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10212,
@@ -119,7 +129,8 @@
       "Desc": "CARD_10212_DESC",
       "ICON": "ATK_10212_OrbBurst",
       "Series": 2,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10213,
@@ -130,7 +141,8 @@
       "Desc": "CARD_10213_DESC",
       "ICON": "ATK_10213_FrostOrbit",
       "Series": 2,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10302,
@@ -141,7 +153,8 @@
       "Desc": "CARD_10302_DESC",
       "ICON": "ATK_10302_ElecShock",
       "Series": 3,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10304,
@@ -152,7 +165,8 @@
       "Desc": "CARD_10304_DESC",
       "ICON": "ATK_10304_ChainLightning",
       "Series": 3,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10312,
@@ -163,7 +177,8 @@
       "Desc": "CARD_10312_DESC",
       "ICON": "ATK_10312_ForkedLightning",
       "Series": 3,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10313,
@@ -174,7 +189,8 @@
       "Desc": "CARD_10313_DESC",
       "ICON": "ATK_10313_LightningStorm",
       "Series": 3,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10314,
@@ -185,7 +201,8 @@
       "Desc": "CARD_10314_DESC",
       "ICON": "ATK_10314_SuperconductBolt",
       "Series": 3,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10320,
@@ -196,7 +213,8 @@
       "Desc": "CARD_10320_DESC",
       "ICON": "ATK_10320_ChainDischarge",
       "Series": 3,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10410,
@@ -207,7 +225,8 @@
       "Desc": "CARD_10410_DESC",
       "ICON": "ATK_10410_Vortex",
       "Series": 4,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10411,
@@ -218,7 +237,8 @@
       "Desc": "CARD_10411_DESC",
       "ICON": "ATK_10411_Gust",
       "Series": 4,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10412,
@@ -229,7 +249,8 @@
       "Desc": "CARD_10412_DESC",
       "ICON": "ATK_10412_WhirlShot",
       "Series": 4,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10413,
@@ -240,7 +261,8 @@
       "Desc": "CARD_10413_DESC",
       "ICON": "ATK_10413_Gale",
       "Series": 4,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10414,
@@ -251,7 +273,8 @@
       "Desc": "CARD_10414_DESC",
       "ICON": "ATK_10414_Storm",
       "Series": 4,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10415,
@@ -262,7 +285,8 @@
       "Desc": "CARD_10415_DESC",
       "ICON": "ATK_10415_Typhoon",
       "Series": 4,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10416,
@@ -273,7 +297,8 @@
       "Desc": "CARD_10416_DESC",
       "ICON": "ATK_10416_Swarm",
       "Series": 4,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10510,
@@ -284,7 +309,8 @@
       "Desc": "CARD_10510_DESC",
       "ICON": "ATK_10510_Pillar",
       "Series": 5,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10511,
@@ -295,7 +321,8 @@
       "Desc": "CARD_10511_DESC",
       "ICON": "ATK_10511_StoneSpike",
       "Series": 5,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10512,
@@ -306,7 +333,8 @@
       "Desc": "CARD_10512_DESC",
       "ICON": "ATK_10512_Tremor",
       "Series": 5,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10513,
@@ -317,7 +345,8 @@
       "Desc": "CARD_10513_DESC",
       "ICON": "ATK_10513_PillarCluster",
       "Series": 5,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10514,
@@ -328,7 +357,8 @@
       "Desc": "CARD_10514_DESC",
       "ICON": "ATK_10514_Boulder",
       "Series": 5,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 10515,
@@ -339,7 +369,176 @@
       "Desc": "CARD_10515_DESC",
       "ICON": "ATK_10515_FaultUplift",
       "Series": 5,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
+    },
+    {
+      "ID": 10601,
+      "CardType": 1,
+      "CoolDown": 1,
+      "Tier": 1,
+      "Name": "CARD_10601",
+      "Desc": "CARD_10601_DESC",
+      "ICON": "ATK_10601_Shot",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 10602,
+      "CardType": 1,
+      "CoolDown": 1,
+      "Tier": 1,
+      "Name": "CARD_10602",
+      "Desc": "CARD_10602_DESC",
+      "ICON": "ATK_10602_TwinShot",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 10603,
+      "CardType": 1,
+      "CoolDown": 1.5,
+      "Tier": 2,
+      "Name": "CARD_10603",
+      "Desc": "CARD_10603_DESC",
+      "ICON": "ATK_10603_MultiShot",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 10604,
+      "CardType": 1,
+      "CoolDown": 1.5,
+      "Tier": 2,
+      "Name": "CARD_10604",
+      "Desc": "CARD_10604_DESC",
+      "ICON": "ATK_10604_Piercer",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 10605,
+      "CardType": 1,
+      "CoolDown": 2.5,
+      "Tier": 2,
+      "Name": "CARD_10605",
+      "Desc": "CARD_10605_DESC",
+      "ICON": "ATK_10605_PrecisionSnipe",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 10606,
+      "CardType": 1,
+      "CoolDown": 3,
+      "Tier": 3,
+      "Name": "CARD_10606",
+      "Desc": "CARD_10606_DESC",
+      "ICON": "ATK_10606_ArrowTempest",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 10611,
+      "CardType": 1,
+      "CoolDown": 1,
+      "Tier": 1,
+      "Name": "CARD_10611",
+      "Desc": "CARD_10611_DESC",
+      "ICON": "ATK_10611_LoftedShot",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 10612,
+      "CardType": 1,
+      "CoolDown": 2,
+      "Tier": 2,
+      "Name": "CARD_10612",
+      "Desc": "CARD_10612_DESC",
+      "ICON": "ATK_10612_ArrowRain",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 10613,
+      "CardType": 1,
+      "CoolDown": 2,
+      "Tier": 2,
+      "Name": "CARD_10613",
+      "Desc": "CARD_10613_DESC",
+      "ICON": "ATK_10613_GreatbowBombard",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 10614,
+      "CardType": 1,
+      "CoolDown": 3,
+      "Tier": 3,
+      "Name": "CARD_10614",
+      "Desc": "CARD_10614_DESC",
+      "ICON": "ATK_10614_DarkCloud",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 10621,
+      "CardType": 1,
+      "CoolDown": 2,
+      "Tier": 2,
+      "Name": "CARD_10621",
+      "Desc": "CARD_10621_DESC",
+      "ICON": "ATK_10621_CaltropScatter",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 10631,
+      "CardType": 1,
+      "CoolDown": 1,
+      "Tier": 1,
+      "Name": "CARD_10631",
+      "Desc": "CARD_10631_DESC",
+      "ICON": "ATK_10631_LoadedShot",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 10632,
+      "CardType": 1,
+      "CoolDown": 2,
+      "Tier": 2,
+      "Name": "CARD_10632",
+      "Desc": "CARD_10632_DESC",
+      "ICON": "ATK_10632_StockpileVolley",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 10633,
+      "CardType": 1,
+      "CoolDown": 2,
+      "Tier": 2,
+      "Name": "CARD_10633",
+      "Desc": "CARD_10633_DESC",
+      "ICON": "ATK_10633_FullSalvo",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
     },
     {
       "ID": 20001,
@@ -350,7 +549,8 @@
       "Desc": "CARD_20001_DESC",
       "ICON": "SKL_20001_DoubleStrike",
       "Series": "",
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 0
     },
     {
       "ID": 20005,
@@ -361,7 +561,8 @@
       "Desc": "CARD_20005_DESC",
       "ICON": "SKL_20005_Snipe",
       "Series": "",
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 0
     },
     {
       "ID": 20006,
@@ -372,7 +573,8 @@
       "Desc": "CARD_20006_DESC",
       "ICON": "SKL_20006_QuickDraw",
       "Series": "",
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 0
     },
     {
       "ID": 20008,
@@ -383,7 +585,8 @@
       "Desc": "CARD_20008_DESC",
       "ICON": "SKL_20008_FlameHone",
       "Series": 1,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 20009,
@@ -394,7 +597,8 @@
       "Desc": "CARD_20009_DESC",
       "ICON": "SKL_20009_IgnitionLoad",
       "Series": 1,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 20010,
@@ -405,7 +609,8 @@
       "Desc": "CARD_20010_DESC",
       "ICON": "SKL_20010_CurrentSplit",
       "Series": 3,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 20011,
@@ -416,7 +621,8 @@
       "Desc": "CARD_20011_DESC",
       "ICON": "SKL_20011_BoltAmplify",
       "Series": 3,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 20012,
@@ -427,7 +633,8 @@
       "Desc": "CARD_20012_DESC",
       "ICON": "SKL_20012_IceOrb",
       "Series": 2,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 20013,
@@ -438,7 +645,8 @@
       "Desc": "CARD_20013_DESC",
       "ICON": "SKL_20013_OrbAlign",
       "Series": 2,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 20014,
@@ -449,7 +657,8 @@
       "Desc": "CARD_20014_DESC",
       "ICON": "SKL_20014_ChillSupply",
       "Series": 2,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 20015,
@@ -460,7 +669,8 @@
       "Desc": "CARD_20015_DESC",
       "ICON": "SKL_20015_EmberCharge",
       "Series": 1,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 20016,
@@ -471,7 +681,8 @@
       "Desc": "CARD_20016_DESC",
       "ICON": "SKL_20016_FrostInsight",
       "Series": 2,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 20017,
@@ -482,7 +693,8 @@
       "Desc": "CARD_20017_DESC",
       "ICON": "SKL_20017_OverloadCircuit",
       "Series": 3,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 20018,
@@ -493,7 +705,8 @@
       "Desc": "CARD_20018_DESC",
       "ICON": "SKL_20018_Turbulence",
       "Series": 4,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 20019,
@@ -504,7 +717,8 @@
       "Desc": "CARD_20019_DESC",
       "ICON": "SKL_20019_AirCharge",
       "Series": 4,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 20020,
@@ -515,7 +729,8 @@
       "Desc": "CARD_20020_DESC",
       "ICON": "SKL_20020_StormMuster",
       "Series": 4,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 20021,
@@ -526,7 +741,8 @@
       "Desc": "CARD_20021_DESC",
       "ICON": "SKL_20021_GroundTamping",
       "Series": 5,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 20022,
@@ -537,7 +753,8 @@
       "Desc": "CARD_20022_DESC",
       "ICON": "SKL_20022_GroundCharge",
       "Series": 5,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
     },
     {
       "ID": 20023,
@@ -548,7 +765,200 @@
       "Desc": "CARD_20023_DESC",
       "ICON": "SKL_20023_PillarReposition",
       "Series": 5,
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": 1
+    },
+    {
+      "ID": 20601,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 1,
+      "Name": "CARD_20601",
+      "Desc": "CARD_20601_DESC",
+      "ICON": "SKL_20601_TwinNock",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 20602,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 1,
+      "Name": "CARD_20602",
+      "Desc": "CARD_20602_DESC",
+      "ICON": "SKL_20602_RapidFire",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 20603,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 1,
+      "Name": "CARD_20603",
+      "Desc": "CARD_20603_DESC",
+      "ICON": "SKL_20603_TakeAim",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 20604,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 2,
+      "Name": "CARD_20604",
+      "Desc": "CARD_20604_DESC",
+      "ICON": "SKL_20604_HeavyDraw",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 20605,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 2,
+      "Name": "CARD_20605",
+      "Desc": "CARD_20605_DESC",
+      "ICON": "SKL_20605_FocusVolley",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 20606,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 2,
+      "Name": "CARD_20606",
+      "Desc": "CARD_20606_DESC",
+      "ICON": "SKL_20606_Tailwind",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 20611,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 2,
+      "Name": "CARD_20611",
+      "Desc": "CARD_20611_DESC",
+      "ICON": "SKL_20611_HomingArrow",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 20612,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 1,
+      "Name": "CARD_20612",
+      "Desc": "CARD_20612_DESC",
+      "ICON": "SKL_20612_EchoString",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 20613,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 2,
+      "Name": "CARD_20613",
+      "Desc": "CARD_20613_DESC",
+      "ICON": "SKL_20613_Ricochet",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 20614,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 3,
+      "Name": "CARD_20614",
+      "Desc": "CARD_20614_DESC",
+      "ICON": "SKL_20614_Boomerang",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 20621,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 1,
+      "Name": "CARD_20621",
+      "Desc": "CARD_20621_DESC",
+      "ICON": "SKL_20621_ShrapnelTip",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 20622,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 2,
+      "Name": "CARD_20622",
+      "Desc": "CARD_20622_DESC",
+      "ICON": "SKL_20622_ForkTip",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 20623,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 2,
+      "Name": "CARD_20623",
+      "Desc": "CARD_20623_DESC",
+      "ICON": "SKL_20623_SplitTip",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 20624,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 1,
+      "Name": "CARD_20624",
+      "Desc": "CARD_20624_DESC",
+      "ICON": "SKL_20624_HasteTip",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 20625,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 2,
+      "Name": "CARD_20625",
+      "Desc": "CARD_20625_DESC",
+      "ICON": "SKL_20625_TrophyTip",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
+    },
+    {
+      "ID": 20631,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 1,
+      "Name": "CARD_20631",
+      "Desc": "CARD_20631_DESC",
+      "ICON": "SKL_20631_QuickLoad",
+      "Series": 6,
+      "RequireSeries": "",
+      "Character": 2
     },
     {
       "ID": 99001,
@@ -559,7 +969,8 @@
       "Desc": null,
       "ICON": null,
       "Series": null,
-      "RequireSeries": null
+      "RequireSeries": null,
+      "Character": null
     },
     {
       "ID": 99010,
@@ -570,7 +981,8 @@
       "Desc": "",
       "ICON": "",
       "Series": "",
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": ""
     },
     {
       "ID": 99011,
@@ -581,7 +993,8 @@
       "Desc": "",
       "ICON": "",
       "Series": "",
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": ""
     },
     {
       "ID": 99012,
@@ -592,7 +1005,8 @@
       "Desc": "",
       "ICON": "",
       "Series": "",
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": ""
     },
     {
       "ID": 99013,
@@ -603,7 +1017,8 @@
       "Desc": "",
       "ICON": "",
       "Series": "",
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": ""
     },
     {
       "ID": 99014,
@@ -614,7 +1029,8 @@
       "Desc": "",
       "ICON": "",
       "Series": "",
-      "RequireSeries": ""
+      "RequireSeries": "",
+      "Character": ""
     }
   ]
 }
