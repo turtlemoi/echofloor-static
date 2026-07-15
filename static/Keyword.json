@@ -29,6 +29,11 @@
       "ID": "MERGE",
       "NameKey": "KEYWORD_NAME_MERGE",
       "DescKey": "KEYWORD_DESC_MERGE"
+    },
+    {
+      "ID": "LOAD",
+      "NameKey": "KEYWORD_NAME_LOAD",
+      "DescKey": "KEYWORD_DESC_LOAD"
     }
   ]
 }
