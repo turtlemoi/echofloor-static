@@ -145,8 +145,8 @@
       "Chapter": 5,
       "Name": "BOSS_15",
       "CharacterType": 1,
-      "CardRandom": "1",
-      "CardIDs": "26",
+      "CardRandom": "0",
+      "CardIDs": "10101,10101",
       "AugmentRandom": 1,
       "AugmentIDs": 10
     }
