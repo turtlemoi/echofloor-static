@@ -218,7 +218,7 @@
     },
     {
       "ID": 10211,
-      "Tier": 2,
+      "Tier": 3,
       "Element": 2,
       "AttackType": 11,
       "PrefabName": "IceShard",
@@ -236,7 +236,7 @@
     },
     {
       "ID": 10212,
-      "Tier": 3,
+      "Tier": 2,
       "Element": 2,
       "AttackType": 12,
       "PrefabName": "",

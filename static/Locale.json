@@ -227,7 +227,7 @@
     },
     {
       "Key": "CARD_10210_DESC",
-      "ko": "얼음구체 1개 소모. 2회 발동.",
+      "ko": "얼음구체 1개 소모. 2회 발동. 생성한 얼음구체가 없으면 1개 획득.",
       "en": null
     },
     {
@@ -237,7 +237,7 @@
     },
     {
       "Key": "CARD_10211_DESC",
-      "ko": "얼음구체 3개 발동. 빙결구체 생성.",
+      "ko": "얼음구체 3개 발동. 빙결구체 생성. 생성한 얼음구체가 없으면 1개 획득.",
       "en": null
     },
     {
@@ -247,7 +247,7 @@
     },
     {
       "Key": "CARD_10212_DESC",
-      "ko": "이번 전투에서 발동한 얼음구체 수만큼 얼음구체 획득.",
+      "ko": "이번 전투에서 생성한 얼음구체 수만큼 얼음구체 획득. 생성한 얼음구체가 없으면 1개 획득.",
       "en": null
     },
     {
@@ -907,7 +907,7 @@
     },
     {
       "Key": "CARD_20013_DESC",
-      "ko": "핸드의 얼음구체 카드 수만큼 얼음구체 획득.",
+      "ko": "핸드의 얼음구체 카드 수만큼 얼음구체 획득. ",
       "en": null
     },
     {
@@ -917,7 +917,7 @@
     },
     {
       "Key": "CARD_20014_DESC",
-      "ko": "모든 얼음구체 발동. 소모한 수만큼 카드 드로우.",
+      "ko": "모든 얼음구체 발동. 소모한 수만큼 카드 드로우.생성한 얼음구체가 없으면 1개 획득.",
       "en": null
     },
     {
@@ -937,7 +937,7 @@
     },
     {
       "Key": "CARD_20016_DESC",
-      "ko": "보유한 얼음구체 수만큼 카드 드로우. 얼음구체는 소모되지 않음.",
+      "ko": "보유한 얼음구체 수만큼 카드 드로우. 얼음구체가 없으면 1장 드로우.",
       "en": null
     },
     {
@@ -2129,6 +2129,266 @@
       "Key": "AUG_DESC_47",
       "ko": "5속성을 각 1회씩 사용하면 사용 더미의 카드가 모두 덱으로 돌아오며 공격 카드가 전부 발동됩니다.",
       "en": null
+    },
+    {
+      "Key": "AUG_NAME_48",
+      "ko": "회피 사격",
+      "en": "Evasive Volley"
+    },
+    {
+      "Key": "AUG_DESC_48",
+      "ko": "장전이 없을 때 대쉬하면 화살 {0}발을 장전합니다.",
+      "en": "Dashing with an empty quiver loads {0} arrows."
+    },
+    {
+      "Key": "AUG_NAME_49",
+      "ko": "강철 소나기",
+      "en": "Steel Rain"
+    },
+    {
+      "Key": "AUG_DESC_49",
+      "ko": "장전 방출 화살의 피해가 {0}% 증가합니다.",
+      "en": "Quiver release damage is increased by {0}%."
+    },
+    {
+      "Key": "AUG_NAME_50",
+      "ko": "꿰뚫는 소나기",
+      "en": "Piercing Rain"
+    },
+    {
+      "Key": "AUG_DESC_50",
+      "ko": "장전 방출 화살이 적을 관통합니다.",
+      "en": "Quiver release arrows pierce enemies."
+    },
+    {
+      "Key": "AUG_NAME_51",
+      "ko": "화살통 과부하",
+      "en": "Quiver Overload"
+    },
+    {
+      "Key": "AUG_DESC_51",
+      "ko": "장전된 화살 1발마다 모든 사격 피해가 {0}% 증가합니다.",
+      "en": "Each loaded arrow increases shot damage by {0}%."
+    },
+    {
+      "Key": "AUG_NAME_52",
+      "ko": "마르지 않는 화살",
+      "en": "Everflowing Arrows"
+    },
+    {
+      "Key": "AUG_DESC_52",
+      "ko": "대쉬 방출 후에도 장전의 {0}%가 남습니다.",
+      "en": "Retain {0}% of loaded arrows after a dash release."
+    },
+    {
+      "Key": "AUG_NAME_53",
+      "ko": "사냥의 리듬",
+      "en": "Rhythm of the Hunt"
+    },
+    {
+      "Key": "AUG_DESC_53",
+      "ko": "적을 처치하면 화살 {0}발을 장전합니다.",
+      "en": "Load {0} arrow after defeating an enemy."
+    },
+    {
+      "Key": "AUG_NAME_54",
+      "ko": "순환 사격",
+      "en": "Cyclic Volley"
+    },
+    {
+      "Key": "AUG_DESC_54",
+      "ko": "사격으로 화살 {0}발을 발사할 때마다 화살 {1}발을 장전합니다.",
+      "en": "Every {0} arrows fired loads {1} arrow."
+    },
+    {
+      "Key": "AUG_NAME_55",
+      "ko": "여운",
+      "en": "Lingering Echo"
+    },
+    {
+      "Key": "AUG_DESC_55",
+      "ko": "발사 강화 효과가 {0}회 더 지속됩니다.",
+      "en": "Shot enhancements last {0} additional uses."
+    },
+    {
+      "Key": "AUG_NAME_56",
+      "ko": "이중 시위",
+      "en": "Double Nock"
+    },
+    {
+      "Key": "AUG_DESC_56",
+      "ko": "발사 강화가 적용될 때 {0}% 확률로 소모 횟수가 차감되지 않습니다.",
+      "en": "Shot enhancements have a {0}% chance not to consume a use."
+    },
+    {
+      "Key": "AUG_NAME_58",
+      "ko": "끝없는 시위",
+      "en": "Endless String"
+    },
+    {
+      "Key": "AUG_DESC_58",
+      "ko": "모든 사격의 발사 횟수가 {0}회 늘어납니다.",
+      "en": "All shots fire {0} additional volley."
+    },
+    {
+      "Key": "AUG_NAME_59",
+      "ko": "속사 숙련",
+      "en": "Rapid Mastery"
+    },
+    {
+      "Key": "AUG_DESC_59",
+      "ko": "사격 카드의 쿨타임이 {0}% 감소합니다.",
+      "en": "Shot card cooldowns are reduced by {0}%."
+    },
+    {
+      "Key": "AUG_NAME_60",
+      "ko": "쾌속 화살",
+      "en": "Swift Arrows"
+    },
+    {
+      "Key": "AUG_DESC_60",
+      "ko": "화살이 {0}% 빨라지고 피해가 {1}% 증가합니다.",
+      "en": "Arrows travel {0}% faster and deal {1}% more damage."
+    },
+    {
+      "Key": "AUG_NAME_62",
+      "ko": "사냥꾼의 눈",
+      "en": "Hunter's Eye"
+    },
+    {
+      "Key": "AUG_DESC_62",
+      "ko": "체력이 {0}% 이상인 적에게 {1}% 추가 피해를 줍니다.",
+      "en": "Deal {1}% more damage to enemies above {0}% health."
+    },
+    {
+      "Key": "AUG_NAME_63",
+      "ko": "마무리",
+      "en": "Finisher"
+    },
+    {
+      "Key": "AUG_DESC_63",
+      "ko": "체력이 {0}% 이하인 적에게 {1}% 추가 피해를 줍니다.",
+      "en": "Deal {1}% more damage to enemies below {0}% health."
+    },
+    {
+      "Key": "AUG_NAME_64",
+      "ko": "끈질긴 사냥",
+      "en": "Relentless Hunt"
+    },
+    {
+      "Key": "AUG_DESC_64",
+      "ko": "매의 포만 소모 속도가 {0}% 감소합니다.",
+      "en": "The hawk consumes satiety {0}% slower."
+    },
+    {
+      "Key": "AUG_NAME_65",
+      "ko": "사나운 발톱",
+      "en": "Savage Talons"
+    },
+    {
+      "Key": "AUG_DESC_65",
+      "ko": "매의 할큄 피해가 {0}% 증가합니다.",
+      "en": "Hawk claw damage is increased by {0}%."
+    },
+    {
+      "Key": "AUG_NAME_66",
+      "ko": "포식자",
+      "en": "Apex Predator"
+    },
+    {
+      "Key": "AUG_DESC_66",
+      "ko": "매가 적을 처치하면 포만이 {0} 늘어납니다.",
+      "en": "The hawk gains {0} satiety after defeating an enemy."
+    },
+    {
+      "Key": "AUG_NAME_67",
+      "ko": "든든한 모이",
+      "en": "Hearty Feed"
+    },
+    {
+      "Key": "AUG_DESC_67",
+      "ko": "먹이 하나당 포만을 {0} 더 얻습니다.",
+      "en": "Feed grants {0} additional satiety."
+    },
+    {
+      "Key": "AUG_NAME_68",
+      "ko": "쌍매",
+      "en": "Twin Hawks"
+    },
+    {
+      "Key": "AUG_DESC_68",
+      "ko": "먹이와 명령을 공유하는 매를 두 마리 부립니다.",
+      "en": "Command two hawks that share feed and orders."
+    },
+    {
+      "Key": "AUG_NAME_69",
+      "ko": "지치지 않는 날개",
+      "en": "Tireless Wings"
+    },
+    {
+      "Key": "AUG_DESC_69",
+      "ko": "매가 계속 사냥합니다. 먹이 강화는 각각 {0}초간 유지됩니다.",
+      "en": "The hawk hunts endlessly. Feed buffs last {0} seconds."
+    },
+    {
+      "Key": "AUG_NAME_70",
+      "ko": "예리한 깃털",
+      "en": "Razor Feathers"
+    },
+    {
+      "Key": "AUG_DESC_70",
+      "ko": "깃털 피해가 {0}% 증가합니다.",
+      "en": "Feather damage is increased by {0}%."
+    },
+    {
+      "Key": "AUG_NAME_71",
+      "ko": "깃털 폭풍",
+      "en": "Feather Storm"
+    },
+    {
+      "Key": "AUG_DESC_71",
+      "ko": "깃털 발사 수가 {0}발 늘어납니다.",
+      "en": "Feather attacks fire {0} additional feather."
+    },
+    {
+      "Key": "AUG_NAME_72",
+      "ko": "왕의 위엄",
+      "en": "King's Authority"
+    },
+    {
+      "Key": "AUG_DESC_72",
+      "ko": "모든 명령이 {0}회 더 발동합니다.",
+      "en": "All commands activate {0} additional time."
+    },
+    {
+      "Key": "AUG_NAME_73",
+      "ko": "회수 본능",
+      "en": "Retrieval Instinct"
+    },
+    {
+      "Key": "AUG_DESC_73",
+      "ko": "매의 공격이 적을 맞힐 때마다 화살 {0}발을 장전합니다.",
+      "en": "Hawk hits load {0} arrow."
+    },
+    {
+      "Key": "AUG_NAME_74",
+      "ko": "합동 사격",
+      "en": "Combined Volley"
+    },
+    {
+      "Key": "AUG_DESC_74",
+      "ko": "내가 사격할 때마다 매가 깃털 {0}발을 발사합니다.",
+      "en": "Whenever you fire, the hawk fires {0} feather."
+    },
+    {
+      "Key": "AUG_NAME_76",
+      "ko": "먹이 순환",
+      "en": "Feed Cycle"
+    },
+    {
+      "Key": "AUG_DESC_76",
+      "ko": "카드를 뽑을 때마다 {0}% 확률로 포만이 1 늘어납니다.",
+      "en": "Drawing a card has a {0}% chance to grant 1 satiety."
     },
     {
       "Key": "KEYWORD_NAME_ICEORB",
