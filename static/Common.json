@@ -117,20 +117,28 @@
       "Value": "2"
     },
     {
-      "Key": "boss_hp_base",
+      "Key": "boss_hp_rate",
       "Value": "1000"
     },
     {
-      "Key": "boss_damage_ratio",
+      "Key": "boss_damage_rate",
       "Value": "0.5"
+    },
+    {
+      "Key": "boss_spawn_ratio",
+      "Value": "45:55"
+    },
+    {
+      "Key": "boss_ref_damage",
+      "Value": "10"
     },
     {
       "Key": "boss_weight",
       "Value": "50"
     },
     {
-      "Key": "boss_user_weight",
-      "Value": "45:55"
+      "Key": "boss_speed",
+      "Value": "2.2"
     }
   ]
 }

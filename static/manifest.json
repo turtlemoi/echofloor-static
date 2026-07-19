@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-19T11:02:56.986Z",
+  "updatedAt": "2026-07-19T11:35:41.658Z",
   "sheets": [
     {
       "name": "Common",
-      "version": 53,
-      "hash": "7bf9b608ea56dc423aabbb5668d947317d13a0043f2a7e2d8bfea264aafd8ae5",
+      "version": 55,
+      "hash": "68e152030d2b58ca83d7c8db3f0c4ff1ab478fa51a30152f9b41cd12ef7620c1",
       "url": "/static/Common.json"
     },
     {
       "name": "Character",
-      "version": 1,
-      "hash": "340056c42acd25cc76e0c4b08d7fcd1f08982444ccbdb39259ad550ce1e47657",
+      "version": 2,
+      "hash": "009f0ae3cbe9cbefc7ec7b620a46557671d93f3dca33e589ff787e0c3f9bb453",
       "url": "/static/Character.json"
     },
     {
@@ -75,8 +75,8 @@
     },
     {
       "name": "Locale",
-      "version": 36,
-      "hash": "3c8050a9f6c3eb184ba93ebb18655543920eb85e4ccd3bf35d4cdfcc7d6183b1",
+      "version": 37,
+      "hash": "df19a978cc08c8a9c22d40c639ca75eb927fa438c8d599f7f726eac402d6bf40",
       "url": "/static/Locale.json"
     }
   ]

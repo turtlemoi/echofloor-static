@@ -2461,47 +2461,47 @@
       "en": null
     },
     {
-      "Key": "CHARACTER_NAME_01",
+      "Key": "CHARACTER_NAME_WIZARD",
       "ko": "마법사",
       "en": null
     },
     {
-      "Key": "CHARACTER_NAME_02",
+      "Key": "CHARACTER_NAME_ARCHER",
       "ko": "궁수",
       "en": null
     },
     {
-      "Key": "CHARACTER_NAME_03",
+      "Key": "CHARACTER_NAME_WARRIOR",
       "ko": "전사",
       "en": null
     },
     {
-      "Key": "TRAIT_NAME_01",
+      "Key": "TRAIT_WIZARD_NAME",
       "ko": "정신 집중",
       "en": null
     },
     {
-      "Key": "TRAIT_NAME_02",
+      "Key": "TRAIT_ARCHER_NAME",
       "ko": "발재간",
       "en": null
     },
     {
-      "Key": "TRAIT_NAME_03",
+      "Key": "TRAIT_WARRIOR_NAME",
       "ko": "아직몰라",
       "en": null
     },
     {
-      "Key": "TRAIT_DESC_01",
+      "Key": "TRAIT_WIZARD_DESC",
       "ko": "가만히 서 있을 때 카드의 쿨다운이 2배 빠르게 감소합니다.",
       "en": null
     },
     {
-      "Key": "TRAIT_DESC_02",
+      "Key": "TRAIT_ARCHER_DESC",
       "ko": "회피를 2번 할 수 있습니다.",
       "en": null
     },
     {
-      "Key": "TRAIT_DESC_03",
+      "Key": "TRAIT_WARRIOR_DESC",
       "ko": "만들어줘",
       "en": null
     },
