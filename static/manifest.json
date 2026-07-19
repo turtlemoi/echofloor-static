@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-07-18T12:58:04.465Z",
+  "updatedAt": "2026-07-19T11:02:56.986Z",
   "sheets": [
     {
       "name": "Common",
       "version": 53,
       "hash": "7bf9b608ea56dc423aabbb5668d947317d13a0043f2a7e2d8bfea264aafd8ae5",
       "url": "/static/Common.json"
+    },
+    {
+      "name": "Character",
+      "version": 1,
+      "hash": "340056c42acd25cc76e0c4b08d7fcd1f08982444ccbdb39259ad550ce1e47657",
+      "url": "/static/Character.json"
     },
     {
       "name": "FloorData",
@@ -69,8 +75,8 @@
     },
     {
       "name": "Locale",
-      "version": 34,
-      "hash": "0a268f88f8b85557bac7ffdf5c2d1d01410efe46bf76782d214f2c02afbafc02",
+      "version": 36,
+      "hash": "3c8050a9f6c3eb184ba93ebb18655543920eb85e4ccd3bf35d4cdfcc7d6183b1",
       "url": "/static/Locale.json"
     }
   ]

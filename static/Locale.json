@@ -2017,7 +2017,7 @@
     },
     {
       "Key": "AUG_DESC_36",
-      "ko": "핸드에서 더미로 이동할 때 핸드의 공격 스킬 중 랜덤 1개가 1회 발동.",
+      "ko": "공격 카드가 사용 더미로 이동할 때 25% 확률로 해당 카드 1회 추가 발동",
       "en": null
     },
     {
@@ -2458,6 +2458,91 @@
     {
       "Key": "KEYWORD_DESC_LOAD",
       "ko": "화살을 장전합니다. 회피 시 장전된 화살을 모두 발사합니다.",
+      "en": null
+    },
+    {
+      "Key": "CHARACTER_NAME_01",
+      "ko": "마법사",
+      "en": null
+    },
+    {
+      "Key": "CHARACTER_NAME_02",
+      "ko": "궁수",
+      "en": null
+    },
+    {
+      "Key": "CHARACTER_NAME_03",
+      "ko": "전사",
+      "en": null
+    },
+    {
+      "Key": "TRAIT_NAME_01",
+      "ko": "정신 집중",
+      "en": null
+    },
+    {
+      "Key": "TRAIT_NAME_02",
+      "ko": "발재간",
+      "en": null
+    },
+    {
+      "Key": "TRAIT_NAME_03",
+      "ko": "아직몰라",
+      "en": null
+    },
+    {
+      "Key": "TRAIT_DESC_01",
+      "ko": "가만히 서 있을 때 카드의 쿨다운이 2배 빠르게 감소합니다.",
+      "en": null
+    },
+    {
+      "Key": "TRAIT_DESC_02",
+      "ko": "회피를 2번 할 수 있습니다.",
+      "en": null
+    },
+    {
+      "Key": "TRAIT_DESC_03",
+      "ko": "만들어줘",
+      "en": null
+    },
+    {
+      "Key": "DECK_NAME_10101",
+      "ko": "화염구",
+      "en": ""
+    },
+    {
+      "Key": "DECK_NAME_10302",
+      "ko": "전기 충격",
+      "en": null
+    },
+    {
+      "Key": "DECK_NAME_20012",
+      "ko": "얼음 구체",
+      "en": null
+    },
+    {
+      "Key": "DECK_NAME_10410",
+      "ko": "소용돌이",
+      "en": null
+    },
+    {
+      "Key": "DECK_NAME_10510",
+      "ko": "돌기둥",
+      "en": null
+    },
+    {
+      "Key": "DECK_NAME_10601",
+      "ko": "사격",
+      "en": ""
+    },
+    {
+      "Key": "DECK_NAME_10611",
+      "ko": "치솟는 화살",
+      "en": null
+    },
+    {
+      "Key": "DECK_NAME_20801",
+      "ko": "모이 한 줌",
       "en": null
     }
   ]
