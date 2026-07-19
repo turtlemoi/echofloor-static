@@ -33,54 +33,6 @@
       "Value": "50,40,10"
     },
     {
-      "Key": "player_character",
-      "Value": "2"
-    },
-    {
-      "Key": "player_weight",
-      "Value": "10"
-    },
-    {
-      "Key": "player_speed",
-      "Value": "2.2"
-    },
-    {
-      "Key": "player_damage",
-      "Value": "10"
-    },
-    {
-      "Key": "player_hp",
-      "Value": "20"
-    },
-    {
-      "Key": "player_armor",
-      "Value": "0"
-    },
-    {
-      "Key": "player_critical_chance",
-      "Value": "5"
-    },
-    {
-      "Key": "player_critical_damage",
-      "Value": "150"
-    },
-    {
-      "Key": "player_card_1",
-      "Value": "10101,10101|10302,10302|20012,20012|10410,10410|10510,10510"
-    },
-    {
-      "Key": "player_card_2",
-      "Value": "10601,10601|10611,10611"
-    },
-    {
-      "Key": "player_dash_cooldown",
-      "Value": "2.5"
-    },
-    {
-      "Key": "player_dash_default",
-      "Value": "2"
-    },
-    {
       "Key": "card_drop_rate",
       "Value": "80,15,5"
     },
@@ -118,7 +70,7 @@
     },
     {
       "Key": "boss_hp_rate",
-      "Value": "1000"
+      "Value": "50"
     },
     {
       "Key": "boss_damage_rate",
