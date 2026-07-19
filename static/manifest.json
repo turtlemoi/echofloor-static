@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-19T11:42:52.682Z",
+  "updatedAt": "2026-07-19T11:50:20.006Z",
   "sheets": [
     {
       "name": "Common",
-      "version": 56,
-      "hash": "9356034ac7a2f5d11979bfd36359e18bced329d1a582194b5b9e8f469e456003",
+      "version": 57,
+      "hash": "2deb50fe59bb21b4930bbc8383537fe449d6d5141d90a7a829830a9991a91b54",
       "url": "/static/Common.json"
     },
     {
       "name": "Character",
-      "version": 2,
-      "hash": "009f0ae3cbe9cbefc7ec7b620a46557671d93f3dca33e589ff787e0c3f9bb453",
+      "version": 3,
+      "hash": "c578ae643b0311f1ae1e6240b7ac080d6e059df1be8af5ca047053608456a6ca",
       "url": "/static/Character.json"
     },
     {

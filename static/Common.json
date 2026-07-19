@@ -65,10 +65,6 @@
       "Value": "99"
     },
     {
-      "Key": "cooldown_accel",
-      "Value": "2"
-    },
-    {
       "Key": "boss_hp_rate",
       "Value": "50"
     },
