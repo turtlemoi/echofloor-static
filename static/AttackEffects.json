@@ -275,16 +275,48 @@
     {
       "ID": 7001,
       "EffectType": 3,
-      "Value1": 90304,
-      "Value2": 4,
+      "Value1": 90302,
+      "Value2": 2,
       "Value3": 1,
       "Value4": 0
     },
     {
       "ID": 7002,
       "EffectType": 3,
+      "Value1": 90304,
+      "Value2": 2,
+      "Value3": 1,
+      "Value4": 0
+    },
+    {
+      "ID": 7003,
+      "EffectType": 3,
+      "Value1": 90312,
+      "Value2": 2,
+      "Value3": 1,
+      "Value4": 0
+    },
+    {
+      "ID": 7004,
+      "EffectType": 3,
+      "Value1": 90313,
+      "Value2": 2,
+      "Value3": 1,
+      "Value4": 0
+    },
+    {
+      "ID": 7005,
+      "EffectType": 3,
+      "Value1": 90314,
+      "Value2": 2,
+      "Value3": 1,
+      "Value4": 0
+    },
+    {
+      "ID": 7006,
+      "EffectType": 3,
       "Value1": 90320,
-      "Value2": 4,
+      "Value2": 2,
       "Value3": 1,
       "Value4": 0
     }
