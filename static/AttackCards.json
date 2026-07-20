@@ -316,7 +316,7 @@
       "AttackRange": 10,
       "Knockback": 0.1,
       "Value1": 7,
-      "Value2": 2,
+      "Value2": 1,
       "Value3": 0,
       "Value4": 1,
       "Value5": 0,
@@ -1162,13 +1162,13 @@
       "AttackRange": 10,
       "Knockback": 0.1,
       "Value1": 0.1,
-      "Value2": 0.3,
+      "Value2": 0.2,
       "Value3": 0,
       "Value4": 1,
       "Value5": 0,
       "Value6": 1,
-      "EffectIDs": "2",
-      "Series": null
+      "EffectIDs": "",
+      "Series": ""
     },
     {
       "ID": 90304,
@@ -1180,12 +1180,12 @@
       "AttackRange": 10,
       "Knockback": 0.1,
       "Value1": 0.1,
-      "Value2": 0.3,
+      "Value2": 0.2,
       "Value3": 2,
       "Value4": 1,
       "Value5": 0.1,
       "Value6": 1,
-      "EffectIDs": "2",
+      "EffectIDs": null,
       "Series": null
     },
     {
@@ -1198,12 +1198,12 @@
       "AttackRange": 10,
       "Knockback": 0.1,
       "Value1": 0.1,
-      "Value2": 0.3,
+      "Value2": 0.2,
       "Value3": 0,
       "Value4": 1,
       "Value5": 0,
-      "Value6": 1,
-      "EffectIDs": "2",
+      "Value6": 2,
+      "EffectIDs": null,
       "Series": null
     },
     {
@@ -1216,12 +1216,12 @@
       "AttackRange": 10,
       "Knockback": 0.1,
       "Value1": 0.1,
-      "Value2": 0.3,
+      "Value2": 0.2,
       "Value3": 0,
       "Value4": 1,
       "Value5": 0.1,
       "Value6": 1,
-      "EffectIDs": "2",
+      "EffectIDs": null,
       "Series": null
     },
     {
@@ -1234,12 +1234,12 @@
       "AttackRange": 10,
       "Knockback": 0.1,
       "Value1": 0.1,
-      "Value2": 0.3,
+      "Value2": 0.2,
       "Value3": 0,
       "Value4": 1,
       "Value5": 0.1,
       "Value6": 1,
-      "EffectIDs": "2",
+      "EffectIDs": null,
       "Series": null
     },
     {
@@ -1252,12 +1252,12 @@
       "AttackRange": 10,
       "Knockback": 0.1,
       "Value1": 0.1,
-      "Value2": 0.3,
+      "Value2": 0.2,
       "Value3": 2,
       "Value4": 1,
       "Value5": 0.1,
       "Value6": 1,
-      "EffectIDs": "1103,2",
+      "EffectIDs": "1103",
       "Series": null
     },
     {
