@@ -271,6 +271,22 @@
       "Value2": 2,
       "Value3": 0,
       "Value4": 0
+    },
+    {
+      "ID": 7001,
+      "EffectType": 3,
+      "Value1": 90304,
+      "Value2": 4,
+      "Value3": 1,
+      "Value4": 0
+    },
+    {
+      "ID": 7002,
+      "EffectType": 3,
+      "Value1": 90320,
+      "Value2": 4,
+      "Value3": 1,
+      "Value4": 0
     }
   ]
 }
