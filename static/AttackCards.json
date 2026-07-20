@@ -285,7 +285,7 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "2,7001",
+      "EffectIDs": "7001",
       "Series": "3"
     },
     {
@@ -303,7 +303,7 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "2,7002",
+      "EffectIDs": "7002",
       "Series": "3"
     },
     {
@@ -321,7 +321,7 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "2,7003",
+      "EffectIDs": "7003",
       "Series": "3"
     },
     {
@@ -339,7 +339,7 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "1019,2,7004",
+      "EffectIDs": "1019,7004",
       "Series": "3"
     },
     {
@@ -357,7 +357,7 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "1020,2,7005",
+      "EffectIDs": "1020,7005",
       "Series": "3"
     },
     {
@@ -375,7 +375,7 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "1103,2,7006",
+      "EffectIDs": "1103,7006",
       "Series": "3"
     },
     {
