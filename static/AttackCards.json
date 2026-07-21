@@ -694,7 +694,7 @@
       "AttackRange": 10,
       "Knockback": 0.6,
       "Value1": "8",
-      "Value2": 5,
+      "Value2": 7,
       "Value3": 4,
       "Value4": 1,
       "Value5": 0,
@@ -753,7 +753,7 @@
       "Value4": 6,
       "Value5": 0.12,
       "Value6": 0,
-      "EffectIDs": "",
+      "EffectIDs": 6006,
       "Series": "6"
     },
     {
@@ -825,7 +825,7 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 0.8,
-      "EffectIDs": "",
+      "EffectIDs": 6007,
       "Series": "6"
     },
     {
