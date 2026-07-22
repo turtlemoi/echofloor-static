@@ -34,6 +34,46 @@
       "ID": "LOAD",
       "NameKey": "KEYWORD_NAME_LOAD",
       "DescKey": "KEYWORD_DESC_LOAD"
+    },
+    {
+      "ID": "BURN",
+      "NameKey": "KEYWORD_NAME_BURN",
+      "DescKey": "KEYWORD_DESC_BURN"
+    },
+    {
+      "ID": "ELECTRICORB",
+      "NameKey": "KEYWORD_NAME_ELECTRICORB",
+      "DescKey": "KEYWORD_DESC_ELECTRICORB"
+    },
+    {
+      "ID": "CHAIN",
+      "NameKey": "KEYWORD_NAME_CHAIN",
+      "DescKey": "KEYWORD_DESC_CHAIN"
+    },
+    {
+      "ID": "VORTEX",
+      "NameKey": "KEYWORD_NAME_VORTEX",
+      "DescKey": "KEYWORD_DESC_VORTEX"
+    },
+    {
+      "ID": "VORTEXLEVEL",
+      "NameKey": "KEYWORD_NAME_VORTEXLEVEL",
+      "DescKey": "KEYWORD_DESC_VORTEXLEVEL"
+    },
+    {
+      "ID": "PILLAR",
+      "NameKey": "KEYWORD_NAME_PILLAR",
+      "DescKey": "KEYWORD_DESC_PILLAR"
+    },
+    {
+      "ID": "SHOTBUFF",
+      "NameKey": "KEYWORD_NAME_SHOTBUFF",
+      "DescKey": "KEYWORD_DESC_SHOTBUFF"
+    },
+    {
+      "ID": "SATIETY",
+      "NameKey": "KEYWORD_NAME_SATIETY",
+      "DescKey": "KEYWORD_DESC_SATIETY"
     }
   ]
 }
