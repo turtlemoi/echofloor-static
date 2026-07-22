@@ -41,16 +41,6 @@
       "DescKey": "KEYWORD_DESC_BURN"
     },
     {
-      "ID": "ELECTRICORB",
-      "NameKey": "KEYWORD_NAME_ELECTRICORB",
-      "DescKey": "KEYWORD_DESC_ELECTRICORB"
-    },
-    {
-      "ID": "CHAIN",
-      "NameKey": "KEYWORD_NAME_CHAIN",
-      "DescKey": "KEYWORD_DESC_CHAIN"
-    },
-    {
       "ID": "VORTEX",
       "NameKey": "KEYWORD_NAME_VORTEX",
       "DescKey": "KEYWORD_DESC_VORTEX"
