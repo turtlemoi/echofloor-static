@@ -258,7 +258,7 @@
       "Element": 2,
       "AttackType": 13,
       "PrefabName": "",
-      "BaseDamage": 8,
+      "BaseDamage": 0,
       "AttackRange": 0,
       "Knockback": 0,
       "Value1": 5,
