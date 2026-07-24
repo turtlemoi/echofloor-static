@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-22T14:36:11.154Z",
+  "updatedAt": "2026-07-24T10:44:32.973Z",
   "sheets": [
     {
       "name": "Common",
       "version": 60,
-      "hash": "ebe3794a6271055f43c06695e688011aaf1d848cde1d77308192325be03f5ab8",
+      "hash": "4b11ea66db3cd09627f925d5ff7f853235862128952774d17d107a53dbfdf260",
       "url": "/static/Common.json"
     },
     {
       "name": "Character",
-      "version": 4,
-      "hash": "05082d508960121d01f1e62de92a117e71d043fb15e32d472b162f1d98965a5f",
+      "version": 5,
+      "hash": "da2de8c18376dbb87c7ce547c07280f52153cc41ba7e09abdee8d5d4b29b9ece",
       "url": "/static/Character.json"
     },
     {
@@ -57,8 +57,8 @@
     },
     {
       "name": "Creature",
-      "version": 11,
-      "hash": "5859dc5ed79b8ce7d676bf9a84747770c67c625b32e47b782ed2afe785cccd15",
+      "version": 12,
+      "hash": "f531f08c08f02b7f9c40efeb2378d9cf73d497a04db75737f1f47f6f29108769",
       "url": "/static/Creature.json"
     },
     {

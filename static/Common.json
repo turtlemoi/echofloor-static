@@ -66,11 +66,11 @@
     },
     {
       "Key": "boss_hp_rate",
-      "Value": "2"
+      "Value": "10"
     },
     {
       "Key": "boss_damage_rate",
-      "Value": "0.5"
+      "Value": "1"
     },
     {
       "Key": "boss_spawn_ratio",
