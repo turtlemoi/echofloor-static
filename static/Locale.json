@@ -2554,51 +2554,6 @@
       "Key": "TRAIT_WARRIOR_DESC",
       "ko": "만들어줘",
       "en": null
-    },
-    {
-      "Key": "DECK_NAME_10101",
-      "ko": "화염구",
-      "en": ""
-    },
-    {
-      "Key": "DECK_NAME_10302",
-      "ko": "전기 충격",
-      "en": null
-    },
-    {
-      "Key": "DECK_NAME_20012",
-      "ko": "얼음구체",
-      "en": null
-    },
-    {
-      "Key": "DECK_NAME_10410",
-      "ko": "소용돌이",
-      "en": null
-    },
-    {
-      "Key": "DECK_NAME_10510",
-      "ko": "돌기둥",
-      "en": null
-    },
-    {
-      "Key": "DECK_NAME_10601",
-      "ko": "사격",
-      "en": ""
-    },
-    {
-      "Key": "DECK_NAME_10611",
-      "ko": "치솟는 화살",
-      "en": null
-    },
-    {
-      "Key": "DECK_NAME_10631",
-      "ko": "장전 사격",
-      "en": null
-    },
-    {
-      "Key": "DECK_NAME_20801",
-      "ko": "모이 한 줌",
-      "en": null
     }
   ]
 }
