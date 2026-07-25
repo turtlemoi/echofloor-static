@@ -21,16 +21,6 @@
       "DescKey": "KEYWORD_DESC_RICOCHET"
     },
     {
-      "ID": "IMPACT",
-      "NameKey": "KEYWORD_NAME_IMPACT",
-      "DescKey": "KEYWORD_DESC_IMPACT"
-    },
-    {
-      "ID": "MERGE",
-      "NameKey": "KEYWORD_NAME_MERGE",
-      "DescKey": "KEYWORD_DESC_MERGE"
-    },
-    {
       "ID": "LOAD",
       "NameKey": "KEYWORD_NAME_LOAD",
       "DescKey": "KEYWORD_DESC_LOAD"
@@ -49,6 +39,11 @@
       "ID": "VORTEXLEVEL",
       "NameKey": "KEYWORD_NAME_VORTEXLEVEL",
       "DescKey": "KEYWORD_DESC_VORTEXLEVEL"
+    },
+    {
+      "ID": "MERGE",
+      "NameKey": "KEYWORD_NAME_MERGE",
+      "DescKey": "KEYWORD_DESC_MERGE"
     },
     {
       "ID": "PILLAR",
