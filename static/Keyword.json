@@ -59,6 +59,26 @@
       "ID": "SATIETY",
       "NameKey": "KEYWORD_NAME_SATIETY",
       "DescKey": "KEYWORD_DESC_SATIETY"
+    },
+    {
+      "ID": "FOCUS",
+      "NameKey": "KEYWORD_NAME_FOCUS",
+      "DescKey": "KEYWORD_DESC_FOCUS"
+    },
+    {
+      "ID": "SHIFT",
+      "NameKey": "KEYWORD_NAME_SHIFT",
+      "DescKey": "KEYWORD_DESC_SHIFT"
+    },
+    {
+      "ID": "EMBER",
+      "NameKey": "KEYWORD_NAME_EMBER",
+      "DescKey": "KEYWORD_DESC_EMBER"
+    },
+    {
+      "ID": "CHARGE",
+      "NameKey": "KEYWORD_NAME_CHARGE",
+      "DescKey": "KEYWORD_DESC_CHARGE"
     }
   ]
 }
