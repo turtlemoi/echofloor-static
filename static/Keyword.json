@@ -61,16 +61,6 @@
       "DescKey": "KEYWORD_DESC_SATIETY"
     },
     {
-      "ID": "CONCENTRATION",
-      "NameKey": "KEYWORD_NAME_CONCENTRATION",
-      "DescKey": "KEYWORD_DESC_CONCENTRATION"
-    },
-    {
-      "ID": "DIFFUSION",
-      "NameKey": "KEYWORD_NAME_DIFFUSION",
-      "DescKey": "KEYWORD_DESC_DIFFUSION"
-    },
-    {
       "ID": "COMBO",
       "NameKey": "KEYWORD_NAME_COMBO",
       "DescKey": "KEYWORD_DESC_COMBO"
