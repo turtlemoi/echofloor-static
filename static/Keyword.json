@@ -69,6 +69,31 @@
       "ID": "DIFFUSION",
       "NameKey": "KEYWORD_NAME_DIFFUSION",
       "DescKey": "KEYWORD_DESC_DIFFUSION"
+    },
+    {
+      "ID": "COMBO",
+      "NameKey": "KEYWORD_NAME_COMBO",
+      "DescKey": "KEYWORD_DESC_COMBO"
+    },
+    {
+      "ID": "SPIRIT",
+      "NameKey": "KEYWORD_NAME_SPIRIT",
+      "DescKey": "KEYWORD_DESC_SPIRIT"
+    },
+    {
+      "ID": "MOMENTUM",
+      "NameKey": "KEYWORD_NAME_MOMENTUM",
+      "DescKey": "KEYWORD_DESC_MOMENTUM"
+    },
+    {
+      "ID": "ARTS",
+      "NameKey": "KEYWORD_NAME_ARTS",
+      "DescKey": "KEYWORD_DESC_ARTS"
+    },
+    {
+      "ID": "FSTRIKE",
+      "NameKey": "KEYWORD_NAME_FSTRIKE",
+      "DescKey": "KEYWORD_DESC_FSTRIKE"
     }
   ]
 }

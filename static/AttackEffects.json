@@ -527,6 +527,46 @@
       "Value2": 6,
       "Value3": 2,
       "Value4": 0
+    },
+    {
+      "ID": 6201,
+      "EffectType": 12,
+      "Value1": 1,
+      "Value2": 2,
+      "Value3": 0,
+      "Value4": ""
+    },
+    {
+      "ID": 6202,
+      "EffectType": 11,
+      "Value1": 1,
+      "Value2": 2,
+      "Value3": 0,
+      "Value4": ""
+    },
+    {
+      "ID": 6203,
+      "EffectType": 12,
+      "Value1": 2,
+      "Value2": 2,
+      "Value3": 0,
+      "Value4": ""
+    },
+    {
+      "ID": 6204,
+      "EffectType": 13,
+      "Value1": 30,
+      "Value2": 1.5,
+      "Value3": 0,
+      "Value4": ""
+    },
+    {
+      "ID": 6205,
+      "EffectType": 2,
+      "Value1": 0.5,
+      "Value2": 0,
+      "Value3": 0,
+      "Value4": ""
     }
   ]
 }

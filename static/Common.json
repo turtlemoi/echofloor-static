@@ -87,6 +87,22 @@
     {
       "Key": "boss_speed",
       "Value": "2.2"
+    },
+    {
+      "Key": "player_character",
+      "Value": "3"
+    },
+    {
+      "Key": "fighter_combo_grace",
+      "Value": "3"
+    },
+    {
+      "Key": "fighter_combo_per_spirit",
+      "Value": "10"
+    },
+    {
+      "Key": "fighter_momentum_per_pulse",
+      "Value": "12"
     }
   ]
 }

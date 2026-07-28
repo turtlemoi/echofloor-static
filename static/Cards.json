@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "27": "",
+      "28": "",
       "ID": 10101,
       "CardType": 1,
       "CoolDown": 1,
@@ -15,7 +15,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10109,
       "CardType": 1,
       "CoolDown": 3,
@@ -29,7 +29,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10111,
       "CardType": 1,
       "CoolDown": 1,
@@ -43,7 +43,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10112,
       "CardType": 1,
       "CoolDown": 2,
@@ -57,7 +57,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10113,
       "CardType": 1,
       "CoolDown": 3,
@@ -71,7 +71,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10120,
       "CardType": 1,
       "CoolDown": 1,
@@ -85,7 +85,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10121,
       "CardType": 1,
       "CoolDown": 1,
@@ -99,7 +99,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10122,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -113,7 +113,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10210,
       "CardType": 1,
       "CoolDown": 1,
@@ -127,7 +127,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10211,
       "CardType": 1,
       "CoolDown": 3,
@@ -141,7 +141,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10212,
       "CardType": 1,
       "CoolDown": 2,
@@ -155,7 +155,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10213,
       "CardType": 1,
       "CoolDown": 3,
@@ -169,7 +169,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10302,
       "CardType": 1,
       "CoolDown": 1,
@@ -183,7 +183,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10304,
       "CardType": 1,
       "CoolDown": 1,
@@ -197,7 +197,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10312,
       "CardType": 1,
       "CoolDown": 1,
@@ -211,7 +211,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10313,
       "CardType": 1,
       "CoolDown": 3,
@@ -225,7 +225,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10314,
       "CardType": 1,
       "CoolDown": 3,
@@ -239,7 +239,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10320,
       "CardType": 1,
       "CoolDown": 1,
@@ -253,7 +253,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10410,
       "CardType": 1,
       "CoolDown": 1,
@@ -267,7 +267,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10411,
       "CardType": 1,
       "CoolDown": 1,
@@ -281,7 +281,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10412,
       "CardType": 1,
       "CoolDown": 1,
@@ -295,7 +295,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10413,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -309,7 +309,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10414,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -323,7 +323,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10415,
       "CardType": 1,
       "CoolDown": 3,
@@ -337,7 +337,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10416,
       "CardType": 1,
       "CoolDown": 3,
@@ -351,7 +351,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10510,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -365,7 +365,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10511,
       "CardType": 1,
       "CoolDown": 1,
@@ -379,7 +379,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10512,
       "CardType": 1,
       "CoolDown": 1,
@@ -393,7 +393,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10513,
       "CardType": 1,
       "CoolDown": 2,
@@ -407,7 +407,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10514,
       "CardType": 1,
       "CoolDown": 2,
@@ -421,7 +421,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 10515,
       "CardType": 1,
       "CoolDown": 3,
@@ -435,7 +435,7 @@
       "Deprecated": 1
     },
     {
-      "27": null,
+      "28": null,
       "ID": 10601,
       "CardType": 1,
       "CoolDown": 1,
@@ -449,7 +449,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 10602,
       "CardType": 1,
       "CoolDown": 1,
@@ -463,7 +463,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 10603,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -477,7 +477,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 10604,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -491,7 +491,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 10605,
       "CardType": 1,
       "CoolDown": 2.5,
@@ -505,7 +505,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 10606,
       "CardType": 1,
       "CoolDown": 3,
@@ -519,7 +519,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 10611,
       "CardType": 1,
       "CoolDown": 1,
@@ -533,7 +533,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 10612,
       "CardType": 1,
       "CoolDown": 2,
@@ -547,7 +547,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 10613,
       "CardType": 1,
       "CoolDown": 2,
@@ -561,7 +561,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 10614,
       "CardType": 1,
       "CoolDown": 3,
@@ -575,7 +575,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 10621,
       "CardType": 1,
       "CoolDown": 2,
@@ -589,7 +589,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 10631,
       "CardType": 1,
       "CoolDown": 1,
@@ -603,7 +603,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 10632,
       "CardType": 1,
       "CoolDown": 2,
@@ -617,7 +617,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 10633,
       "CardType": 1,
       "CoolDown": 2,
@@ -631,7 +631,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 10801,
       "CardType": 1,
       "CoolDown": 1,
@@ -645,7 +645,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 10802,
       "CardType": 1,
       "CoolDown": 1,
@@ -659,7 +659,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 10803,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -673,7 +673,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 10804,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -687,7 +687,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 10805,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -701,7 +701,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 10806,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -715,7 +715,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 10807,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -729,7 +729,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 10808,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -743,7 +743,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 10809,
       "CardType": 1,
       "CoolDown": 3,
@@ -757,7 +757,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 10810,
       "CardType": 1,
       "CoolDown": 3,
@@ -771,7 +771,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20001,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -785,7 +785,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20005,
       "CardType": 2,
       "CoolDown": 1.5,
@@ -799,7 +799,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20006,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -813,7 +813,7 @@
       "Deprecated": null
     },
     {
-      "27": "",
+      "28": "",
       "ID": 20008,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -827,7 +827,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 20009,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -841,7 +841,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 20010,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -855,7 +855,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 20011,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -869,7 +869,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 20012,
       "CardType": 2,
       "CoolDown": 1,
@@ -883,7 +883,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 20013,
       "CardType": 2,
       "CoolDown": 1,
@@ -897,7 +897,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 20014,
       "CardType": 2,
       "CoolDown": 2,
@@ -911,7 +911,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 20015,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -925,7 +925,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 20016,
       "CardType": 2,
       "CoolDown": 1,
@@ -939,7 +939,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 20017,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -953,7 +953,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 20018,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -967,7 +967,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 20019,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -981,7 +981,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 20020,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -995,7 +995,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 20021,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1009,7 +1009,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 20022,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1023,7 +1023,7 @@
       "Deprecated": 1
     },
     {
-      "27": "",
+      "28": "",
       "ID": 20023,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1037,7 +1037,7 @@
       "Deprecated": 1
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20601,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1051,7 +1051,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20602,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1065,7 +1065,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20603,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1079,7 +1079,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20604,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1093,7 +1093,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20605,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1107,7 +1107,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20606,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1121,7 +1121,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20611,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1135,7 +1135,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20612,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1149,7 +1149,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20613,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1163,7 +1163,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20614,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1177,7 +1177,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20621,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1191,7 +1191,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20622,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1205,7 +1205,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20623,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1219,7 +1219,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20624,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1233,7 +1233,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20625,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1247,7 +1247,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20631,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1261,7 +1261,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20801,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1275,7 +1275,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20802,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1289,7 +1289,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20803,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1303,7 +1303,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20804,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1317,7 +1317,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20805,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1331,7 +1331,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20806,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1345,7 +1345,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20807,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1359,7 +1359,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20808,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1373,7 +1373,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20809,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1387,7 +1387,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20810,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1401,7 +1401,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 99001,
       "CardType": 4,
       "CoolDown": 2,
@@ -1415,7 +1415,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 99010,
       "CardType": 4,
       "CoolDown": 2,
@@ -1429,7 +1429,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 99011,
       "CardType": 4,
       "CoolDown": 3,
@@ -1443,7 +1443,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 99012,
       "CardType": 4,
       "CoolDown": 4,
@@ -1457,7 +1457,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 99013,
       "CardType": 4,
       "CoolDown": 3,
@@ -1471,7 +1471,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 99014,
       "CardType": 4,
       "CoolDown": 1,
@@ -1485,7 +1485,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11111,
       "CardType": 1,
       "CoolDown": 1,
@@ -1499,7 +1499,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11112,
       "CardType": 1,
       "CoolDown": 1.25,
@@ -1513,7 +1513,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11113,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -1527,7 +1527,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11121,
       "CardType": 1,
       "CoolDown": 1,
@@ -1541,7 +1541,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11122,
       "CardType": 1,
       "CoolDown": 1.25,
@@ -1555,7 +1555,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11123,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -1569,7 +1569,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11211,
       "CardType": 1,
       "CoolDown": 1,
@@ -1583,7 +1583,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11212,
       "CardType": 1,
       "CoolDown": 1.25,
@@ -1597,7 +1597,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11213,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -1611,7 +1611,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11221,
       "CardType": 1,
       "CoolDown": 1,
@@ -1625,7 +1625,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11222,
       "CardType": 1,
       "CoolDown": 1.25,
@@ -1639,7 +1639,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11223,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -1653,7 +1653,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11311,
       "CardType": 1,
       "CoolDown": 1,
@@ -1667,7 +1667,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11312,
       "CardType": 1,
       "CoolDown": 1.25,
@@ -1681,7 +1681,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11313,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -1695,7 +1695,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11321,
       "CardType": 1,
       "CoolDown": 1,
@@ -1709,7 +1709,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11322,
       "CardType": 1,
       "CoolDown": 1.25,
@@ -1723,7 +1723,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11323,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -1737,7 +1737,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11411,
       "CardType": 1,
       "CoolDown": 1,
@@ -1751,7 +1751,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11412,
       "CardType": 1,
       "CoolDown": 1.25,
@@ -1765,7 +1765,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11413,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -1779,7 +1779,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11421,
       "CardType": 1,
       "CoolDown": 1,
@@ -1793,7 +1793,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11422,
       "CardType": 1,
       "CoolDown": 1.25,
@@ -1807,7 +1807,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11423,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -1821,7 +1821,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11511,
       "CardType": 1,
       "CoolDown": 1,
@@ -1835,7 +1835,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11512,
       "CardType": 1,
       "CoolDown": 1.25,
@@ -1849,7 +1849,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11513,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -1863,7 +1863,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11521,
       "CardType": 1,
       "CoolDown": 1,
@@ -1877,7 +1877,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11522,
       "CardType": 1,
       "CoolDown": 1.25,
@@ -1891,7 +1891,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 11523,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -1905,7 +1905,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 10901,
       "CardType": 1,
       "CoolDown": 1,
@@ -1919,7 +1919,7 @@
       "Deprecated": null
     },
     {
-      "27": null,
+      "28": null,
       "ID": 20901,
       "CardType": 2,
       "CoolDown": 1,
@@ -1930,6 +1930,328 @@
       "Series": "",
       "RequireSeries": "",
       "Character": 1,
+      "Deprecated": null
+    },
+    {
+      "28": null,
+      "ID": 10701,
+      "CardType": 1,
+      "CoolDown": 1,
+      "Tier": 1,
+      "Name": "CARD_10701",
+      "Desc": "CARD_10701_DESC",
+      "ICON": "ATK_10701_StraightFist",
+      "Series": 7,
+      "RequireSeries": "",
+      "Character": 3,
+      "Deprecated": null
+    },
+    {
+      "28": null,
+      "ID": 10702,
+      "CardType": 1,
+      "CoolDown": 1,
+      "Tier": 1,
+      "Name": "CARD_10702",
+      "Desc": "CARD_10702_DESC",
+      "ICON": "ATK_10702_ChainFists",
+      "Series": 7,
+      "RequireSeries": "",
+      "Character": 3,
+      "Deprecated": null
+    },
+    {
+      "28": null,
+      "ID": 10705,
+      "CardType": 1,
+      "CoolDown": 1,
+      "Tier": 1,
+      "Name": "CARD_10705",
+      "Desc": "CARD_10705_DESC",
+      "ICON": "ATK_10705_DoubleFist",
+      "Series": 7,
+      "RequireSeries": "",
+      "Character": 3,
+      "Deprecated": null
+    },
+    {
+      "28": null,
+      "ID": 10703,
+      "CardType": 1,
+      "CoolDown": 1.5,
+      "Tier": 2,
+      "Name": "CARD_10703",
+      "Desc": "CARD_10703_DESC",
+      "ICON": "ATK_10703_SweepFist",
+      "Series": 7,
+      "RequireSeries": "",
+      "Character": 3,
+      "Deprecated": null
+    },
+    {
+      "28": null,
+      "ID": 10704,
+      "CardType": 1,
+      "CoolDown": 1.5,
+      "Tier": 2,
+      "Name": "CARD_10704",
+      "Desc": "CARD_10704_DESC",
+      "ICON": "ATK_10704_PiercingHeart",
+      "Series": 7,
+      "RequireSeries": "",
+      "Character": 3,
+      "Deprecated": null
+    },
+    {
+      "28": null,
+      "ID": 10706,
+      "CardType": 1,
+      "CoolDown": 1.5,
+      "Tier": 2,
+      "Name": "CARD_10706",
+      "Desc": "CARD_10706_DESC",
+      "ICON": "ATK_10706_OneInch",
+      "Series": 7,
+      "RequireSeries": "",
+      "Character": 3,
+      "Deprecated": null
+    },
+    {
+      "28": null,
+      "ID": 10711,
+      "CardType": 1,
+      "CoolDown": 1,
+      "Tier": 1,
+      "Name": "CARD_10711",
+      "Desc": "CARD_10711_DESC",
+      "ICON": "ATK_10711_LowKick",
+      "Series": 7,
+      "RequireSeries": "",
+      "Character": 3,
+      "Deprecated": null
+    },
+    {
+      "28": null,
+      "ID": 10713,
+      "CardType": 1,
+      "CoolDown": 1,
+      "Tier": 1,
+      "Name": "CARD_10713",
+      "Desc": "CARD_10713_DESC",
+      "ICON": "ATK_10713_ThrustKick",
+      "Series": 7,
+      "RequireSeries": "",
+      "Character": 3,
+      "Deprecated": null
+    },
+    {
+      "28": null,
+      "ID": 10712,
+      "CardType": 1,
+      "CoolDown": 1.5,
+      "Tier": 2,
+      "Name": "CARD_10712",
+      "Desc": "CARD_10712_DESC",
+      "ICON": "ATK_10712_SweepKick",
+      "Series": 7,
+      "RequireSeries": "",
+      "Character": 3,
+      "Deprecated": null
+    },
+    {
+      "28": null,
+      "ID": 10714,
+      "CardType": 1,
+      "CoolDown": 2,
+      "Tier": 2,
+      "Name": "CARD_10714",
+      "Desc": "CARD_10714_DESC",
+      "ICON": "ATK_10714_GaleKick",
+      "Series": 7,
+      "RequireSeries": "",
+      "Character": 3,
+      "Deprecated": null
+    },
+    {
+      "28": null,
+      "ID": 10716,
+      "CardType": 1,
+      "CoolDown": 1.5,
+      "Tier": 2,
+      "Name": "CARD_10716",
+      "Desc": "CARD_10716_DESC",
+      "ICON": "ATK_10716_StompKick",
+      "Series": 7,
+      "RequireSeries": "",
+      "Character": 3,
+      "Deprecated": null
+    },
+    {
+      "28": null,
+      "ID": 10717,
+      "CardType": 1,
+      "CoolDown": 1.5,
+      "Tier": 2,
+      "Name": "CARD_10717",
+      "Desc": "CARD_10717_DESC",
+      "ICON": "ATK_10717_HammerKick",
+      "Series": 7,
+      "RequireSeries": "",
+      "Character": 3,
+      "Deprecated": null
+    },
+    {
+      "28": null,
+      "ID": 10715,
+      "CardType": 1,
+      "CoolDown": 2.5,
+      "Tier": 3,
+      "Name": "CARD_10715",
+      "Desc": "CARD_10715_DESC",
+      "ICON": "ATK_10715_CycloneKick",
+      "Series": 7,
+      "RequireSeries": "",
+      "Character": 3,
+      "Deprecated": null
+    },
+    {
+      "28": null,
+      "ID": 10721,
+      "CardType": 1,
+      "CoolDown": 2,
+      "Tier": 2,
+      "Name": "CARD_10721",
+      "Desc": "CARD_10721_DESC",
+      "ICON": "ATK_10721_CrushingFist",
+      "Series": 7,
+      "RequireSeries": "",
+      "Character": 3,
+      "Deprecated": null
+    },
+    {
+      "28": null,
+      "ID": 10722,
+      "CardType": 1,
+      "CoolDown": 2,
+      "Tier": 2,
+      "Name": "CARD_10722",
+      "Desc": "CARD_10722_DESC",
+      "ICON": "ATK_10722_StompQuake",
+      "Series": 7,
+      "RequireSeries": "",
+      "Character": 3,
+      "Deprecated": null
+    },
+    {
+      "28": null,
+      "ID": 10723,
+      "CardType": 1,
+      "CoolDown": 3,
+      "Tier": 3,
+      "Name": "CARD_10723",
+      "Desc": "CARD_10723_DESC",
+      "ICON": "ATK_10723_HundredFists",
+      "Series": 7,
+      "RequireSeries": "",
+      "Character": 3,
+      "Deprecated": null
+    },
+    {
+      "28": null,
+      "ID": 10724,
+      "CardType": 1,
+      "CoolDown": 2.5,
+      "Tier": 3,
+      "Name": "CARD_10724",
+      "Desc": "CARD_10724_DESC",
+      "ICON": "ATK_10724_ApexFist",
+      "Series": 7,
+      "RequireSeries": "",
+      "Character": 3,
+      "Deprecated": null
+    },
+    {
+      "28": null,
+      "ID": 10725,
+      "CardType": 1,
+      "CoolDown": 2.5,
+      "Tier": 3,
+      "Name": "CARD_10725",
+      "Desc": "CARD_10725_DESC",
+      "ICON": "ATK_10725_KiBlast",
+      "Series": 7,
+      "RequireSeries": "",
+      "Character": 3,
+      "Deprecated": null
+    },
+    {
+      "28": null,
+      "ID": 20701,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 1,
+      "Name": "CARD_20701",
+      "Desc": "CARD_20701_DESC",
+      "ICON": "SKL_20701_QiGathering",
+      "Series": 7,
+      "RequireSeries": "",
+      "Character": 3,
+      "Deprecated": null
+    },
+    {
+      "28": null,
+      "ID": 20702,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 1,
+      "Name": "CARD_20702",
+      "Desc": "CARD_20702_DESC",
+      "ICON": "SKL_20702_Kiai",
+      "Series": 7,
+      "RequireSeries": "",
+      "Character": 3,
+      "Deprecated": null
+    },
+    {
+      "28": null,
+      "ID": 20703,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 1,
+      "Name": "CARD_20703",
+      "Desc": "CARD_20703_DESC",
+      "ICON": "SKL_20703_ShrinkStep",
+      "Series": 7,
+      "RequireSeries": "",
+      "Character": 3,
+      "Deprecated": null
+    },
+    {
+      "28": null,
+      "ID": 20704,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 2,
+      "Name": "CARD_20704",
+      "Desc": "CARD_20704_DESC",
+      "ICON": "SKL_20704_AfterImage",
+      "Series": 7,
+      "RequireSeries": "",
+      "Character": 3,
+      "Deprecated": null
+    },
+    {
+      "28": null,
+      "ID": 20705,
+      "CardType": 2,
+      "CoolDown": 0.5,
+      "Tier": 2,
+      "Name": "CARD_20705",
+      "Desc": "CARD_20705_DESC",
+      "ICON": "SKL_20705_Unstoppable",
+      "Series": 7,
+      "RequireSeries": "",
+      "Character": 3,
       "Deprecated": null
     }
   ]
