@@ -346,9 +346,9 @@
     {
       "ID": 20901,
       "EffectType": 20,
-      "Value1": 15,
-      "Value2": "",
-      "Value3": ""
+      "Value1": 2,
+      "Value2": 0,
+      "Value3": 0
     }
   ]
 }
