@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T13:01:34.918Z",
+  "updatedAt": "2026-07-28T14:12:38.372Z",
   "sheets": [
     {
       "name": "Common",
@@ -9,8 +9,8 @@
     },
     {
       "name": "Character",
-      "version": 7,
-      "hash": "b68949d285f15ed9184d68a4886fbed4c1b7f8dbf9c0b9bc500a1da741e65092",
+      "version": 9,
+      "hash": "59d6c84103619bb6ee3efb93c43456560076ec8d0ddeff491e7426655a8ecee0",
       "url": "/static/Character.json"
     },
     {
@@ -39,8 +39,8 @@
     },
     {
       "name": "AttackEffects",
-      "version": 19,
-      "hash": "4a5b4f7380d0fc0db96297fdfd514a0c08e09b0a5e6a7b9528e1b6e9287ed52a",
+      "version": 20,
+      "hash": "fccb60e2aa5aa41552d1956e44a5035218b4871868a352b4ea98d475f7c84380",
       "url": "/static/AttackEffects.json"
     },
     {
