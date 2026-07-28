@@ -431,6 +431,102 @@
       "Value2": 2,
       "Value3": 1,
       "Value4": 0
+    },
+    {
+      "ID": 6213,
+      "EffectType": 82,
+      "Value1": 11190,
+      "Value2": 5,
+      "Value3": 1,
+      "Value4": 0
+    },
+    {
+      "ID": 6223,
+      "EffectType": 82,
+      "Value1": 11290,
+      "Value2": 5,
+      "Value3": 1,
+      "Value4": 0
+    },
+    {
+      "ID": 6233,
+      "EffectType": 84,
+      "Value1": 11390,
+      "Value2": 5,
+      "Value3": 0,
+      "Value4": 0
+    },
+    {
+      "ID": 6243,
+      "EffectType": 83,
+      "Value1": 1,
+      "Value2": 5,
+      "Value3": 0,
+      "Value4": 0
+    },
+    {
+      "ID": 6253,
+      "EffectType": 83,
+      "Value1": 2,
+      "Value2": 5,
+      "Value3": 0,
+      "Value4": 0
+    },
+    {
+      "ID": 6261,
+      "EffectType": 80,
+      "Value1": 1,
+      "Value2": 6,
+      "Value3": 0,
+      "Value4": 0
+    },
+    {
+      "ID": 6262,
+      "EffectType": 80,
+      "Value1": 2,
+      "Value2": 6,
+      "Value3": 0,
+      "Value4": 0
+    },
+    {
+      "ID": 6273,
+      "EffectType": 82,
+      "Value1": 11190,
+      "Value2": 6,
+      "Value3": 2,
+      "Value4": 0
+    },
+    {
+      "ID": 6283,
+      "EffectType": 82,
+      "Value1": 11290,
+      "Value2": 6,
+      "Value3": 2,
+      "Value4": 0
+    },
+    {
+      "ID": 6293,
+      "EffectType": 82,
+      "Value1": 11390,
+      "Value2": 6,
+      "Value3": 2,
+      "Value4": 0
+    },
+    {
+      "ID": 6303,
+      "EffectType": 82,
+      "Value1": 11490,
+      "Value2": 6,
+      "Value3": 2,
+      "Value4": 0
+    },
+    {
+      "ID": 6313,
+      "EffectType": 82,
+      "Value1": 11590,
+      "Value2": 6,
+      "Value3": 2,
+      "Value4": 0
     }
   ]
 }

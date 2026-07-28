@@ -1588,7 +1588,7 @@
       "ID": 11190,
       "Tier": 0,
       "Element": 1,
-      "AttackType": 0,
+      "AttackType": 3,
       "PrefabName": "FlameBurst_S",
       "BaseDamage": 180,
       "AttackRange": 0,
@@ -1606,7 +1606,7 @@
       "ID": 11290,
       "Tier": 0,
       "Element": 2,
-      "AttackType": 0,
+      "AttackType": 1,
       "PrefabName": "IceShard",
       "BaseDamage": 180,
       "AttackRange": 0,
@@ -1614,7 +1614,7 @@
       "Value1": 4,
       "Value2": 5,
       "Value3": 0,
-      "Value4": 0,
+      "Value4": 8,
       "Value5": 0,
       "Value6": 0,
       "EffectIDs": "",
@@ -1624,7 +1624,7 @@
       "ID": 11390,
       "Tier": 0,
       "Element": 3,
-      "AttackType": 0,
+      "AttackType": 7,
       "PrefabName": "ElecShock",
       "BaseDamage": 180,
       "AttackRange": 0,
@@ -1642,15 +1642,15 @@
       "ID": 11490,
       "Tier": 0,
       "Element": 4,
-      "AttackType": 0,
-      "PrefabName": "Tornado",
+      "AttackType": 1,
+      "PrefabName": "WindBlade",
       "BaseDamage": 180,
       "AttackRange": 0,
       "Knockback": 0,
-      "Value1": 1,
-      "Value2": 2.5,
-      "Value3": 0.8,
-      "Value4": 0,
+      "Value1": 8,
+      "Value2": 5,
+      "Value3": 50,
+      "Value4": 1,
       "Value5": 0,
       "Value6": 0,
       "EffectIDs": "",
@@ -1660,15 +1660,15 @@
       "ID": 11590,
       "Tier": 0,
       "Element": 5,
-      "AttackType": 0,
-      "PrefabName": "StonePillar",
+      "AttackType": 21,
+      "PrefabName": "Rock",
       "BaseDamage": 180,
       "AttackRange": 0,
       "Knockback": 0,
-      "Value1": 1,
-      "Value2": 2.2,
+      "Value1": 5,
+      "Value2": 3,
       "Value3": 1,
-      "Value4": 0,
+      "Value4": 1,
       "Value5": 0,
       "Value6": 0,
       "EffectIDs": "",
@@ -1725,7 +1725,7 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "6151,6103",
+      "EffectIDs": "6151,6213",
       "Series": 1
     },
     {
@@ -1743,7 +1743,7 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "6151,6121",
+      "EffectIDs": "6151,6261",
       "Series": 1
     },
     {
@@ -1761,7 +1761,7 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "6151,6131",
+      "EffectIDs": "6151,6262",
       "Series": 1
     },
     {
@@ -1779,7 +1779,7 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "6151,6141",
+      "EffectIDs": "6151,6273",
       "Series": 1
     },
     {
@@ -1833,7 +1833,7 @@
       "Value4": 0,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "6103",
+      "EffectIDs": "6223",
       "Series": 2
     },
     {
@@ -1851,7 +1851,7 @@
       "Value4": 0,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "6122",
+      "EffectIDs": "6261",
       "Series": 2
     },
     {
@@ -1869,7 +1869,7 @@
       "Value4": 0,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "6131",
+      "EffectIDs": "6262",
       "Series": 2
     },
     {
@@ -1887,7 +1887,7 @@
       "Value4": 0,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "6141",
+      "EffectIDs": "6283",
       "Series": 2
     },
     {
@@ -1941,7 +1941,7 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "6103,6152",
+      "EffectIDs": "6233,6152",
       "Series": 3
     },
     {
@@ -1959,7 +1959,7 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "6123,6152",
+      "EffectIDs": "6261,6152",
       "Series": 3
     },
     {
@@ -1977,7 +1977,7 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "6131,6152",
+      "EffectIDs": "6262,6152",
       "Series": 3
     },
     {
@@ -1995,7 +1995,7 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "6141,6152",
+      "EffectIDs": "6293,6152",
       "Series": 3
     },
     {
@@ -2049,7 +2049,7 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "6103",
+      "EffectIDs": "6243",
       "Series": 4
     },
     {
@@ -2067,7 +2067,7 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "6124",
+      "EffectIDs": "6261",
       "Series": 4
     },
     {
@@ -2085,7 +2085,7 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "6131",
+      "EffectIDs": "6262",
       "Series": 4
     },
     {
@@ -2103,7 +2103,7 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 0,
-      "EffectIDs": "6141",
+      "EffectIDs": "6303",
       "Series": 4
     },
     {
@@ -2157,7 +2157,7 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 2.2,
-      "EffectIDs": "6103",
+      "EffectIDs": "6253",
       "Series": 5
     },
     {
@@ -2175,7 +2175,7 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 1.5,
-      "EffectIDs": "6125",
+      "EffectIDs": "6261",
       "Series": 5
     },
     {
@@ -2193,7 +2193,7 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 1.5,
-      "EffectIDs": "6131",
+      "EffectIDs": "6262",
       "Series": 5
     },
     {
@@ -2211,7 +2211,7 @@
       "Value4": 1,
       "Value5": 0,
       "Value6": 2.2,
-      "EffectIDs": "6141",
+      "EffectIDs": "6313",
       "Series": 5
     },
     {
