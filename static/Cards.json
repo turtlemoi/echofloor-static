@@ -1,7 +1,6 @@
 {
   "data": [
     {
-      "29": "",
       "ID": 10101,
       "CardType": 1,
       "CoolDown": 1,
@@ -11,11 +10,9 @@
       "ICON": "ATK_10101_Fireball",
       "Series": 1,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10109,
       "CardType": 1,
       "CoolDown": 3,
@@ -25,11 +22,9 @@
       "ICON": "ATK_10109_Purgatory",
       "Series": 1,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10111,
       "CardType": 1,
       "CoolDown": 1,
@@ -39,11 +34,9 @@
       "ICON": "ATK_10111_FireballSkill",
       "Series": 1,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10112,
       "CardType": 1,
       "CoolDown": 2,
@@ -53,11 +46,9 @@
       "ICON": "ATK_10112_Flameshot",
       "Series": 1,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10113,
       "CardType": 1,
       "CoolDown": 3,
@@ -67,11 +58,9 @@
       "ICON": "ATK_10113_FireballStorm",
       "Series": 1,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10120,
       "CardType": 1,
       "CoolDown": 1,
@@ -81,11 +70,9 @@
       "ICON": "ATK_10120_IgniteOrb",
       "Series": 1,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10121,
       "CardType": 1,
       "CoolDown": 1,
@@ -95,11 +82,9 @@
       "ICON": "ATK_10121_EmberScatter",
       "Series": 1,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10122,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -109,11 +94,9 @@
       "ICON": "ATK_10122_FinishingHarvest",
       "Series": 1,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10210,
       "CardType": 1,
       "CoolDown": 1,
@@ -123,11 +106,9 @@
       "ICON": "ATK_10210_ForceRelease",
       "Series": 2,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10211,
       "CardType": 1,
       "CoolDown": 3,
@@ -137,11 +118,9 @@
       "ICON": "ATK_10211_FrostOrb",
       "Series": 2,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10212,
       "CardType": 1,
       "CoolDown": 2,
@@ -151,11 +130,9 @@
       "ICON": "ATK_10212_OrbBurst",
       "Series": 2,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10213,
       "CardType": 1,
       "CoolDown": 3,
@@ -165,11 +142,9 @@
       "ICON": "ATK_10213_FrostOrbit",
       "Series": 2,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10302,
       "CardType": 1,
       "CoolDown": 1,
@@ -179,11 +154,9 @@
       "ICON": "ATK_10302_ElecShock",
       "Series": 3,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10304,
       "CardType": 1,
       "CoolDown": 1,
@@ -193,11 +166,9 @@
       "ICON": "ATK_10304_ChainLightning",
       "Series": 3,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10312,
       "CardType": 1,
       "CoolDown": 1,
@@ -207,11 +178,9 @@
       "ICON": "ATK_10312_ForkedLightning",
       "Series": 3,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10313,
       "CardType": 1,
       "CoolDown": 3,
@@ -221,11 +190,9 @@
       "ICON": "ATK_10313_LightningStorm",
       "Series": 3,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10314,
       "CardType": 1,
       "CoolDown": 3,
@@ -235,11 +202,9 @@
       "ICON": "ATK_10314_SuperconductBolt",
       "Series": 3,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10320,
       "CardType": 1,
       "CoolDown": 1,
@@ -249,11 +214,9 @@
       "ICON": "ATK_10320_ChainDischarge",
       "Series": 3,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10410,
       "CardType": 1,
       "CoolDown": 1,
@@ -263,11 +226,9 @@
       "ICON": "ATK_10410_Vortex",
       "Series": 4,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10411,
       "CardType": 1,
       "CoolDown": 1,
@@ -277,11 +238,9 @@
       "ICON": "ATK_10411_Gust",
       "Series": 4,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10412,
       "CardType": 1,
       "CoolDown": 1,
@@ -291,11 +250,9 @@
       "ICON": "ATK_10412_WhirlShot",
       "Series": 4,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10413,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -305,11 +262,9 @@
       "ICON": "ATK_10413_Gale",
       "Series": 4,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10414,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -319,11 +274,9 @@
       "ICON": "ATK_10414_Storm",
       "Series": 4,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10415,
       "CardType": 1,
       "CoolDown": 3,
@@ -333,11 +286,9 @@
       "ICON": "ATK_10415_Typhoon",
       "Series": 4,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10416,
       "CardType": 1,
       "CoolDown": 3,
@@ -347,11 +298,9 @@
       "ICON": "ATK_10416_Swarm",
       "Series": 4,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10510,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -361,11 +310,9 @@
       "ICON": "ATK_10510_Pillar",
       "Series": 5,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10511,
       "CardType": 1,
       "CoolDown": 1,
@@ -375,11 +322,9 @@
       "ICON": "ATK_10511_StoneSpike",
       "Series": 5,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10512,
       "CardType": 1,
       "CoolDown": 1,
@@ -389,11 +334,9 @@
       "ICON": "ATK_10512_Tremor",
       "Series": 5,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10513,
       "CardType": 1,
       "CoolDown": 2,
@@ -403,11 +346,9 @@
       "ICON": "ATK_10513_PillarCluster",
       "Series": 5,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10514,
       "CardType": 1,
       "CoolDown": 2,
@@ -417,11 +358,9 @@
       "ICON": "ATK_10514_Boulder",
       "Series": 5,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 10515,
       "CardType": 1,
       "CoolDown": 3,
@@ -431,11 +370,9 @@
       "ICON": "ATK_10515_FaultUplift",
       "Series": 5,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": null,
       "ID": 10601,
       "CardType": 1,
       "CoolDown": 1,
@@ -445,11 +382,9 @@
       "ICON": "ATK_10601_Shot",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 10602,
       "CardType": 1,
       "CoolDown": 1,
@@ -459,11 +394,9 @@
       "ICON": "ATK_10602_TwinShot",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 10603,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -473,11 +406,9 @@
       "ICON": "ATK_10603_MultiShot",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 10604,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -487,11 +418,9 @@
       "ICON": "ATK_10604_Piercer",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 10605,
       "CardType": 1,
       "CoolDown": 2.5,
@@ -501,11 +430,9 @@
       "ICON": "ATK_10605_PrecisionSnipe",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 10606,
       "CardType": 1,
       "CoolDown": 3,
@@ -515,11 +442,9 @@
       "ICON": "ATK_10606_ArrowTempest",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 10611,
       "CardType": 1,
       "CoolDown": 1,
@@ -529,11 +454,9 @@
       "ICON": "ATK_10611_LoftedShot",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 10612,
       "CardType": 1,
       "CoolDown": 2,
@@ -543,11 +466,9 @@
       "ICON": "ATK_10612_ArrowRain",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 10613,
       "CardType": 1,
       "CoolDown": 2,
@@ -557,11 +478,9 @@
       "ICON": "ATK_10613_GreatbowBombard",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 10614,
       "CardType": 1,
       "CoolDown": 3,
@@ -571,11 +490,9 @@
       "ICON": "ATK_10614_DarkCloud",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 10621,
       "CardType": 1,
       "CoolDown": 2,
@@ -585,11 +502,9 @@
       "ICON": "ATK_10621_CaltropScatter",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 10631,
       "CardType": 1,
       "CoolDown": 1,
@@ -599,11 +514,9 @@
       "ICON": "ATK_10631_LoadedShot",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 10632,
       "CardType": 1,
       "CoolDown": 2,
@@ -613,11 +526,9 @@
       "ICON": "ATK_10632_StockpileVolley",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 10633,
       "CardType": 1,
       "CoolDown": 2,
@@ -627,11 +538,9 @@
       "ICON": "ATK_10633_FullSalvo",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 10801,
       "CardType": 1,
       "CoolDown": 1,
@@ -641,11 +550,9 @@
       "ICON": "ATK_10801_FeatherShot",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 10802,
       "CardType": 1,
       "CoolDown": 1,
@@ -655,11 +562,9 @@
       "ICON": "ATK_10802_HuntSignal",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 10803,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -669,11 +574,9 @@
       "ICON": "ATK_10803_FeatherRain",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 10804,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -683,11 +586,9 @@
       "ICON": "ATK_10804_DiveAttack",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 10805,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -697,11 +598,9 @@
       "ICON": "ATK_10805_FeatherSentry",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 10806,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -711,11 +610,9 @@
       "ICON": "ATK_10806_JointHunt",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 10807,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -725,11 +622,9 @@
       "ICON": "ATK_10807_FeatherLoot",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 10808,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -739,11 +634,9 @@
       "ICON": "ATK_10808_Fetch",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 10809,
       "CardType": 1,
       "CoolDown": 3,
@@ -753,11 +646,9 @@
       "ICON": "ATK_10809_FeatherRake",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 10810,
       "CardType": 1,
       "CoolDown": 3,
@@ -767,11 +658,9 @@
       "ICON": "ATK_10810_ChaseHunt",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 20001,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -781,11 +670,9 @@
       "ICON": "SKL_20001_DoubleStrike",
       "Series": "",
       "RequireSeries": "",
-      "Character": 0,
-      "Deprecated": null
+      "Character": 0
     },
     {
-      "29": null,
       "ID": 20005,
       "CardType": 2,
       "CoolDown": 1.5,
@@ -795,11 +682,9 @@
       "ICON": "SKL_20005_Snipe",
       "Series": "",
       "RequireSeries": "",
-      "Character": 0,
-      "Deprecated": null
+      "Character": 0
     },
     {
-      "29": null,
       "ID": 20006,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -809,11 +694,9 @@
       "ICON": "SKL_20006_QuickDraw",
       "Series": "",
       "RequireSeries": "",
-      "Character": 0,
-      "Deprecated": null
+      "Character": 0
     },
     {
-      "29": "",
       "ID": 20008,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -823,11 +706,9 @@
       "ICON": "SKL_20008_FlameHone",
       "Series": 1,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 20009,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -837,11 +718,9 @@
       "ICON": "SKL_20009_IgnitionLoad",
       "Series": 1,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 20010,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -851,11 +730,9 @@
       "ICON": "SKL_20010_CurrentSplit",
       "Series": 3,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 20011,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -865,11 +742,9 @@
       "ICON": "SKL_20011_BoltAmplify",
       "Series": 3,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 20012,
       "CardType": 2,
       "CoolDown": 1,
@@ -879,11 +754,9 @@
       "ICON": "SKL_20012_IceOrb",
       "Series": 2,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 20013,
       "CardType": 2,
       "CoolDown": 1,
@@ -893,11 +766,9 @@
       "ICON": "SKL_20013_OrbAlign",
       "Series": 2,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 20014,
       "CardType": 2,
       "CoolDown": 2,
@@ -907,11 +778,9 @@
       "ICON": "SKL_20014_ChillSupply",
       "Series": 2,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 20015,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -921,11 +790,9 @@
       "ICON": "SKL_20015_EmberCharge",
       "Series": 1,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 20016,
       "CardType": 2,
       "CoolDown": 1,
@@ -935,11 +802,9 @@
       "ICON": "SKL_20016_FrostInsight",
       "Series": 2,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 20017,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -949,11 +814,9 @@
       "ICON": "SKL_20017_OverloadCircuit",
       "Series": 3,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 20018,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -963,11 +826,9 @@
       "ICON": "SKL_20018_Turbulence",
       "Series": 4,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 20019,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -977,11 +838,9 @@
       "ICON": "SKL_20019_AirCharge",
       "Series": 4,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 20020,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -991,11 +850,9 @@
       "ICON": "SKL_20020_StormMuster",
       "Series": 4,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 20021,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1005,11 +862,9 @@
       "ICON": "SKL_20021_GroundTamping",
       "Series": 5,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 20022,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1019,11 +874,9 @@
       "ICON": "SKL_20022_GroundCharge",
       "Series": 5,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": "",
       "ID": 20023,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1033,11 +886,9 @@
       "ICON": "SKL_20023_PillarReposition",
       "Series": 5,
       "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 1
+      "Character": 1
     },
     {
-      "29": null,
       "ID": 20601,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1047,11 +898,9 @@
       "ICON": "SKL_20601_TwinNock",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 20602,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1061,11 +910,9 @@
       "ICON": "SKL_20602_RapidFire",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 20603,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1075,11 +922,9 @@
       "ICON": "SKL_20603_TakeAim",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 20604,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1089,11 +934,9 @@
       "ICON": "SKL_20604_HeavyDraw",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 20605,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1103,11 +946,9 @@
       "ICON": "SKL_20605_FocusVolley",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 20606,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1117,11 +958,9 @@
       "ICON": "SKL_20606_Tailwind",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 20611,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1131,11 +970,9 @@
       "ICON": "SKL_20611_HomingArrow",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 20612,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1145,11 +982,9 @@
       "ICON": "SKL_20612_EchoString",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 20613,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1159,11 +994,9 @@
       "ICON": "SKL_20613_Ricochet",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 20614,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1173,11 +1006,9 @@
       "ICON": "SKL_20614_Boomerang",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 20621,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1187,11 +1018,9 @@
       "ICON": "SKL_20621_ShrapnelTip",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 20622,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1201,11 +1030,9 @@
       "ICON": "SKL_20622_ForkTip",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 20623,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1215,11 +1042,9 @@
       "ICON": "SKL_20623_SplitTip",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 20624,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1229,11 +1054,9 @@
       "ICON": "SKL_20624_HasteTip",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 20625,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1243,11 +1066,9 @@
       "ICON": "SKL_20625_TrophyTip",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 20631,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1257,11 +1078,9 @@
       "ICON": "SKL_20631_QuickLoad",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 20801,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1271,11 +1090,9 @@
       "ICON": "SKL_20801_Handful",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 20802,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1285,11 +1102,9 @@
       "ICON": "SKL_20802_GlossyFeed",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 20803,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1299,11 +1114,9 @@
       "ICON": "SKL_20803_TrainingSnack",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 20804,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1313,11 +1126,9 @@
       "ICON": "SKL_20804_WildMeat",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 20805,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1327,11 +1138,9 @@
       "ICON": "SKL_20805_RichMeat",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 20806,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1341,11 +1150,9 @@
       "ICON": "SKL_20806_HunterJerky",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 20807,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1355,11 +1162,9 @@
       "ICON": "SKL_20807_WindFruit",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 20808,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1369,11 +1174,9 @@
       "ICON": "SKL_20808_HotSpice",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 20809,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1383,11 +1186,9 @@
       "ICON": "SKL_20809_SyncBreath",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 20810,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1397,11 +1198,9 @@
       "ICON": "SKL_20810_KingsFeast",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2,
-      "Deprecated": null
+      "Character": 2
     },
     {
-      "29": null,
       "ID": 99001,
       "CardType": 4,
       "CoolDown": 2,
@@ -1411,11 +1210,9 @@
       "ICON": null,
       "Series": null,
       "RequireSeries": null,
-      "Character": null,
-      "Deprecated": null
+      "Character": null
     },
     {
-      "29": null,
       "ID": 99010,
       "CardType": 4,
       "CoolDown": 2,
@@ -1425,11 +1222,9 @@
       "ICON": "",
       "Series": "",
       "RequireSeries": "",
-      "Character": "",
-      "Deprecated": null
+      "Character": ""
     },
     {
-      "29": null,
       "ID": 99011,
       "CardType": 4,
       "CoolDown": 3,
@@ -1439,11 +1234,9 @@
       "ICON": "",
       "Series": "",
       "RequireSeries": "",
-      "Character": "",
-      "Deprecated": null
+      "Character": ""
     },
     {
-      "29": null,
       "ID": 99012,
       "CardType": 4,
       "CoolDown": 4,
@@ -1453,11 +1246,9 @@
       "ICON": "",
       "Series": "",
       "RequireSeries": "",
-      "Character": "",
-      "Deprecated": null
+      "Character": ""
     },
     {
-      "29": null,
       "ID": 99013,
       "CardType": 4,
       "CoolDown": 3,
@@ -1467,11 +1258,9 @@
       "ICON": "",
       "Series": "",
       "RequireSeries": "",
-      "Character": "",
-      "Deprecated": null
+      "Character": ""
     },
     {
-      "29": null,
       "ID": 99014,
       "CardType": 4,
       "CoolDown": 1,
@@ -1481,11 +1270,9 @@
       "ICON": "",
       "Series": "",
       "RequireSeries": "",
-      "Character": "",
-      "Deprecated": null
+      "Character": ""
     },
     {
-      "29": null,
       "ID": 10701,
       "CardType": 1,
       "CoolDown": 1,
@@ -1495,11 +1282,9 @@
       "ICON": "ATK_10701_StraightFist",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3,
-      "Deprecated": null
+      "Character": 3
     },
     {
-      "29": null,
       "ID": 10702,
       "CardType": 1,
       "CoolDown": 1,
@@ -1509,11 +1294,9 @@
       "ICON": "ATK_10702_ChainFists",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3,
-      "Deprecated": null
+      "Character": 3
     },
     {
-      "29": null,
       "ID": 10705,
       "CardType": 1,
       "CoolDown": 1,
@@ -1523,11 +1306,9 @@
       "ICON": "ATK_10705_DoubleFist",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3,
-      "Deprecated": null
+      "Character": 3
     },
     {
-      "29": null,
       "ID": 10703,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -1537,11 +1318,9 @@
       "ICON": "ATK_10703_SweepFist",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3,
-      "Deprecated": null
+      "Character": 3
     },
     {
-      "29": null,
       "ID": 10704,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -1551,11 +1330,9 @@
       "ICON": "ATK_10704_PiercingHeart",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3,
-      "Deprecated": null
+      "Character": 3
     },
     {
-      "29": null,
       "ID": 10706,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -1565,11 +1342,9 @@
       "ICON": "ATK_10706_OneInch",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3,
-      "Deprecated": null
+      "Character": 3
     },
     {
-      "29": null,
       "ID": 10711,
       "CardType": 1,
       "CoolDown": 1,
@@ -1579,11 +1354,9 @@
       "ICON": "ATK_10711_LowKick",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3,
-      "Deprecated": null
+      "Character": 3
     },
     {
-      "29": null,
       "ID": 10713,
       "CardType": 1,
       "CoolDown": 1,
@@ -1593,11 +1366,9 @@
       "ICON": "ATK_10713_ThrustKick",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3,
-      "Deprecated": null
+      "Character": 3
     },
     {
-      "29": null,
       "ID": 10712,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -1607,11 +1378,9 @@
       "ICON": "ATK_10712_SweepKick",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3,
-      "Deprecated": null
+      "Character": 3
     },
     {
-      "29": null,
       "ID": 10714,
       "CardType": 1,
       "CoolDown": 2,
@@ -1621,11 +1390,9 @@
       "ICON": "ATK_10714_GaleKick",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3,
-      "Deprecated": null
+      "Character": 3
     },
     {
-      "29": null,
       "ID": 10716,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -1635,11 +1402,9 @@
       "ICON": "ATK_10716_StompKick",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3,
-      "Deprecated": null
+      "Character": 3
     },
     {
-      "29": null,
       "ID": 10717,
       "CardType": 1,
       "CoolDown": 1.5,
@@ -1649,11 +1414,9 @@
       "ICON": "ATK_10717_HammerKick",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3,
-      "Deprecated": null
+      "Character": 3
     },
     {
-      "29": null,
       "ID": 10715,
       "CardType": 1,
       "CoolDown": 2.5,
@@ -1663,11 +1426,9 @@
       "ICON": "ATK_10715_CycloneKick",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3,
-      "Deprecated": null
+      "Character": 3
     },
     {
-      "29": null,
       "ID": 10721,
       "CardType": 1,
       "CoolDown": 2,
@@ -1677,11 +1438,9 @@
       "ICON": "ATK_10721_CrushingFist",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3,
-      "Deprecated": null
+      "Character": 3
     },
     {
-      "29": null,
       "ID": 10722,
       "CardType": 1,
       "CoolDown": 2,
@@ -1691,11 +1450,9 @@
       "ICON": "ATK_10722_StompQuake",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3,
-      "Deprecated": null
+      "Character": 3
     },
     {
-      "29": null,
       "ID": 10723,
       "CardType": 1,
       "CoolDown": 3,
@@ -1705,11 +1462,9 @@
       "ICON": "ATK_10723_HundredFists",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3,
-      "Deprecated": null
+      "Character": 3
     },
     {
-      "29": null,
       "ID": 10724,
       "CardType": 1,
       "CoolDown": 2.5,
@@ -1719,11 +1474,9 @@
       "ICON": "ATK_10724_ApexFist",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3,
-      "Deprecated": null
+      "Character": 3
     },
     {
-      "29": null,
       "ID": 10725,
       "CardType": 1,
       "CoolDown": 2.5,
@@ -1733,11 +1486,9 @@
       "ICON": "ATK_10725_KiBlast",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3,
-      "Deprecated": null
+      "Character": 3
     },
     {
-      "29": null,
       "ID": 20701,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1747,11 +1498,9 @@
       "ICON": "SKL_20701_QiGathering",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3,
-      "Deprecated": null
+      "Character": 3
     },
     {
-      "29": null,
       "ID": 20702,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1761,11 +1510,9 @@
       "ICON": "SKL_20702_Kiai",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3,
-      "Deprecated": null
+      "Character": 3
     },
     {
-      "29": null,
       "ID": 20703,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1775,11 +1522,9 @@
       "ICON": "SKL_20703_ShrinkStep",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3,
-      "Deprecated": null
+      "Character": 3
     },
     {
-      "29": null,
       "ID": 20704,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1789,11 +1534,9 @@
       "ICON": "SKL_20704_AfterImage",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3,
-      "Deprecated": null
+      "Character": 3
     },
     {
-      "29": null,
       "ID": 20705,
       "CardType": 2,
       "CoolDown": 0.5,
@@ -1803,8 +1546,7 @@
       "ICON": "SKL_20705_Unstoppable",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3,
-      "Deprecated": null
+      "Character": 3
     }
   ]
 }
