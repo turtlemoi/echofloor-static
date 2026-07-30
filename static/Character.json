@@ -47,8 +47,8 @@
       "TraitName": "TRAIT_FIGHTER_NAME",
       "TraitDesc": "TRAIT_FIGHTER_DESC",
       "TraitValue": 0.6,
-      "StartDeck": "10701,10701|10711,10711|20701,20701",
-      "DeckNames": "DECK_NAME_10701|DECK_NAME_10711|DECK_NAME_20701",
+      "StartDeck": "10701,10701|10711,10711|20702,20702",
+      "DeckNames": "DECK_NAME_10701|DECK_NAME_10711|DECK_NAME_20702",
       "Selectable": 1,
       "Hp": "120",
       "Damage": "10",
@@ -57,7 +57,7 @@
       "Weight": "10",
       "CriticalChance": "5",
       "CriticalDamage": "150",
-      "DashCooldown": "1.25",
+      "DashCooldown": "1",
       "DashCount": "1"
     }
   ]
