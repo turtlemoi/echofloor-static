@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T15:40:24.040Z",
+  "updatedAt": "2026-07-31T10:51:41.423Z",
   "sheets": [
     {
       "name": "Common",
@@ -9,8 +9,8 @@
     },
     {
       "name": "Character",
-      "version": 10,
-      "hash": "db5890b013f1ded339ecf7c06d2ce83926e3c9c2b287132422fd74dd9430be7d",
+      "version": 11,
+      "hash": "1cf413eb084a09f3c34399962f9d812b41e9c998a53c657b7e3c2a7673d37b03",
       "url": "/static/Character.json"
     },
     {
@@ -27,32 +27,32 @@
     },
     {
       "name": "Cards",
-      "version": 30,
-      "hash": "9d8670e6567423e6296cdce38e83161a2808efef97e32df4ef56da9f4e2da7da",
+      "version": 31,
+      "hash": "d94697bc6b661b9415c3c44a1b84a5a95025cde58d706b86513c02df27785fe1",
       "url": "/static/Cards.json"
     },
     {
       "name": "AttackCards",
-      "version": 92,
-      "hash": "3df5079143ed9953095507ef8e7f8b2ed65f62942801b4b06f3cd1aa921421bc",
+      "version": 93,
+      "hash": "5e166f540c4b0358baf65ded02c98a081a68b933f890ac6679d77d336dfacd7e",
       "url": "/static/AttackCards.json"
     },
     {
       "name": "AttackEffects",
-      "version": 21,
-      "hash": "3b19b1991948b9569065abf2325c8c13f4f45f210a9e9384392741d9ab883f0d",
+      "version": 22,
+      "hash": "c5572aeabcd80ed49562a6d0ee6ee0cf2062a993c37469f859294d1850c55e1b",
       "url": "/static/AttackEffects.json"
     },
     {
       "name": "SkillCards",
-      "version": 9,
-      "hash": "45119961217444eddaafeb257b5412fae32bb7f4806836f37b6fc6ef14ca2b2e",
+      "version": 10,
+      "hash": "4b93010a2316ff1a5cb67b47c718c311228cb95912507555fe889cae7696d0ea",
       "url": "/static/SkillCards.json"
     },
     {
       "name": "Augment",
-      "version": 5,
-      "hash": "317fcc9ededa650cb9172d3ca47bce623edb3f723e5951fd5b2a39cb9601c9db",
+      "version": 6,
+      "hash": "905a1782d7ef6d82a6bb77da3fe35e82f72014266a429b359c94cbcc0f1f67fe",
       "url": "/static/Augment.json"
     },
     {
@@ -62,21 +62,15 @@
       "url": "/static/Creature.json"
     },
     {
-      "name": "Boss",
-      "version": 6,
-      "hash": "b2c65afb1195bb37704e60e705e82829671a70b96fb029bf014e943b9123691a",
-      "url": "/static/Boss.json"
-    },
-    {
       "name": "Keyword",
-      "version": 7,
-      "hash": "1c3f04e2753710419c636e922f8391d4bdc9dd22af4b33c91497539f90907a62",
+      "version": 8,
+      "hash": "ed8a8a1e1bec23483fb52c95e1e5ff7517727f5f3afab366e65cd3684fde1c14",
       "url": "/static/Keyword.json"
     },
     {
       "name": "Locale",
-      "version": 48,
-      "hash": "65a2281795ffab7ded6b5b5ac03e94e6de3b81fe2dc3ae528f15a2643ac8ab8f",
+      "version": 50,
+      "hash": "ac3f5a0d18fce9fd803b553b1d31478cc83f2fd29aca30850d1a08eda4c6c7f1",
       "url": "/static/Locale.json"
     }
   ]

@@ -84,6 +84,31 @@
       "ID": "FSTRIKE",
       "NameKey": "KEYWORD_NAME_FSTRIKE",
       "DescKey": "KEYWORD_DESC_FSTRIKE"
+    },
+    {
+      "ID": "BURN",
+      "NameKey": "KEYWORD_NAME_BURN",
+      "DescKey": "KEYWORD_DESC_BURN"
+    },
+    {
+      "ID": "CHILL",
+      "NameKey": "KEYWORD_NAME_CHILL",
+      "DescKey": "KEYWORD_DESC_CHILL"
+    },
+    {
+      "ID": "FREEZE",
+      "NameKey": "KEYWORD_NAME_FREEZE",
+      "DescKey": "KEYWORD_DESC_FREEZE"
+    },
+    {
+      "ID": "SHOCK",
+      "NameKey": "KEYWORD_NAME_SHOCK",
+      "DescKey": "KEYWORD_DESC_SHOCK"
+    },
+    {
+      "ID": "BOLT",
+      "NameKey": "KEYWORD_NAME_BOLT",
+      "DescKey": "KEYWORD_DESC_BOLT"
     }
   ]
 }

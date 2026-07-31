@@ -10,7 +10,8 @@
       "ICON": "ATK_10101_Fireball",
       "Series": 1,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10109,
@@ -22,7 +23,8 @@
       "ICON": "ATK_10109_Purgatory",
       "Series": 1,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10111,
@@ -34,7 +36,8 @@
       "ICON": "ATK_10111_FireballSkill",
       "Series": 1,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10112,
@@ -46,7 +49,8 @@
       "ICON": "ATK_10112_Flameshot",
       "Series": 1,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10113,
@@ -58,7 +62,8 @@
       "ICON": "ATK_10113_FireballStorm",
       "Series": 1,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10120,
@@ -70,7 +75,8 @@
       "ICON": "ATK_10120_IgniteOrb",
       "Series": 1,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10121,
@@ -82,7 +88,8 @@
       "ICON": "ATK_10121_EmberScatter",
       "Series": 1,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10122,
@@ -94,7 +101,8 @@
       "ICON": "ATK_10122_FinishingHarvest",
       "Series": 1,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10210,
@@ -106,7 +114,8 @@
       "ICON": "ATK_10210_ForceRelease",
       "Series": 2,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10211,
@@ -118,7 +127,8 @@
       "ICON": "ATK_10211_FrostOrb",
       "Series": 2,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10212,
@@ -130,7 +140,8 @@
       "ICON": "ATK_10212_OrbBurst",
       "Series": 2,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10213,
@@ -142,7 +153,8 @@
       "ICON": "ATK_10213_FrostOrbit",
       "Series": 2,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10302,
@@ -154,7 +166,8 @@
       "ICON": "ATK_10302_ElecShock",
       "Series": 3,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10304,
@@ -166,7 +179,8 @@
       "ICON": "ATK_10304_ChainLightning",
       "Series": 3,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10312,
@@ -178,7 +192,8 @@
       "ICON": "ATK_10312_ForkedLightning",
       "Series": 3,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10313,
@@ -190,7 +205,8 @@
       "ICON": "ATK_10313_LightningStorm",
       "Series": 3,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10314,
@@ -202,7 +218,8 @@
       "ICON": "ATK_10314_SuperconductBolt",
       "Series": 3,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10320,
@@ -214,7 +231,8 @@
       "ICON": "ATK_10320_ChainDischarge",
       "Series": 3,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10410,
@@ -226,7 +244,8 @@
       "ICON": "ATK_10410_Vortex",
       "Series": 4,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10411,
@@ -238,7 +257,8 @@
       "ICON": "ATK_10411_Gust",
       "Series": 4,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10412,
@@ -250,7 +270,8 @@
       "ICON": "ATK_10412_WhirlShot",
       "Series": 4,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10413,
@@ -262,7 +283,8 @@
       "ICON": "ATK_10413_Gale",
       "Series": 4,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10414,
@@ -274,7 +296,8 @@
       "ICON": "ATK_10414_Storm",
       "Series": 4,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10415,
@@ -286,7 +309,8 @@
       "ICON": "ATK_10415_Typhoon",
       "Series": 4,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10416,
@@ -298,7 +322,8 @@
       "ICON": "ATK_10416_Swarm",
       "Series": 4,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10510,
@@ -310,7 +335,8 @@
       "ICON": "ATK_10510_Pillar",
       "Series": 5,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10511,
@@ -322,7 +348,8 @@
       "ICON": "ATK_10511_StoneSpike",
       "Series": 5,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10512,
@@ -334,7 +361,8 @@
       "ICON": "ATK_10512_Tremor",
       "Series": 5,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10513,
@@ -346,7 +374,8 @@
       "ICON": "ATK_10513_PillarCluster",
       "Series": 5,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10514,
@@ -358,7 +387,8 @@
       "ICON": "ATK_10514_Boulder",
       "Series": 5,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10515,
@@ -370,7 +400,8 @@
       "ICON": "ATK_10515_FaultUplift",
       "Series": 5,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 10601,
@@ -382,7 +413,8 @@
       "ICON": "ATK_10601_Shot",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 10602,
@@ -394,7 +426,8 @@
       "ICON": "ATK_10602_TwinShot",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 10603,
@@ -406,7 +439,8 @@
       "ICON": "ATK_10603_MultiShot",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 10604,
@@ -418,7 +452,8 @@
       "ICON": "ATK_10604_Piercer",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 10605,
@@ -430,7 +465,8 @@
       "ICON": "ATK_10605_PrecisionSnipe",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 10606,
@@ -442,7 +478,8 @@
       "ICON": "ATK_10606_ArrowTempest",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 10611,
@@ -454,7 +491,8 @@
       "ICON": "ATK_10611_LoftedShot",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 10612,
@@ -466,7 +504,8 @@
       "ICON": "ATK_10612_ArrowRain",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 10613,
@@ -478,7 +517,8 @@
       "ICON": "ATK_10613_GreatbowBombard",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 10614,
@@ -490,7 +530,8 @@
       "ICON": "ATK_10614_DarkCloud",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 10621,
@@ -502,7 +543,8 @@
       "ICON": "ATK_10621_CaltropScatter",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 10631,
@@ -514,7 +556,8 @@
       "ICON": "ATK_10631_LoadedShot",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 10632,
@@ -526,7 +569,8 @@
       "ICON": "ATK_10632_StockpileVolley",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 10633,
@@ -538,7 +582,8 @@
       "ICON": "ATK_10633_FullSalvo",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 10801,
@@ -550,7 +595,8 @@
       "ICON": "ATK_10801_FeatherShot",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 10802,
@@ -562,7 +608,8 @@
       "ICON": "ATK_10802_HuntSignal",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 10803,
@@ -574,7 +621,8 @@
       "ICON": "ATK_10803_FeatherRain",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 10804,
@@ -586,7 +634,8 @@
       "ICON": "ATK_10804_DiveAttack",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 10805,
@@ -598,7 +647,8 @@
       "ICON": "ATK_10805_FeatherSentry",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 10806,
@@ -610,7 +660,8 @@
       "ICON": "ATK_10806_JointHunt",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 10807,
@@ -622,7 +673,8 @@
       "ICON": "ATK_10807_FeatherLoot",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 10808,
@@ -634,7 +686,8 @@
       "ICON": "ATK_10808_Fetch",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 10809,
@@ -646,7 +699,8 @@
       "ICON": "ATK_10809_FeatherRake",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 10810,
@@ -658,7 +712,8 @@
       "ICON": "ATK_10810_ChaseHunt",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 20001,
@@ -670,7 +725,8 @@
       "ICON": "SKL_20001_DoubleStrike",
       "Series": "",
       "RequireSeries": "",
-      "Character": 0
+      "Character": 0,
+      "Deprecated": ""
     },
     {
       "ID": 20005,
@@ -682,7 +738,8 @@
       "ICON": "SKL_20005_Snipe",
       "Series": "",
       "RequireSeries": "",
-      "Character": 0
+      "Character": 0,
+      "Deprecated": ""
     },
     {
       "ID": 20006,
@@ -694,7 +751,8 @@
       "ICON": "SKL_20006_QuickDraw",
       "Series": "",
       "RequireSeries": "",
-      "Character": 0
+      "Character": 0,
+      "Deprecated": ""
     },
     {
       "ID": 20008,
@@ -706,7 +764,8 @@
       "ICON": "SKL_20008_FlameHone",
       "Series": 1,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 20009,
@@ -718,7 +777,8 @@
       "ICON": "SKL_20009_IgnitionLoad",
       "Series": 1,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 20010,
@@ -730,7 +790,8 @@
       "ICON": "SKL_20010_CurrentSplit",
       "Series": 3,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 20011,
@@ -742,7 +803,8 @@
       "ICON": "SKL_20011_BoltAmplify",
       "Series": 3,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 20012,
@@ -754,7 +816,8 @@
       "ICON": "SKL_20012_IceOrb",
       "Series": 2,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 20013,
@@ -766,7 +829,8 @@
       "ICON": "SKL_20013_OrbAlign",
       "Series": 2,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 20014,
@@ -778,7 +842,8 @@
       "ICON": "SKL_20014_ChillSupply",
       "Series": 2,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 20015,
@@ -790,7 +855,8 @@
       "ICON": "SKL_20015_EmberCharge",
       "Series": 1,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 20016,
@@ -802,7 +868,8 @@
       "ICON": "SKL_20016_FrostInsight",
       "Series": 2,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 20017,
@@ -814,7 +881,8 @@
       "ICON": "SKL_20017_OverloadCircuit",
       "Series": 3,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 20018,
@@ -826,7 +894,8 @@
       "ICON": "SKL_20018_Turbulence",
       "Series": 4,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 20019,
@@ -838,7 +907,8 @@
       "ICON": "SKL_20019_AirCharge",
       "Series": 4,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 20020,
@@ -850,7 +920,8 @@
       "ICON": "SKL_20020_StormMuster",
       "Series": 4,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 20021,
@@ -862,7 +933,8 @@
       "ICON": "SKL_20021_GroundTamping",
       "Series": 5,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 20022,
@@ -874,7 +946,8 @@
       "ICON": "SKL_20022_GroundCharge",
       "Series": 5,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 20023,
@@ -886,7 +959,8 @@
       "ICON": "SKL_20023_PillarReposition",
       "Series": 5,
       "RequireSeries": "",
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 20601,
@@ -898,7 +972,8 @@
       "ICON": "SKL_20601_TwinNock",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 20602,
@@ -910,7 +985,8 @@
       "ICON": "SKL_20602_RapidFire",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 20603,
@@ -922,7 +998,8 @@
       "ICON": "SKL_20603_TakeAim",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 20604,
@@ -934,7 +1011,8 @@
       "ICON": "SKL_20604_HeavyDraw",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 20605,
@@ -946,7 +1024,8 @@
       "ICON": "SKL_20605_FocusVolley",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 20606,
@@ -958,7 +1037,8 @@
       "ICON": "SKL_20606_Tailwind",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 20611,
@@ -970,7 +1050,8 @@
       "ICON": "SKL_20611_HomingArrow",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 20612,
@@ -982,7 +1063,8 @@
       "ICON": "SKL_20612_EchoString",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 20613,
@@ -994,7 +1076,8 @@
       "ICON": "SKL_20613_Ricochet",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 20614,
@@ -1006,7 +1089,8 @@
       "ICON": "SKL_20614_Boomerang",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 20621,
@@ -1018,7 +1102,8 @@
       "ICON": "SKL_20621_ShrapnelTip",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 20622,
@@ -1030,7 +1115,8 @@
       "ICON": "SKL_20622_ForkTip",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 20623,
@@ -1042,7 +1128,8 @@
       "ICON": "SKL_20623_SplitTip",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 20624,
@@ -1054,7 +1141,8 @@
       "ICON": "SKL_20624_HasteTip",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 20625,
@@ -1066,7 +1154,8 @@
       "ICON": "SKL_20625_TrophyTip",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 20631,
@@ -1078,7 +1167,8 @@
       "ICON": "SKL_20631_QuickLoad",
       "Series": 6,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 20801,
@@ -1090,7 +1180,8 @@
       "ICON": "SKL_20801_Handful",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 20802,
@@ -1102,7 +1193,8 @@
       "ICON": "SKL_20802_GlossyFeed",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 20803,
@@ -1114,7 +1206,8 @@
       "ICON": "SKL_20803_TrainingSnack",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 20804,
@@ -1126,7 +1219,8 @@
       "ICON": "SKL_20804_WildMeat",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 20805,
@@ -1138,7 +1232,8 @@
       "ICON": "SKL_20805_RichMeat",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 20806,
@@ -1150,7 +1245,8 @@
       "ICON": "SKL_20806_HunterJerky",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 20807,
@@ -1162,7 +1258,8 @@
       "ICON": "SKL_20807_WindFruit",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 20808,
@@ -1174,7 +1271,8 @@
       "ICON": "SKL_20808_HotSpice",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 20809,
@@ -1186,7 +1284,8 @@
       "ICON": "SKL_20809_SyncBreath",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 20810,
@@ -1198,7 +1297,8 @@
       "ICON": "SKL_20810_KingsFeast",
       "Series": 8,
       "RequireSeries": "",
-      "Character": 2
+      "Character": 2,
+      "Deprecated": ""
     },
     {
       "ID": 99001,
@@ -1210,7 +1310,8 @@
       "ICON": null,
       "Series": null,
       "RequireSeries": null,
-      "Character": null
+      "Character": null,
+      "Deprecated": null
     },
     {
       "ID": 99010,
@@ -1222,7 +1323,8 @@
       "ICON": "",
       "Series": "",
       "RequireSeries": "",
-      "Character": ""
+      "Character": "",
+      "Deprecated": ""
     },
     {
       "ID": 99011,
@@ -1234,7 +1336,8 @@
       "ICON": "",
       "Series": "",
       "RequireSeries": "",
-      "Character": ""
+      "Character": "",
+      "Deprecated": ""
     },
     {
       "ID": 99012,
@@ -1246,7 +1349,8 @@
       "ICON": "",
       "Series": "",
       "RequireSeries": "",
-      "Character": ""
+      "Character": "",
+      "Deprecated": ""
     },
     {
       "ID": 99013,
@@ -1258,7 +1362,8 @@
       "ICON": "",
       "Series": "",
       "RequireSeries": "",
-      "Character": ""
+      "Character": "",
+      "Deprecated": ""
     },
     {
       "ID": 99014,
@@ -1270,7 +1375,8 @@
       "ICON": "",
       "Series": "",
       "RequireSeries": "",
-      "Character": ""
+      "Character": "",
+      "Deprecated": ""
     },
     {
       "ID": 10701,
@@ -1282,7 +1388,8 @@
       "ICON": "ATK_10701_StraightFist",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3
+      "Character": 3,
+      "Deprecated": ""
     },
     {
       "ID": 10702,
@@ -1294,7 +1401,8 @@
       "ICON": "ATK_10702_ChainFists",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3
+      "Character": 3,
+      "Deprecated": ""
     },
     {
       "ID": 10705,
@@ -1306,7 +1414,8 @@
       "ICON": "ATK_10705_DoubleFist",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3
+      "Character": 3,
+      "Deprecated": ""
     },
     {
       "ID": 10703,
@@ -1318,7 +1427,8 @@
       "ICON": "ATK_10703_SweepFist",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3
+      "Character": 3,
+      "Deprecated": ""
     },
     {
       "ID": 10704,
@@ -1330,7 +1440,8 @@
       "ICON": "ATK_10704_PiercingHeart",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3
+      "Character": 3,
+      "Deprecated": ""
     },
     {
       "ID": 10706,
@@ -1342,7 +1453,8 @@
       "ICON": "ATK_10706_OneInch",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3
+      "Character": 3,
+      "Deprecated": ""
     },
     {
       "ID": 10711,
@@ -1354,7 +1466,8 @@
       "ICON": "ATK_10711_LowKick",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3
+      "Character": 3,
+      "Deprecated": ""
     },
     {
       "ID": 10713,
@@ -1366,7 +1479,8 @@
       "ICON": "ATK_10713_ThrustKick",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3
+      "Character": 3,
+      "Deprecated": ""
     },
     {
       "ID": 10712,
@@ -1378,7 +1492,8 @@
       "ICON": "ATK_10712_SweepKick",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3
+      "Character": 3,
+      "Deprecated": ""
     },
     {
       "ID": 10714,
@@ -1390,7 +1505,8 @@
       "ICON": "ATK_10714_GaleKick",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3
+      "Character": 3,
+      "Deprecated": ""
     },
     {
       "ID": 10716,
@@ -1402,7 +1518,8 @@
       "ICON": "ATK_10716_StompKick",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3
+      "Character": 3,
+      "Deprecated": ""
     },
     {
       "ID": 10717,
@@ -1414,7 +1531,8 @@
       "ICON": "ATK_10717_HammerKick",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3
+      "Character": 3,
+      "Deprecated": ""
     },
     {
       "ID": 10715,
@@ -1426,7 +1544,8 @@
       "ICON": "ATK_10715_CycloneKick",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3
+      "Character": 3,
+      "Deprecated": ""
     },
     {
       "ID": 10721,
@@ -1438,7 +1557,8 @@
       "ICON": "ATK_10721_CrushingFist",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3
+      "Character": 3,
+      "Deprecated": ""
     },
     {
       "ID": 10722,
@@ -1450,7 +1570,8 @@
       "ICON": "ATK_10722_StompQuake",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3
+      "Character": 3,
+      "Deprecated": ""
     },
     {
       "ID": 10723,
@@ -1462,7 +1583,8 @@
       "ICON": "ATK_10723_HundredFists",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3
+      "Character": 3,
+      "Deprecated": ""
     },
     {
       "ID": 10724,
@@ -1474,7 +1596,8 @@
       "ICON": "ATK_10724_ApexFist",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3
+      "Character": 3,
+      "Deprecated": ""
     },
     {
       "ID": 10725,
@@ -1486,7 +1609,8 @@
       "ICON": "ATK_10725_KiBlast",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3
+      "Character": 3,
+      "Deprecated": ""
     },
     {
       "ID": 20701,
@@ -1498,7 +1622,8 @@
       "ICON": "SKL_20701_QiGathering",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3
+      "Character": 3,
+      "Deprecated": ""
     },
     {
       "ID": 20702,
@@ -1510,7 +1635,8 @@
       "ICON": "SKL_20702_Kiai",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3
+      "Character": 3,
+      "Deprecated": ""
     },
     {
       "ID": 20703,
@@ -1522,7 +1648,8 @@
       "ICON": "SKL_20703_ShrinkStep",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3
+      "Character": 3,
+      "Deprecated": ""
     },
     {
       "ID": 20704,
@@ -1534,7 +1661,8 @@
       "ICON": "SKL_20704_AfterImage",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3
+      "Character": 3,
+      "Deprecated": ""
     },
     {
       "ID": 20705,
@@ -1546,7 +1674,580 @@
       "ICON": "SKL_20705_Unstoppable",
       "Series": 7,
       "RequireSeries": "",
-      "Character": 3
+      "Character": 3,
+      "Deprecated": ""
+    },
+    {
+      "ID": 10130,
+      "CardType": 1,
+      "CoolDown": 1.5,
+      "Tier": 1,
+      "Name": "CARD_10130",
+      "Desc": "CARD_10130_DESC",
+      "ICON": "ATK_10130_Firebolt",
+      "Series": "1,9",
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 10230,
+      "CardType": 1,
+      "CoolDown": 1.5,
+      "Tier": 1,
+      "Name": "CARD_10230",
+      "Desc": "CARD_10230_DESC",
+      "ICON": "ATK_10230_Icebolt",
+      "Series": "2,9",
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 10330,
+      "CardType": 1,
+      "CoolDown": 1.5,
+      "Tier": 1,
+      "Name": "CARD_10330",
+      "Desc": "CARD_10330_DESC",
+      "ICON": "ATK_10330_Lightningbolt",
+      "Series": "3,9",
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 10131,
+      "CardType": 1,
+      "CoolDown": 3,
+      "Tier": 1,
+      "Name": "CARD_10131",
+      "Desc": "CARD_10131_DESC",
+      "ICON": "ATK_10131_FlameCurtain",
+      "Series": 1,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 10132,
+      "CardType": 1,
+      "CoolDown": 2.25,
+      "Tier": 2,
+      "Name": "CARD_10132",
+      "Desc": "CARD_10132_DESC",
+      "ICON": "ATK_10132_BlazeBolt",
+      "Series": "1,9",
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 10231,
+      "CardType": 1,
+      "CoolDown": 2.25,
+      "Tier": 2,
+      "Name": "CARD_10231",
+      "Desc": "CARD_10231_DESC",
+      "ICON": "ATK_10231_FrozenBolt",
+      "Series": "2,9",
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 10331,
+      "CardType": 1,
+      "CoolDown": 2.25,
+      "Tier": 2,
+      "Name": "CARD_10331",
+      "Desc": "CARD_10331_DESC",
+      "ICON": "ATK_10331_ElectricBolt",
+      "Series": "3,9",
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 10232,
+      "CardType": 1,
+      "CoolDown": 2.25,
+      "Tier": 2,
+      "Name": "CARD_10232",
+      "Desc": "CARD_10232_DESC",
+      "ICON": "ATK_10232_FrostNova",
+      "Series": 2,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 10332,
+      "CardType": 1,
+      "CoolDown": 2.25,
+      "Tier": 2,
+      "Name": "CARD_10332",
+      "Desc": "CARD_10332_DESC",
+      "ICON": "ATK_10332_LightningWave",
+      "Series": "3,10",
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 10930,
+      "CardType": 1,
+      "CoolDown": 2.25,
+      "Tier": 2,
+      "Name": "CARD_10930",
+      "Desc": "CARD_10930_DESC",
+      "ICON": "ATK_10930_BoltEcho",
+      "Series": "9,10",
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 10233,
+      "CardType": 1,
+      "CoolDown": 2.25,
+      "Tier": 2,
+      "Name": "CARD_10233",
+      "Desc": "CARD_10233_DESC",
+      "ICON": "ATK_10233_FrostPath",
+      "Series": "2,10",
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 10133,
+      "CardType": 1,
+      "CoolDown": 4.5,
+      "Tier": 3,
+      "Name": "CARD_10133",
+      "Desc": "CARD_10133_DESC",
+      "ICON": "ATK_10133_Roimustang",
+      "Series": 1,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 10234,
+      "CardType": 1,
+      "CoolDown": 4.5,
+      "Tier": 3,
+      "Name": "CARD_10234",
+      "Desc": "CARD_10234_DESC",
+      "ICON": "ATK_10234_Shatter",
+      "Series": 2,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 10235,
+      "CardType": 1,
+      "CoolDown": 4.5,
+      "Tier": 3,
+      "Name": "CARD_10235",
+      "Desc": "CARD_10235_DESC",
+      "ICON": "ATK_10235_IcePrison",
+      "Series": 2,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 10333,
+      "CardType": 1,
+      "CoolDown": 4.5,
+      "Tier": 3,
+      "Name": "CARD_10333",
+      "Desc": "CARD_10333_DESC",
+      "ICON": "ATK_10333_Thunderclap",
+      "Series": "3,10",
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 10931,
+      "CardType": 1,
+      "CoolDown": 4.5,
+      "Tier": 3,
+      "Name": "CARD_10931",
+      "Desc": "CARD_10931_DESC",
+      "ICON": "ATK_10931_ElementalStorm",
+      "Series": 9,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 10932,
+      "CardType": 1,
+      "CoolDown": 4.5,
+      "Tier": 3,
+      "Name": "CARD_10932",
+      "Desc": "CARD_10932_DESC",
+      "ICON": "ATK_10932_FocusedBolt",
+      "Series": 9,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 10933,
+      "CardType": 1,
+      "CoolDown": 4.5,
+      "Tier": 3,
+      "Name": "CARD_10933",
+      "Desc": "CARD_10933_DESC",
+      "ICON": "ATK_10933_BoltRain",
+      "Series": 9,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 20030,
+      "CardType": 2,
+      "CoolDown": 0.75,
+      "Tier": 1,
+      "Name": "CARD_20030",
+      "Desc": "CARD_20030_DESC",
+      "ICON": "SKL_20030_Ignite",
+      "Series": 1,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 20031,
+      "CardType": 2,
+      "CoolDown": 0.75,
+      "Tier": 1,
+      "Name": "CARD_20031",
+      "Desc": "CARD_20031_DESC",
+      "ICON": "SKL_20031_ChillBoost",
+      "Series": 2,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 20032,
+      "CardType": 2,
+      "CoolDown": 0.75,
+      "Tier": 1,
+      "Name": "CARD_20032",
+      "Desc": "CARD_20032_DESC",
+      "ICON": "SKL_20032_StaticShock",
+      "Series": 3,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 20033,
+      "CardType": 2,
+      "CoolDown": 0.75,
+      "Tier": 1,
+      "Name": "CARD_20033",
+      "Desc": "CARD_20033_DESC",
+      "ICON": "SKL_20033_CurrentSpread",
+      "Series": 3,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 20034,
+      "CardType": 2,
+      "CoolDown": 0.75,
+      "Tier": 1,
+      "Name": "CARD_20034",
+      "Desc": "CARD_20034_DESC",
+      "ICON": "SKL_20034_BoltAdd",
+      "Series": 9,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 20035,
+      "CardType": 2,
+      "CoolDown": 0.75,
+      "Tier": 1,
+      "Name": "CARD_20035",
+      "Desc": "CARD_20035_DESC",
+      "ICON": "SKL_20035_BoltOrbit",
+      "Series": 9,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 20036,
+      "CardType": 2,
+      "CoolDown": 0.75,
+      "Tier": 1,
+      "Name": "CARD_20036",
+      "Desc": "CARD_20036_DESC",
+      "ICON": "SKL_20036_BoltPierce",
+      "Series": 9,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 20037,
+      "CardType": 2,
+      "CoolDown": 0.75,
+      "Tier": 1,
+      "Name": "CARD_20037",
+      "Desc": "CARD_20037_DESC",
+      "ICON": "SKL_20037_SwiftChant",
+      "Series": 10,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 20038,
+      "CardType": 2,
+      "CoolDown": 2.25,
+      "Tier": 1,
+      "Name": "CARD_20038",
+      "Desc": "CARD_20038_DESC",
+      "ICON": "SKL_20038_JustDraw",
+      "Series": 10,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 20039,
+      "CardType": 2,
+      "CoolDown": 3,
+      "Tier": 1,
+      "Name": "CARD_20039",
+      "Desc": "CARD_20039_DESC",
+      "ICON": "SKL_20039_AccelChant",
+      "Series": 10,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 20040,
+      "CardType": 2,
+      "CoolDown": 3,
+      "Tier": 1,
+      "Name": "CARD_20040",
+      "Desc": "CARD_20040_DESC",
+      "ICON": "SKL_20040_ManaCycle",
+      "Series": 10,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 20041,
+      "CardType": 2,
+      "CoolDown": 1.5,
+      "Tier": 2,
+      "Name": "CARD_20041",
+      "Desc": "CARD_20041_DESC",
+      "ICON": "SKL_20041_FreezeMark",
+      "Series": 2,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 20042,
+      "CardType": 2,
+      "CoolDown": 1.5,
+      "Tier": 2,
+      "Name": "CARD_20042",
+      "Desc": "CARD_20042_DESC",
+      "ICON": "SKL_20042_Superconduct",
+      "Series": "2,3",
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 20043,
+      "CardType": 2,
+      "CoolDown": 1.5,
+      "Tier": 2,
+      "Name": "CARD_20043",
+      "Desc": "CARD_20043_DESC",
+      "ICON": "SKL_20043_FireSpread",
+      "Series": "1,3",
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 20044,
+      "CardType": 2,
+      "CoolDown": 1.5,
+      "Tier": 2,
+      "Name": "CARD_20044",
+      "Desc": "CARD_20044_DESC",
+      "ICON": "SKL_20044_ChantLink",
+      "Series": 10,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 20045,
+      "CardType": 2,
+      "CoolDown": 1.5,
+      "Tier": 2,
+      "Name": "CARD_20045",
+      "Desc": "CARD_20045_DESC",
+      "ICON": "SKL_20045_Combustion",
+      "Series": 1,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 20046,
+      "CardType": 2,
+      "CoolDown": 1.5,
+      "Tier": 2,
+      "Name": "CARD_20046",
+      "Desc": "CARD_20046_DESC",
+      "ICON": "SKL_20046_DischargeStack",
+      "Series": 3,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 20047,
+      "CardType": 2,
+      "CoolDown": 1.5,
+      "Tier": 2,
+      "Name": "CARD_20047",
+      "Desc": "CARD_20047_DESC",
+      "ICON": "SKL_20047_BoltBurst",
+      "Series": 9,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 20048,
+      "CardType": 2,
+      "CoolDown": 1.5,
+      "Tier": 2,
+      "Name": "CARD_20048",
+      "Desc": "CARD_20048_DESC",
+      "ICON": "SKL_20048_Instant",
+      "Series": 10,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 20049,
+      "CardType": 2,
+      "CoolDown": 1.5,
+      "Tier": 2,
+      "Name": "CARD_20049",
+      "Desc": "CARD_20049_DESC",
+      "ICON": "SKL_20049_HighRisk",
+      "Series": 10,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 20050,
+      "CardType": 2,
+      "CoolDown": 1.5,
+      "Tier": 2,
+      "Name": "CARD_20050",
+      "Desc": "CARD_20050_DESC",
+      "ICON": "SKL_20050_Reignite",
+      "Series": "1,10",
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 20051,
+      "CardType": 2,
+      "CoolDown": 1.5,
+      "Tier": 2,
+      "Name": "CARD_20051",
+      "Desc": "CARD_20051_DESC",
+      "ICON": "SKL_20051_ThunderMark",
+      "Series": 3,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 20052,
+      "CardType": 2,
+      "CoolDown": 1.5,
+      "Tier": 2,
+      "Name": "CARD_20052",
+      "Desc": "CARD_20052_DESC",
+      "ICON": "SKL_20052_FrenzyChant",
+      "Series": 10,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 20053,
+      "CardType": 2,
+      "CoolDown": 1.5,
+      "Tier": 2,
+      "Name": "CARD_20053",
+      "Desc": "CARD_20053_DESC",
+      "ICON": "SKL_20053_BoltSigil",
+      "Series": 9,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 20054,
+      "CardType": 2,
+      "CoolDown": 1.5,
+      "Tier": 2,
+      "Name": "CARD_20054",
+      "Desc": "CARD_20054_DESC",
+      "ICON": "SKL_20054_ReturningBolt",
+      "Series": 9,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 20055,
+      "CardType": 2,
+      "CoolDown": 45,
+      "Tier": 3,
+      "Name": "CARD_20055",
+      "Desc": "CARD_20055_DESC",
+      "ICON": "SKL_20055_Awaken",
+      "Series": 10,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
     }
   ]
 }

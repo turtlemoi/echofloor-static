@@ -9,7 +9,8 @@
       "EffectType": 2001,
       "Value1": 0,
       "Value2": 0,
-      "Character": 0
+      "Character": 0,
+      "Deprecated": null
     },
     {
       "ID": 2,
@@ -20,7 +21,8 @@
       "EffectType": 2002,
       "Value1": 25,
       "Value2": 0,
-      "Character": 0
+      "Character": 0,
+      "Deprecated": null
     },
     {
       "ID": 3,
@@ -31,7 +33,8 @@
       "EffectType": 2003,
       "Value1": 0,
       "Value2": 0,
-      "Character": 0
+      "Character": 0,
+      "Deprecated": null
     },
     {
       "ID": 4,
@@ -42,7 +45,8 @@
       "EffectType": 2004,
       "Value1": 0,
       "Value2": 0,
-      "Character": 0
+      "Character": 0,
+      "Deprecated": null
     },
     {
       "ID": 5,
@@ -53,7 +57,8 @@
       "EffectType": 2005,
       "Value1": 1,
       "Value2": 0,
-      "Character": 0
+      "Character": 0,
+      "Deprecated": null
     },
     {
       "ID": 6,
@@ -64,7 +69,8 @@
       "EffectType": 2006,
       "Value1": 1,
       "Value2": 0,
-      "Character": 0
+      "Character": 0,
+      "Deprecated": null
     },
     {
       "ID": 7,
@@ -75,7 +81,8 @@
       "EffectType": 2007,
       "Value1": 1,
       "Value2": 1,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": null
     },
     {
       "ID": 8,
@@ -86,7 +93,8 @@
       "EffectType": 2008,
       "Value1": 1,
       "Value2": 1,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": null
     },
     {
       "ID": 9,
@@ -97,7 +105,8 @@
       "EffectType": 2009,
       "Value1": 1018,
       "Value2": 1,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": null
     },
     {
       "ID": 10,
@@ -108,7 +117,8 @@
       "EffectType": 2010,
       "Value1": 1,
       "Value2": 3,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": null
     },
     {
       "ID": 11,
@@ -119,7 +129,8 @@
       "EffectType": 2011,
       "Value1": 1021,
       "Value2": 3,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": null
     },
     {
       "ID": 12,
@@ -130,7 +141,8 @@
       "EffectType": 2012,
       "Value1": 1,
       "Value2": 0,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 13,
@@ -141,7 +153,8 @@
       "EffectType": 2013,
       "Value1": 2,
       "Value2": 1,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 14,
@@ -152,7 +165,8 @@
       "EffectType": 2014,
       "Value1": 2,
       "Value2": 0,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 15,
@@ -163,7 +177,8 @@
       "EffectType": 2015,
       "Value1": 1,
       "Value2": 0,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 16,
@@ -174,7 +189,8 @@
       "EffectType": 2016,
       "Value1": 1,
       "Value2": 0,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 17,
@@ -185,7 +201,8 @@
       "EffectType": 2017,
       "Value1": 0.05,
       "Value2": 0,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 18,
@@ -196,7 +213,8 @@
       "EffectType": 2018,
       "Value1": 1,
       "Value2": 0,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 19,
@@ -207,7 +225,8 @@
       "EffectType": 2019,
       "Value1": 20,
       "Value2": 0,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 20,
@@ -218,7 +237,8 @@
       "EffectType": 2020,
       "Value1": 1,
       "Value2": 0,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 21,
@@ -229,7 +249,8 @@
       "EffectType": 2021,
       "Value1": 0,
       "Value2": 1,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 22,
@@ -240,7 +261,8 @@
       "EffectType": 2022,
       "Value1": 3,
       "Value2": 0,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 23,
@@ -251,7 +273,8 @@
       "EffectType": 2023,
       "Value1": 0,
       "Value2": 0,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": null
     },
     {
       "ID": 24,
@@ -262,7 +285,8 @@
       "EffectType": 2024,
       "Value1": 0,
       "Value2": 0,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": null
     },
     {
       "ID": 25,
@@ -273,7 +297,8 @@
       "EffectType": 2025,
       "Value1": 3,
       "Value2": 0,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 26,
@@ -284,7 +309,8 @@
       "EffectType": 2026,
       "Value1": 0,
       "Value2": 0,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 27,
@@ -295,7 +321,8 @@
       "EffectType": 2027,
       "Value1": 2,
       "Value2": 0,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 28,
@@ -306,7 +333,8 @@
       "EffectType": 2028,
       "Value1": 0,
       "Value2": 0,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 29,
@@ -317,7 +345,8 @@
       "EffectType": 2029,
       "Value1": 2,
       "Value2": 0,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 30,
@@ -328,7 +357,8 @@
       "EffectType": 2030,
       "Value1": 0,
       "Value2": 0,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 31,
@@ -339,7 +369,8 @@
       "EffectType": 2031,
       "Value1": 0,
       "Value2": 0,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 32,
@@ -350,7 +381,8 @@
       "EffectType": 2032,
       "Value1": 0,
       "Value2": 0,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 33,
@@ -361,7 +393,8 @@
       "EffectType": 104,
       "Value1": 0,
       "Value2": 0,
-      "Character": 0
+      "Character": 0,
+      "Deprecated": null
     },
     {
       "ID": 34,
@@ -372,7 +405,8 @@
       "EffectType": 105,
       "Value1": 40,
       "Value2": 0,
-      "Character": 0
+      "Character": 0,
+      "Deprecated": null
     },
     {
       "ID": 35,
@@ -383,7 +417,8 @@
       "EffectType": 107,
       "Value1": 0,
       "Value2": 0,
-      "Character": 0
+      "Character": 0,
+      "Deprecated": null
     },
     {
       "ID": 36,
@@ -394,7 +429,8 @@
       "EffectType": 201,
       "Value1": 0,
       "Value2": 0,
-      "Character": 0
+      "Character": 0,
+      "Deprecated": null
     },
     {
       "ID": 37,
@@ -405,7 +441,8 @@
       "EffectType": 301,
       "Value1": 20,
       "Value2": 0,
-      "Character": 0
+      "Character": 0,
+      "Deprecated": null
     },
     {
       "ID": 38,
@@ -416,7 +453,8 @@
       "EffectType": 501,
       "Value1": 20,
       "Value2": 0,
-      "Character": 0
+      "Character": 0,
+      "Deprecated": null
     },
     {
       "ID": 39,
@@ -427,7 +465,8 @@
       "EffectType": 502,
       "Value1": 0,
       "Value2": 0,
-      "Character": 0
+      "Character": 0,
+      "Deprecated": null
     },
     {
       "ID": 40,
@@ -438,7 +477,8 @@
       "EffectType": 503,
       "Value1": 0,
       "Value2": 0,
-      "Character": 0
+      "Character": 0,
+      "Deprecated": null
     },
     {
       "ID": 41,
@@ -449,7 +489,8 @@
       "EffectType": 505,
       "Value1": 0,
       "Value2": 0,
-      "Character": 0
+      "Character": 0,
+      "Deprecated": null
     },
     {
       "ID": 42,
@@ -460,7 +501,8 @@
       "EffectType": 1001,
       "Value1": 1,
       "Value2": 1,
-      "Character": 0
+      "Character": 0,
+      "Deprecated": null
     },
     {
       "ID": 43,
@@ -471,7 +513,8 @@
       "EffectType": 1008,
       "Value1": 0,
       "Value2": 0,
-      "Character": 0
+      "Character": 0,
+      "Deprecated": null
     },
     {
       "ID": 44,
@@ -482,7 +525,8 @@
       "EffectType": 1301,
       "Value1": 0,
       "Value2": 0,
-      "Character": 0
+      "Character": 0,
+      "Deprecated": null
     },
     {
       "ID": 45,
@@ -493,7 +537,8 @@
       "EffectType": 1302,
       "Value1": 0,
       "Value2": 0,
-      "Character": 0
+      "Character": 0,
+      "Deprecated": null
     },
     {
       "ID": 46,
@@ -504,7 +549,8 @@
       "EffectType": 1303,
       "Value1": 0,
       "Value2": 0,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": null
     },
     {
       "ID": 47,
@@ -515,7 +561,8 @@
       "EffectType": 1304,
       "Value1": 0,
       "Value2": 0,
-      "Character": 1
+      "Character": 1,
+      "Deprecated": 1
     },
     {
       "ID": 48,
@@ -526,7 +573,8 @@
       "EffectType": 1402,
       "Value1": 3,
       "Value2": 0,
-      "Character": 2
+      "Character": 2,
+      "Deprecated": null
     },
     {
       "ID": 49,
@@ -537,7 +585,8 @@
       "EffectType": 1403,
       "Value1": 80,
       "Value2": 0,
-      "Character": 2
+      "Character": 2,
+      "Deprecated": null
     },
     {
       "ID": 50,
@@ -548,7 +597,8 @@
       "EffectType": 1404,
       "Value1": 0,
       "Value2": 0,
-      "Character": 2
+      "Character": 2,
+      "Deprecated": null
     },
     {
       "ID": 51,
@@ -559,7 +609,8 @@
       "EffectType": 1405,
       "Value1": 10,
       "Value2": 0,
-      "Character": 2
+      "Character": 2,
+      "Deprecated": null
     },
     {
       "ID": 52,
@@ -570,7 +621,8 @@
       "EffectType": 1406,
       "Value1": 50,
       "Value2": 0,
-      "Character": 2
+      "Character": 2,
+      "Deprecated": null
     },
     {
       "ID": 53,
@@ -581,7 +633,8 @@
       "EffectType": 1407,
       "Value1": 1,
       "Value2": 0,
-      "Character": 2
+      "Character": 2,
+      "Deprecated": null
     },
     {
       "ID": 54,
@@ -592,7 +645,8 @@
       "EffectType": 1408,
       "Value1": 3,
       "Value2": 1,
-      "Character": 2
+      "Character": 2,
+      "Deprecated": null
     },
     {
       "ID": 55,
@@ -603,7 +657,8 @@
       "EffectType": 1410,
       "Value1": 2,
       "Value2": 0,
-      "Character": 2
+      "Character": 2,
+      "Deprecated": null
     },
     {
       "ID": 56,
@@ -614,7 +669,8 @@
       "EffectType": 1411,
       "Value1": 75,
       "Value2": 0,
-      "Character": 2
+      "Character": 2,
+      "Deprecated": null
     },
     {
       "ID": 58,
@@ -625,7 +681,8 @@
       "EffectType": 1415,
       "Value1": 1,
       "Value2": 0,
-      "Character": 2
+      "Character": 2,
+      "Deprecated": null
     },
     {
       "ID": 59,
@@ -636,7 +693,8 @@
       "EffectType": 1417,
       "Value1": 50,
       "Value2": 0,
-      "Character": 2
+      "Character": 2,
+      "Deprecated": null
     },
     {
       "ID": 60,
@@ -647,7 +705,8 @@
       "EffectType": 1420,
       "Value1": 40,
       "Value2": 15,
-      "Character": 2
+      "Character": 2,
+      "Deprecated": null
     },
     {
       "ID": 62,
@@ -658,7 +717,8 @@
       "EffectType": 1426,
       "Value1": 50,
       "Value2": 40,
-      "Character": 2
+      "Character": 2,
+      "Deprecated": null
     },
     {
       "ID": 63,
@@ -669,7 +729,8 @@
       "EffectType": 1427,
       "Value1": 30,
       "Value2": 80,
-      "Character": 2
+      "Character": 2,
+      "Deprecated": null
     },
     {
       "ID": 64,
@@ -680,7 +741,8 @@
       "EffectType": 1501,
       "Value1": 40,
       "Value2": 0,
-      "Character": 2
+      "Character": 2,
+      "Deprecated": null
     },
     {
       "ID": 65,
@@ -691,7 +753,8 @@
       "EffectType": 1502,
       "Value1": 50,
       "Value2": 0,
-      "Character": 2
+      "Character": 2,
+      "Deprecated": null
     },
     {
       "ID": 66,
@@ -702,7 +765,8 @@
       "EffectType": 1503,
       "Value1": 1,
       "Value2": 0,
-      "Character": 2
+      "Character": 2,
+      "Deprecated": null
     },
     {
       "ID": 67,
@@ -713,7 +777,8 @@
       "EffectType": 1504,
       "Value1": 1,
       "Value2": 0,
-      "Character": 2
+      "Character": 2,
+      "Deprecated": null
     },
     {
       "ID": 68,
@@ -724,7 +789,8 @@
       "EffectType": 1505,
       "Value1": 0,
       "Value2": 0,
-      "Character": 2
+      "Character": 2,
+      "Deprecated": null
     },
     {
       "ID": 69,
@@ -735,7 +801,8 @@
       "EffectType": 1506,
       "Value1": 8,
       "Value2": 0,
-      "Character": 2
+      "Character": 2,
+      "Deprecated": null
     },
     {
       "ID": 70,
@@ -746,7 +813,8 @@
       "EffectType": 1508,
       "Value1": 40,
       "Value2": 0,
-      "Character": 2
+      "Character": 2,
+      "Deprecated": null
     },
     {
       "ID": 71,
@@ -757,7 +825,8 @@
       "EffectType": 1510,
       "Value1": 1,
       "Value2": 0,
-      "Character": 2
+      "Character": 2,
+      "Deprecated": null
     },
     {
       "ID": 72,
@@ -768,7 +837,8 @@
       "EffectType": 1511,
       "Value1": 1,
       "Value2": 0,
-      "Character": 2
+      "Character": 2,
+      "Deprecated": null
     },
     {
       "ID": 73,
@@ -779,7 +849,8 @@
       "EffectType": 1512,
       "Value1": 1,
       "Value2": 0,
-      "Character": 2
+      "Character": 2,
+      "Deprecated": null
     },
     {
       "ID": 74,
@@ -790,7 +861,8 @@
       "EffectType": 1513,
       "Value1": 1,
       "Value2": 0,
-      "Character": 2
+      "Character": 2,
+      "Deprecated": null
     },
     {
       "ID": 76,
@@ -801,7 +873,224 @@
       "EffectType": 1515,
       "Value1": 25,
       "Value2": 0,
-      "Character": 2
+      "Character": 2,
+      "Deprecated": null
+    },
+    {
+      "ID": 77,
+      "Tier": 1,
+      "AugmentName": "AUG_NAME_77",
+      "AugmentDesc": "AUG_DESC_77",
+      "Icon": "Aug_OrbitRelease",
+      "EffectType": 1601,
+      "Value1": 0.8,
+      "Value2": 0,
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 78,
+      "Tier": 1,
+      "AugmentName": "AUG_NAME_78",
+      "AugmentDesc": "AUG_DESC_78",
+      "Icon": "Aug_SwiftBolt",
+      "EffectType": 1602,
+      "Value1": 50,
+      "Value2": 10,
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 79,
+      "Tier": 1,
+      "AugmentName": "AUG_NAME_79",
+      "AugmentDesc": "AUG_DESC_79",
+      "Icon": "Aug_ChainChant",
+      "EffectType": 1603,
+      "Value1": 2,
+      "Value2": 0,
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 80,
+      "Tier": 1,
+      "AugmentName": "AUG_NAME_80",
+      "AugmentDesc": "AUG_DESC_80",
+      "Icon": "Aug_Blaze",
+      "EffectType": 1604,
+      "Value1": 8,
+      "Value2": 2,
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 81,
+      "Tier": 1,
+      "AugmentName": "AUG_NAME_81",
+      "AugmentDesc": "AUG_DESC_81",
+      "Icon": "Aug_FrostStep",
+      "EffectType": 1605,
+      "Value1": 1,
+      "Value2": 0,
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 82,
+      "Tier": 1,
+      "AugmentName": "AUG_NAME_82",
+      "AugmentDesc": "AUG_DESC_82",
+      "Icon": "Aug_Leakage",
+      "EffectType": 1606,
+      "Value1": 5,
+      "Value2": 0,
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 83,
+      "Tier": 2,
+      "AugmentName": "AUG_NAME_83",
+      "AugmentDesc": "AUG_DESC_83",
+      "Icon": "Aug_RicochetBolt",
+      "EffectType": 1607,
+      "Value1": 3,
+      "Value2": 0,
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 84,
+      "Tier": 2,
+      "AugmentName": "AUG_NAME_84",
+      "AugmentDesc": "AUG_DESC_84",
+      "Icon": "Aug_EchoAccel",
+      "EffectType": 1608,
+      "Value1": 0.5,
+      "Value2": 0,
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 85,
+      "Tier": 2,
+      "AugmentName": "AUG_NAME_85",
+      "AugmentDesc": "AUG_DESC_85",
+      "Icon": "Aug_OverheatCircuit",
+      "EffectType": 1609,
+      "Value1": 25,
+      "Value2": 3,
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 86,
+      "Tier": 2,
+      "AugmentName": "AUG_NAME_86",
+      "AugmentDesc": "AUG_DESC_86",
+      "Icon": "Aug_ChainIgnite",
+      "EffectType": 1610,
+      "Value1": 0,
+      "Value2": 0,
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 87,
+      "Tier": 2,
+      "AugmentName": "AUG_NAME_87",
+      "AugmentDesc": "AUG_DESC_87",
+      "Icon": "Aug_Superheat",
+      "EffectType": 1611,
+      "Value1": 50,
+      "Value2": 0,
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 88,
+      "Tier": 2,
+      "AugmentName": "AUG_NAME_88",
+      "AugmentDesc": "AUG_DESC_88",
+      "Icon": "Aug_ColdWave",
+      "EffectType": 1612,
+      "Value1": 1,
+      "Value2": 5,
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 89,
+      "Tier": 2,
+      "AugmentName": "AUG_NAME_89",
+      "AugmentDesc": "AUG_DESC_89",
+      "Icon": "Aug_AbsoluteZero",
+      "EffectType": 1613,
+      "Value1": 3,
+      "Value2": 0,
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 90,
+      "Tier": 2,
+      "AugmentName": "AUG_NAME_90",
+      "AugmentDesc": "AUG_DESC_90",
+      "Icon": "Aug_ChainReaction",
+      "EffectType": 1614,
+      "Value1": 3,
+      "Value2": 0,
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 91,
+      "Tier": 2,
+      "AugmentName": "AUG_NAME_91",
+      "AugmentDesc": "AUG_DESC_91",
+      "Icon": "Aug_ThunderStrike",
+      "EffectType": 1615,
+      "Value1": 30,
+      "Value2": 3,
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 92,
+      "Tier": 3,
+      "AugmentName": "AUG_NAME_92",
+      "AugmentDesc": "AUG_DESC_92",
+      "Icon": "Aug_BoltBlackhole",
+      "EffectType": 1616,
+      "Value1": 3,
+      "Value2": 5,
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 93,
+      "Tier": 3,
+      "AugmentName": "AUG_NAME_93",
+      "AugmentDesc": "AUG_DESC_93",
+      "Icon": "Aug_Plasma",
+      "EffectType": 1617,
+      "Value1": 2,
+      "Value2": 0,
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 94,
+      "Tier": 3,
+      "AugmentName": "AUG_NAME_94",
+      "AugmentDesc": "AUG_DESC_94",
+      "Icon": "Aug_FrostCirculate",
+      "EffectType": 1618,
+      "Value1": 1,
+      "Value2": 1,
+      "Character": 1,
+      "Deprecated": 0
     }
   ]
 }
