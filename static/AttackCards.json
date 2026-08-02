@@ -1591,7 +1591,7 @@
       "AttackType": 23,
       "PrefabName": "FistStrike",
       "BaseDamage": 620,
-      "AttackRange": 1,
+      "AttackRange": 1.5,
       "Knockback": 0.5,
       "Value1": 0.8,
       "Value2": 1,
