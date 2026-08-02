@@ -1691,32 +1691,6 @@
       "Deprecated": 0
     },
     {
-      "ID": 10230,
-      "CardType": 1,
-      "CoolDown": 1.5,
-      "Tier": 1,
-      "Name": "CARD_10230",
-      "Desc": "CARD_10230_DESC",
-      "ICON": "ATK_10230_Icebolt",
-      "Series": "2,9",
-      "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 0
-    },
-    {
-      "ID": 10330,
-      "CardType": 1,
-      "CoolDown": 1.5,
-      "Tier": 1,
-      "Name": "CARD_10330",
-      "Desc": "CARD_10330_DESC",
-      "ICON": "ATK_10330_Lightningbolt",
-      "Series": "3,9",
-      "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 0
-    },
-    {
       "ID": 10131,
       "CardType": 1,
       "CoolDown": 3,
@@ -1743,6 +1717,32 @@
       "Deprecated": 0
     },
     {
+      "ID": 10133,
+      "CardType": 1,
+      "CoolDown": 4.5,
+      "Tier": 3,
+      "Name": "CARD_10133",
+      "Desc": "CARD_10133_DESC",
+      "ICON": "ATK_10133_Roimustang",
+      "Series": 1,
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 10230,
+      "CardType": 1,
+      "CoolDown": 1.5,
+      "Tier": 1,
+      "Name": "CARD_10230",
+      "Desc": "CARD_10230_DESC",
+      "ICON": "ATK_10230_Icebolt",
+      "Series": "2,9",
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
       "ID": 10231,
       "CardType": 1,
       "CoolDown": 2.25,
@@ -1751,19 +1751,6 @@
       "Desc": "CARD_10231_DESC",
       "ICON": "ATK_10231_FrozenBolt",
       "Series": "2,9",
-      "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 0
-    },
-    {
-      "ID": 10331,
-      "CardType": 1,
-      "CoolDown": 2.25,
-      "Tier": 2,
-      "Name": "CARD_10331",
-      "Desc": "CARD_10331_DESC",
-      "ICON": "ATK_10331_ElectricBolt",
-      "Series": "3,9",
       "RequireSeries": "",
       "Character": 1,
       "Deprecated": 0
@@ -1782,32 +1769,6 @@
       "Deprecated": 0
     },
     {
-      "ID": 10332,
-      "CardType": 1,
-      "CoolDown": 2.25,
-      "Tier": 2,
-      "Name": "CARD_10332",
-      "Desc": "CARD_10332_DESC",
-      "ICON": "ATK_10332_LightningWave",
-      "Series": "3,10",
-      "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 0
-    },
-    {
-      "ID": 10930,
-      "CardType": 1,
-      "CoolDown": 2.25,
-      "Tier": 2,
-      "Name": "CARD_10930",
-      "Desc": "CARD_10930_DESC",
-      "ICON": "ATK_10930_BoltEcho",
-      "Series": "9,10",
-      "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 0
-    },
-    {
       "ID": 10233,
       "CardType": 1,
       "CoolDown": 2.25,
@@ -1816,19 +1777,6 @@
       "Desc": "CARD_10233_DESC",
       "ICON": "ATK_10233_FrostPath",
       "Series": "2,10",
-      "RequireSeries": "",
-      "Character": 1,
-      "Deprecated": 0
-    },
-    {
-      "ID": 10133,
-      "CardType": 1,
-      "CoolDown": 4.5,
-      "Tier": 3,
-      "Name": "CARD_10133",
-      "Desc": "CARD_10133_DESC",
-      "ICON": "ATK_10133_Roimustang",
-      "Series": 1,
       "RequireSeries": "",
       "Character": 1,
       "Deprecated": 0
@@ -1860,6 +1808,45 @@
       "Deprecated": 0
     },
     {
+      "ID": 10330,
+      "CardType": 1,
+      "CoolDown": 1.5,
+      "Tier": 1,
+      "Name": "CARD_10330",
+      "Desc": "CARD_10330_DESC",
+      "ICON": "ATK_10330_Lightningbolt",
+      "Series": "3,9",
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 10331,
+      "CardType": 1,
+      "CoolDown": 2.25,
+      "Tier": 2,
+      "Name": "CARD_10331",
+      "Desc": "CARD_10331_DESC",
+      "ICON": "ATK_10331_ElectricBolt",
+      "Series": "3,9",
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 10332,
+      "CardType": 1,
+      "CoolDown": 2.25,
+      "Tier": 2,
+      "Name": "CARD_10332",
+      "Desc": "CARD_10332_DESC",
+      "ICON": "ATK_10332_LightningWave",
+      "Series": "3,10",
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
       "ID": 10333,
       "CardType": 1,
       "CoolDown": 4.5,
@@ -1868,6 +1855,19 @@
       "Desc": "CARD_10333_DESC",
       "ICON": "ATK_10333_Thunderclap",
       "Series": "3,10",
+      "RequireSeries": "",
+      "Character": 1,
+      "Deprecated": 0
+    },
+    {
+      "ID": 10930,
+      "CardType": 1,
+      "CoolDown": 2.25,
+      "Tier": 2,
+      "Name": "CARD_10930",
+      "Desc": "CARD_10930_DESC",
+      "ICON": "ATK_10930_BoltEcho",
+      "Series": "9,10",
       "RequireSeries": "",
       "Character": 1,
       "Deprecated": 0
