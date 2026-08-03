@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-03T10:07:42.221Z",
+  "updatedAt": "2026-08-03T10:20:30.676Z",
   "sheets": [
     {
       "name": "Common",
       "version": 61,
-      "hash": "a0c1a428769e646829e6d7a23d8ac022baa24e2ca957d766a2da1b9e6c3bf544",
+      "hash": "99bfa26c95f475933a1b216cba706184c19364475b0980e80f8c882f6cf1d862",
       "url": "/static/Common.json"
     },
     {
@@ -27,26 +27,26 @@
     },
     {
       "name": "Cards",
-      "version": 32,
-      "hash": "c95eb2115a3c9e645f5ab44dd1606ae05827ddf9565c96f5b44d7030d2d1a38c",
+      "version": 33,
+      "hash": "e115e7c0f339e2512c04a464256c9de10e263ca6d441b710ed4293d5606f5614",
       "url": "/static/Cards.json"
     },
     {
       "name": "AttackCards",
       "version": 97,
-      "hash": "91df6eb6720a1b0fee242ea7071c4a39f6394ff0849804686037ceee71cddc32",
+      "hash": "46dffef7160af73d261a37fe7a92450c52690d7e8a5b63b63f170e2b7c35561f",
       "url": "/static/AttackCards.json"
     },
     {
       "name": "AttackEffects",
       "version": 22,
-      "hash": "c5572aeabcd80ed49562a6d0ee6ee0cf2062a993c37469f859294d1850c55e1b",
+      "hash": "64bb3fb612c33c2e4dd59a7894030d2d89801cc1209fadc1fc73314e6ed3826d",
       "url": "/static/AttackEffects.json"
     },
     {
       "name": "SkillCards",
       "version": 11,
-      "hash": "6e8bd94e970b9003391981310ff1e24fbb9fbfadbeaa2544e53192fd07c913d1",
+      "hash": "25fb3745bfd95d18d31e2d37f10fb2a81316afe8db56e0f84a50c16d5023fbb0",
       "url": "/static/SkillCards.json"
     },
     {
@@ -64,13 +64,13 @@
     {
       "name": "Keyword",
       "version": 8,
-      "hash": "ed8a8a1e1bec23483fb52c95e1e5ff7517727f5f3afab366e65cd3684fde1c14",
+      "hash": "4b7d1bdc648e9185fa0bd2ad8eba128ac8b6fc79726fc55de548984beeae7c9a",
       "url": "/static/Keyword.json"
     },
     {
       "name": "Locale",
       "version": 50,
-      "hash": "a764a81022c166b8cb1311a21f920b3d19e77efda4f1250301ad1ffcddda33ab",
+      "hash": "57d4539e30970d40452b7bbfad7cdfda98f4af1189d48eb0504f88331604d682",
       "url": "/static/Locale.json"
     }
   ]

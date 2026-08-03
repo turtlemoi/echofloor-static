@@ -377,6 +377,22 @@
       "Value4": ""
     },
     {
+      "ID": 6206,
+      "EffectType": 3,
+      "Value1": 10706,
+      "Value2": 1,
+      "Value3": 0,
+      "Value4": ""
+    },
+    {
+      "ID": 6207,
+      "EffectType": 12,
+      "Value1": 2,
+      "Value2": 0,
+      "Value3": 0,
+      "Value4": ""
+    },
+    {
       "ID": 8001,
       "EffectType": 14,
       "Value1": 10,

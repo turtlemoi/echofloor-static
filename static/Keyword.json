@@ -61,11 +61,6 @@
       "DescKey": "KEYWORD_DESC_SATIETY"
     },
     {
-      "ID": "COMBO",
-      "NameKey": "KEYWORD_NAME_COMBO",
-      "DescKey": "KEYWORD_DESC_COMBO"
-    },
-    {
       "ID": "SPIRIT",
       "NameKey": "KEYWORD_NAME_SPIRIT",
       "DescKey": "KEYWORD_DESC_SPIRIT"

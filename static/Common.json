@@ -93,11 +93,7 @@
       "Value": "3"
     },
     {
-      "Key": "fighter_combo_grace",
-      "Value": "3"
-    },
-    {
-      "Key": "fighter_combo_per_spirit",
+      "Key": "fighter_spirit_max",
       "Value": "10"
     },
     {
