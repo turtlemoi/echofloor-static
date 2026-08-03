@@ -1895,7 +1895,7 @@
       "Tier": 2,
       "Element": 1,
       "AttackType": 1,
-      "PrefabName": "Fireball",
+      "PrefabName": "Skill_BoltProjectile",
       "BaseDamage": 250,
       "AttackRange": 10,
       "Knockback": 1,
