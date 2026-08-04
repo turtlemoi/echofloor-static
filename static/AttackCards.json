@@ -1877,7 +1877,7 @@
       "Tier": 1,
       "Element": 1,
       "AttackType": 5,
-      "PrefabName": "Skill_BoltProjectile",
+      "PrefabName": "BurnGround",
       "BaseDamage": 50,
       "AttackRange": 7,
       "Knockback": 0,
