@@ -3559,6 +3559,326 @@
       "Key": "KEYWORD_DESC_BURN",
       "ko": "1초마다 피해를 주며 일정 시간 지속됩니다.",
       "en": null
+    },
+    {
+      "Key": "AUG_NAME_95",
+      "ko": "축기",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_97",
+      "ko": "탄지",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_98",
+      "ko": "연탄",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_101",
+      "ko": "정중동",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_102",
+      "ko": "기폭",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_103",
+      "ko": "조식",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_104",
+      "ko": "만천화우",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_106",
+      "ko": "적공",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_108",
+      "ko": "연포",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_110",
+      "ko": "파고",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_111",
+      "ko": "폭기",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_113",
+      "ko": "각성",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_116",
+      "ko": "환원",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_119",
+      "ko": "신수강림",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_125",
+      "ko": "축지성촌",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_126",
+      "ko": "연보",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_128",
+      "ko": "잔영보",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_129",
+      "ko": "답보",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_130",
+      "ko": "선공",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_132",
+      "ko": "축보",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_134",
+      "ko": "신법",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_137",
+      "ko": "웅력",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_140",
+      "ko": "집권",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_144",
+      "ko": "일권필살",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_149",
+      "ko": "연환각",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_152",
+      "ko": "광격",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_153",
+      "ko": "직도",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_154",
+      "ko": "천족",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_157",
+      "ko": "태극",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_158",
+      "ko": "양의",
+      "en": null
+    },
+    {
+      "Key": "AUG_NAME_166",
+      "ko": "반격",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_95",
+      "ko": "공격 카드를 사용할 때마다 투기를 {0} 추가로 얻습니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_97",
+      "ko": "기탄의 피해가 {0}% 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_98",
+      "ko": "투기가 넘쳐 기탄이 나갈 때, 넘친 1당 기탄이 {0}발씩 날아갑니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_101",
+      "ko": "보유한 투기 1당 오의가 아닌 공격의 피해가 {0}% 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_102",
+      "ko": "기탄이 적에게 명중하면 기세를 {0} 얻습니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_103",
+      "ko": "스킬 카드를 사용해도 투기를 {0} 얻습니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_104",
+      "ko": "전진타가 발동하면 보유한 투기 1당 기탄을 {0}발 발사합니다. 투기는 소모되지 않습니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_106",
+      "ko": "적을 처치하면 기세를 {0} 얻습니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_108",
+      "ko": "사자후 발동에 필요한 기세가 {0} 줄어듭니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_110",
+      "ko": "사자후의 반경이 {0} 늘어납니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_111",
+      "ko": "사자후가 터질 때 투기를 {0} 얻습니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_113",
+      "ko": "각(脚) 기술이 적에게 명중하면 기세를 {0} 얻습니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_116",
+      "ko": "오의가 소모한 투기의 {0}%를 즉시 돌려받습니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_119",
+      "ko": "오의를 발동하면 사자후가 함께 터집니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_125",
+      "ko": "대쉬 충전이 {0} 늘어납니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_126",
+      "ko": "대쉬 재충전 시간이 {0}% 줄어듭니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_128",
+      "ko": "전진타가 발동될 때마다 그림자가 같은 공격을 {0}회 반복합니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_129",
+      "ko": "대쉬가 끝나면 기세를 {0} 얻습니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_130",
+      "ko": "전진타가 발동하면 투기를 {0} 추가로 얻습니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_132",
+      "ko": "준비된 카드가 없어도 전진타가 손패의 공격 카드 한 장을 대신 발동합니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_134",
+      "ko": "대쉬가 끝나면 대쉬 충전 한 칸이 즉시 회복됩니다. 연속 {0}회까지 이어집니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_137",
+      "ko": "웅장권이 {0}티어 이하의 권(拳) 기술까지 함께 발동합니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_140",
+      "ko": "권(拳) 카드를 사용해도 {0}% 확률로 사용 더미로 가지 않고 손패에 남습니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_144",
+      "ko": "권(拳) 기술을 발동하면 손패의 모든 권 기술이 함께 발동합니다. 오의는 제외됩니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_149",
+      "ko": "비연각·학익각·응조각의 연쇄가 사용 더미에 있는 카드까지 찾아 발동합니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_152",
+      "ko": "부채꼴·원형 판정의 크기가 {0}% 커집니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_153",
+      "ko": "직선·돌진 판정의 길이가 {0}% 길어집니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_154",
+      "ko": "각(脚) 기술을 발동하면 {0}% 확률로 한 번 더 발동합니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_157",
+      "ko": "전투를 시작할 때 덱 전체의 공격 카드가 무형이 되어 권과 각 양쪽으로 세어집니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_158",
+      "ko": "권과 각을 각각 {0}종 이상 가지고 있으면 모든 피해가 {1}% 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "AUG_DESC_166",
+      "ko": "적에게 피격당하면 사자후가 즉시 터집니다. {0}초마다 한 번만 발동합니다.",
+      "en": null
+    },
+    {
+      "Key": "KEYWORD_NAME_KIBOLT",
+      "ko": "기탄",
+      "en": null
+    },
+    {
+      "Key": "KEYWORD_DESC_KIBOLT",
+      "ko": "투기가 최대치를 넘으면 넘친 1당 한 발씩 등 뒤의 기 원반이 떨어져 나가 가장 가까운 적에게 날아갑니다.",
+      "en": null
     }
   ]
 }

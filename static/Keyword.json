@@ -104,6 +104,11 @@
       "ID": "BOLT",
       "NameKey": "KEYWORD_NAME_BOLT",
       "DescKey": "KEYWORD_DESC_BOLT"
+    },
+    {
+      "ID": "KIBOLT",
+      "NameKey": "KEYWORD_NAME_KIBOLT",
+      "DescKey": "KEYWORD_DESC_KIBOLT"
     }
   ]
 }
