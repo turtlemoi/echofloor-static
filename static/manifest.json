@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T11:02:20.423Z",
+  "updatedAt": "2026-08-04T12:08:32.650Z",
   "sheets": [
     {
       "name": "Common",
@@ -33,8 +33,8 @@
     },
     {
       "name": "AttackCards",
-      "version": 102,
-      "hash": "ba88eb638274fe9abc24d4af7fb24203c6a67ce1d712b3e10c6bd99430fe619c",
+      "version": 103,
+      "hash": "ab92ee6c9155ad69da2fbb79fd14cdd386a98d50d5326ef52290e89bfae454c6",
       "url": "/static/AttackCards.json"
     },
     {
